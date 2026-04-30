@@ -7,7 +7,7 @@ const git = simpleGit(); // proje root klasöründe çalışacak
 async function gitPushLogs() {
   try {
     const logDir = path.join(__dirname, "logs");
-    await git.add(`${logDir}/*`);
+    await git.add(logDir);
     const status = await git.status();
 
     if (status.staged.length === 0) {

@@ -61,7 +61,7 @@ function logJoin(message) {
 }
 
 function logLeave(message) {
-  write(message, "join");
+  write(message, "leave");
 }
 
 function logGame(message) {
