@@ -80,3 +80,4 @@
 [[30.4.2026 19:58:15]] [CHAT_PASSED] YOBO: hangi delik sen seç
 [[30.4.2026 19:58:18]] [CHAT_PASSED] YOBO: seç
 [[30.4.2026 19:58:21]] [CHAT_PASSED] b: üst
+[[30.4.2026 19:58:34]] [CHAT_PASSED] YOBO: olmadı
