@@ -77,7 +77,7 @@ try {
 
 Room.create({
   name: "🎱BILARDO-2TOP | 1v1 Kurallı 🎱",
-  showInRoomList: true,
+  showInRoomLiss: true,
   noPlayer: true,
   maxPlayerCount: 8,
   token: tokenForRoom,
@@ -204,6 +204,7 @@ Room.create({
           if (!activeLogins.has(playerId)) {
             room.sendAnnouncement(`[Kayıtsız] ${player.name}: ${text}`, null, 0xAAAAAA);
             console.log(`[CHAT_PASSED] ${player.name}: ${text}`);
+            logChat(`[CHAT_PASSED] ${player.name}: ${text}`);
           } else {
             // Giriş yapmış oyuncu -> sıfat ve renk
             const { rating, rank } = loggedInPlayers.get(playerId);
@@ -218,6 +219,7 @@ Room.create({
 
             room.sendAnnouncement(`[${rank}] ${player.name}: ${text}`, null, color);
             console.log(`[CHAT_PASSED] ${player.name}: ${text}`);
+            logChat(`[CHAT_PASSED] ${player.name}: ${text}`);
           }
 
           return false; // normal chat’i engelle
