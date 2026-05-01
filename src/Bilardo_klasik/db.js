@@ -1,12 +1,12 @@
 const sqlite3 = require('sqlite3').verbose();
-const bcrypt = require('bcryptjs');
+const crypto = require('crypto');
 const db = new sqlite3.Database('./bilardo.db');
 
 // Tablo oluştur
 db.serialize(() => {
   db.run(`CREATE TABLE IF NOT EXISTS bilardo (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    password TEXT,
+    password TEXT UNIQUE,
     wins INTEGER DEFAULT 0,
     losses INTEGER DEFAULT 0,
     rating REAL DEFAULT 1000,
@@ -14,42 +14,32 @@ db.serialize(() => {
   )`);
 });
 
+function hashPassword(password) {
+  return crypto.createHash('sha256').update(password).digest('hex');
+}
+
 // !register
 function registerUser(password, callback) {
   if (!password) return callback(new Error("Şifre boş olamaz!"));
 
-  // Şifreyi hashle
-  bcrypt.hash(password, 10, (err, hashedPassword) => {
-    if (err) return callback(err);
+  const hashedPassword = hashPassword(password);
 
     // Kayıt ekle
     db.run('INSERT INTO bilardo (password) VALUES (?)', [hashedPassword], function(err2) {
       if (err2) return callback(err2);
       callback(null, { id: this.lastID }); // sadece id döner
     });
-  });
-}
+  };
 
 // !login
 function loginUser(password, callback) {
   if (!password) return callback(new Error("Şifre boş olamaz!"));
 
-  db.all('SELECT * FROM bilardo', [], async (err, rows) => {
+  const hash = hashPassword(password);
+
+  db.get('SELECT * FROM bilardo WHERE password = ?', [hash], (err, row) => {
     if (err) return callback(err);
-    if (!rows || rows.length === 0) return callback(null, false);
-
-    // Hashleri asenkron kontrol et
-    for (const row of rows) {
-      try {
-        const match = await bcrypt.compare(password, row.password);
-        if (match) return callback(null, row);
-      } catch (err) {
-        return callback(err);
-      }
-    }
-
-    // Hiçbiri uymadı
-    callback(null, false);
+    callback(null, row || false);
   });
 }
 
