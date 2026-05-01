@@ -1,2 +1,15 @@
 [[30.4.2026 14:23:17]] Oyun başlıyor, oyuncu isimleri: d, b
 [[30.4.2026 16:42:06]] Oyun başlıyor, oyuncu isimleri: b, oğuz
+[[30.4.2026 19:45:07]] Oyun başlıyor, oyuncu isimleri: b, YOBO
+[[30.4.2026 19:48:31]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: YOBO Kaybeden: b
+[[30.4.2026 19:51:49]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: b Kaybeden: YOBO
+[[30.4.2026 19:56:10]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: b Kaybeden: YOBO
+[[30.4.2026 20:03:11]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: b Kaybeden: YOBO
+[[30.4.2026 20:03:20]] Oyun başlıyor, oyuncu isimleri: b, YOBO
+[[30.4.2026 20:08:54]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: b Kaybeden: YOBO
+[[30.4.2026 20:17:13]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: b Kaybeden: YOBO
+[[30.4.2026 20:17:26]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: b Kaybeden: YOBO
+[[30.4.2026 23:16:33]] Oyun başlıyor, oyuncu isimleri: TermOS, KlimaX
+[[30.4.2026 23:25:06]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: KlimaX Kaybeden: TermOS
+[[30.4.2026 23:32:06]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: KlimaX Kaybeden: TermOS
+[[30.4.2026 23:32:26]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: TermOS Kaybeden: KlimaX
