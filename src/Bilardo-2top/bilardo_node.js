@@ -53,8 +53,8 @@ const { OperationType, VariableType, ConnectionState, AllowFlags, Direction, Col
 
 
 
-const BILARDO = fs.readFileSync("Bilardo2.hbs", "utf8");
-const WARMUP = fs.readFileSync("Bilardo2.hbs", "utf8");
+const BILARDO = fs.readFileSync("deneme.hbs", "utf8");
+const WARMUP = fs.readFileSync("deneme.hbs", "utf8");
 
 
 let Bilardo;

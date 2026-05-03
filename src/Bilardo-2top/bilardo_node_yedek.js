@@ -4,8 +4,7 @@ const fs = require("fs");
 
 
 
-const { registerUser, loginUser, getPlayerById, updateStatsById } = require('./db');
-const { write, logChat, logJoin, logLeave, logGame, logError } = require("./log");
+
 
 const { clear, log } = require('console');
 
@@ -53,8 +52,8 @@ const { OperationType, VariableType, ConnectionState, AllowFlags, Direction, Col
 
 
 
-const BILARDO = fs.readFileSync("Bilardo.hbs", "utf8");
-const WARMUP = fs.readFileSync("BilardoIsınma.hbs", "utf8");
+const BILARDO = fs.readFileSync("billiards.hbs", "utf8");
+const WARMUP = fs.readFileSync("billiards.hbs", "utf8");
 
 
 let Bilardo;
@@ -77,7 +76,7 @@ try {
 
 Room.create({
   name: "🎱BILARDO | 1v1 Kurallı 🎱",
-  showInRoomList: true,
+  showInRoomList: false,
   noPlayer: true,
   maxPlayerCount: 3,
   token: tokenForRoom,
@@ -94,8 +93,7 @@ Room.create({
     console.log("Room opened!");
     console.log("Alınan Token:", dynamicToken);
 
-    logError("Room opened!");
-    logError("Alınan token:", dynamicToken);
+  
     room.fakeSetTeamsLock(true);
 
     try {
@@ -205,7 +203,6 @@ Room.create({
 
           if (!activeLogins.has(playerId)) {
             room.sendAnnouncement(`[Kayıtsız] ${player.name}: ${text}`, null, 0xAAAAAA);
-            logChat(`[CHAT_PASSED] ${player.name}: ${text}`);
             console.log(`[CHAT_PASSED] ${player.name}: ${text}`);
           } else {
             // Giriş yapmış oyuncu -> sıfat ve renk
@@ -220,7 +217,6 @@ Room.create({
             else color = 0xFFD700; // Efsane -> altın
 
             room.sendAnnouncement(`[${rank}] ${player.name}: ${text}`, null, color);
-            logChat(`[CHAT_PASSED] ${player.name}: ${text}`);
             console.log(`[CHAT_PASSED] ${player.name}: ${text}`);
           }
 
@@ -528,14 +524,11 @@ Room.create({
             room.setPlayerAdmin(player.id, true);
             // Özel anons: sadece ilgili oyuncuya göster
             room.sendAnnouncement("Artık admin oldun.", playerId);
-            logError(`!admin başarılı: ${player ? player.name : playerId} (${playerId})`);
           } catch (err) {
-            logError(`!admin hata: ${err.message}`);
           }
         } else {
           // Hatalı şifre: kullanıcıya özel uyarı
           room.sendAnnouncement("Hatalı admin şifresi.", playerId);
-          logError(`!admin başarısız: ${player ? player.name : playerId} (${playerId}) - hatalı şifre`);
         }
         // Komut işlendi — mesajın normal chat'e düşmesini engelle (return false)
         return false;
@@ -555,10 +548,8 @@ Room.create({
 
           try {
             room.kickPlayer(lastPlayer.id, "", true);
-            logError(`!banlast başarılı: ${player.name} (${playerId})`);
 
           } catch (err) {
-            logError(`!banlast hata: ${err.message}`);
           }
         } else {
           room.sendAnnouncement("Banlanacak kimse yok!", player.id);
@@ -695,10 +686,8 @@ Room.create({
                 try {
                   room.setCurrentStadium(Bilardo); // Burada stadium kesin yüklenecek
                   console.log("Bilardo map başarıyla yüklendi!");
-                  logGame("Oyun başlıyor, oyuncu isimleri: " + turnQueue.map(id => room.getPlayer(id)?.name || id).join(", "));
                 } catch (err) {
                   console.error("Stadium yükleme hatası:", err);
-                  logError(`Stadium yükleme hatası: ${err.message}`);
                 }
                 /* currentPlayer = turnQueue[0]; // sahadaki
                  const nextPlayer = turnQueue[1]; // spectator
@@ -745,10 +734,8 @@ Room.create({
               try {
                 room.setCurrentStadium(WarmUp); // Burada stadium kesin yüklenecek
                 console.log("Bilardo map başarıyla yüklendi!");
-                logGame("Bilardo map başarıyla yüklendi!");
               } catch (err) {
                 console.error("Stadium yükleme hatası:", err);
-                logGame(`Stadium yükleme hatası: ${err.message}`);
               }
 
               isWarmup = true;
@@ -771,10 +758,8 @@ Room.create({
               try {
                 room.setCurrentStadium(Bilardo); // Burada stadium kesin yüklenecek
                 console.log("Bilardo map başarıyla yüklendi!");
-                logGame("Oyun başlıyor, oyuncu isimleri: " + turnQueue.map(id => room.getPlayer(id)?.name || id).join(", "));
               } catch (err) {
                 console.error("Stadium yükleme hatası:", err);
-                logGame(`Stadium yükleme hatası: ${err.message}`);
               }
               currentPlayer = turnQueue[0]; // sahadaki
               const nextPlayer = turnQueue[1]; // spectator
@@ -926,7 +911,6 @@ Rating (Puan): ${ratingDisplay}`.trim();
 
     room.onPlayerJoin = (player) => {
       console.log(`${player.name} odaya katıldı.`);
-      logJoin(`${player.name} odaya katıldı.`);
 
       console.log("Pending AFK:", Array.from(pendingAfk));
 
@@ -957,10 +941,8 @@ Rating (Puan): ${ratingDisplay}`.trim();
         try {
           room.setCurrentStadium(WarmUp); // Burada stadium kesin yüklenecek
           console.log("Bilardo map başarıyla yüklendi!");
-          logGame("Bilardo map başarıyla yüklendi!");
         } catch (err) {
           console.error("Stadium yükleme hatası:", err);
-          logError(`Stadium yükleme hatası: ${err.message}`);
         }
 
         isWarmup = true;
@@ -983,10 +965,8 @@ Rating (Puan): ${ratingDisplay}`.trim();
         try {
           room.setCurrentStadium(Bilardo); // Burada stadium kesin yüklenecek
           console.log("Bilardo map başarıyla yüklendi!");
-          logGame("Oyun başlıyor, oyuncu isimleri: " + turnQueue.map(id => room.getPlayer(id)?.name || id).join(", "));
         } catch (err) {
           console.error("Stadium yükleme hatası:", err);
-          logError(`Stadium yükleme hatası: ${err.message}`);
         }
         currentPlayer = turnQueue[0]; // sahadaki
         const nextPlayer = turnQueue[1]; // spectator
@@ -1085,7 +1065,6 @@ Rating (Puan): ${ratingDisplay}`.trim();
 
             room.sendAnnouncement(`🏆 ${winnerObject.name} kayıtsız rakibi yendi!`, null, 0x00FF00);
             room.sendAnnouncement(` ${winnerObject.name} Rating: ${winnerData.rating || 1000} → ${newRating}`, null, 0x00FF00);
-            logGame('Oyun bitti, kazanan kayıtlı, kaybeden kayıtsız. Kazanan: ' + winnerObject.name + ' Kaybeden: ' + loserObject.name);
           });
         });
         return;
@@ -1106,7 +1085,6 @@ Rating (Puan): ${ratingDisplay}`.trim();
 
             room.sendAnnouncement(`⚠️ Kayıtsız oyuncu (${winnerObject.name}) kazandı. ${loserObject.name} puan kaybetti!`, null, 0xFFAA00);
             room.sendAnnouncement(` ☠️ ${loserObject.name} Rating: ${loserOldRating} → ${loserNewRating}`, null, 0xFF0000);
-            logGame('Oyun bitti, kazanan kayıtsız, kaybeden kayıtlı. Kazanan: ' + winnerObject.name + ' Kaybeden: ' + loserObject.name);
           });
         });
         return;
@@ -1117,7 +1095,6 @@ Rating (Puan): ${ratingDisplay}`.trim();
       // -----------------------------------------------------------
       if (!winnerDbId && !loserDbId) {
         room.sendAnnouncement(`⚠️ ${winnerObject.name} ve ${loserObject.name} kayıtsız oynadı. Rating değişimi yok. Kayıt ol: !register`, null, 0xFFAA00);
-        logGame('Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: ' + winnerObject.name + ' Kaybeden: ' + loserObject.name);
         return;
       }
 
@@ -1149,7 +1126,6 @@ Rating (Puan): ${ratingDisplay}`.trim();
 
                   room.sendAnnouncement(`🏆 ${winnerObject.name} Rating: ${winnerOldRating} → ${winnerNewRating}`, null, 0x00FF00);
                   room.sendAnnouncement(`💀 ${loserObject.name} Rating: ${loserOldRating} → ${loserNewRating}`, null, 0xFF0000);
-                  logGame('Oyun bitti, her iki oyuncu da kayıtlı. Kazanan: ' + winnerObject.name + ' Kaybeden: ' + loserObject.name + '. Rating değişimi: ' + ratingChange);
                 });
               });
             });
@@ -1228,11 +1204,8 @@ Rating (Puan): ${ratingDisplay}`.trim();
         try {
           room.setCurrentStadium(WarmUp); // Burada stadium kesin yüklenecek
           console.log("Bilardo map başarıyla yüklendi!");
-          logGame("Bilardo map başarıyla yüklendi!");
-          logGame("Odada tek oyuncu var, oyuncu adı: " + (room.getPlayer(turnQueue[0]) ? room.getPlayer(turnQueue[0]).name : turnQueue[0]));
         } catch (err) {
           console.error("Stadium yükleme hatası:", err);
-          logGame(`Stadium yükleme hatası: ${err.message}`);
         }
 
         isWarmup = true;
@@ -1317,7 +1290,6 @@ Rating (Puan): ${ratingDisplay}`.trim();
 
     room.onPlayerLeave = (player) => {
       console.log(`${player.name} odadan ayrıldı.`);
-      logLeave(`${player.name} odadan ayrıldı.`);
       console.log("Pending AFK:", Array.from(pendingAfk));
 
       const isAFK = pendingAfk.has(player.id);
@@ -1328,7 +1300,7 @@ Rating (Puan): ${ratingDisplay}`.trim();
       const wasCurrentPair = [turnQueue[0], turnQueue[1]].includes(player.id);
 
       if (wasCurrentPair && !isAFK) {
-        processPendingAfk();
+        processPendingAfk();s
         clearTimeout(black_whiteballcheck);
 
         // 1. Yerleştirme durumunu ve zamanlayıcıyı İPTAL ET
@@ -1599,7 +1571,6 @@ Rating (Puan): ${ratingDisplay}`.trim();
       const player = room.getPlayer(playerId);
 
       console.log(`${player.name} mesaj attı: ${message} `);
-      logChat(`${player.name} mesaj attı: ${message} `);
 
     }
 
