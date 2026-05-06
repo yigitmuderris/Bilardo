@@ -1664,11 +1664,10 @@ Rating (Puan): ${ratingDisplay}`.trim();
 
           }, 2500);
 
-          // Kaybedeni sahadan çıkar
-          room.setPlayerTeam(loserId, 0);
-          turnQueue = turnQueue.filter(id => id !== loserId);
-          turnQueue.push(loserId);
-          logTurnQueue();
+          // Kaybedeni kickle
+          
+          room.kickPlayer(loserObject.id, "Süre doldu", false);
+
 
 
           restartGame();
