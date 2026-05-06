@@ -77,7 +77,7 @@ try {
 
 Room.create({
   name: "🎱BILARDO-KLASİK | 1v1 Kurallı 🎱",
-  showInRoomList: false,
+  showInRoomList: true,
   noPlayer: true,
   maxPlayerCount: 4,
   token: tokenForRoom,
