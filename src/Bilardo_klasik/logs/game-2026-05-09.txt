@@ -76,3 +76,4 @@
 [[9.5.2026 23:41:19]] Oyun başlıyor, oyuncu isimleri: Ramoo, ys
 [[9.5.2026 23:44:01]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: ys Kaybeden: Ramoo
 [[9.5.2026 23:51:15]] Oyun başlıyor, oyuncu isimleri: koyunkuzu, karanlıkbiyerdebulbeni
+[[9.5.2026 23:52:14]] Oyun bitti, kazanan kayıtsız, kaybeden kayıtlı. Kazanan: koyunkuzu Kaybeden: karanlıkbiyerdebulbeni
