@@ -18,3 +18,4 @@
 [[9.5.2026 13:45:40]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: a Kaybeden: b
 [[9.5.2026 13:45:43]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: a Kaybeden: b
 [[9.5.2026 13:50:50]] Bilardo map başarıyla yüklendi!
+[[9.5.2026 13:50:57]] Oyun başlıyor, oyuncu isimleri: a, b
