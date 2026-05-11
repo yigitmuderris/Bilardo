@@ -30,3 +30,4 @@
 [[11.5.2026 13:22:07]] Oyun başlıyor, oyuncu isimleri: Automata, duran
 [[11.5.2026 13:24:43]] Bilardo map başarıyla yüklendi!
 [[11.5.2026 13:40:57]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: duran Kaybeden: Automata
+[[11.5.2026 13:41:04]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: Automata Kaybeden: duran
