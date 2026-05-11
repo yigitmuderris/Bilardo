@@ -88,3 +88,4 @@
 [[11.5.2026 13:37:55]] [CHAT_PASSED] Automata: o kadar da ayarlama yaptım
 [[11.5.2026 13:38:06]] [CHAT_PASSED] Automata: aha
 [[11.5.2026 13:38:17]] [CHAT_PASSED] duran: girer mi
+[[11.5.2026 13:38:26]] [CHAT_PASSED] duran: topa değme
