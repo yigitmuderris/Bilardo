@@ -64,3 +64,4 @@
 [[11.5.2026 20:15:06]] Oyun başlıyor, oyuncu isimleri: a, b
 [[11.5.2026 20:17:26]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: b Kaybeden: a
 [[11.5.2026 20:19:09]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: a Kaybeden: b
+[[11.5.2026 20:19:12]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: a Kaybeden: b
