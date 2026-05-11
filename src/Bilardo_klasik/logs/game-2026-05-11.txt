@@ -68,3 +68,4 @@
 [[11.5.2026 21:42:01]] Oyun başlıyor, oyuncu isimleri: efe, Ben
 [[11.5.2026 21:45:09]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: Ben Kaybeden: efe
 [[11.5.2026 21:51:00]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: efe Kaybeden: Ben
+[[11.5.2026 21:58:01]] Bilardo map başarıyla yüklendi!
