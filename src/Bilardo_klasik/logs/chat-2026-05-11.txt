@@ -11,3 +11,5 @@
 [[11.5.2026 13:22:10]] [CHAT_PASSED] duran: sa
 [[11.5.2026 13:22:11]] [CHAT_PASSED] Automata: as
 [[11.5.2026 13:22:15]] [CHAT_PASSED] duran: şarja takıp geliyom
+[[11.5.2026 13:22:16]] [CHAT_PASSED] Automata: oke
+[[11.5.2026 13:22:17]] [CHAT_PASSED] duran: pcyi
