@@ -40,3 +40,4 @@
 [[11.5.2026 13:30:44]] [CHAT_PASSED] Automata: PU
 [[11.5.2026 13:30:46]] [CHAT_PASSED] duran: ankarada mı yaşıyon
 [[11.5.2026 13:30:51]] [CHAT_PASSED] Automata: yok ist
+[[11.5.2026 13:31:48]] [CHAT_PASSED] Automata: topların daha büyük olması lazımmış ya ayarlanmıyo
