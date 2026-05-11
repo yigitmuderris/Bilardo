@@ -196,3 +196,4 @@
 [[11.5.2026 20:03:30]] [CHAT_PASSED] -cx-: as
 [[11.5.2026 20:03:33]] [CHAT_PASSED] -cx-: kız mısın
 [[11.5.2026 20:03:37]] [CHAT_PASSED] mıyala: yok
+[[11.5.2026 20:03:41]] [CHAT_PASSED] -cx-: kızsın yalan söyleme
