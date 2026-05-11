@@ -42,3 +42,4 @@
 [[11.5.2026 13:30:51]] [CHAT_PASSED] Automata: yok ist
 [[11.5.2026 13:31:48]] [CHAT_PASSED] Automata: topların daha büyük olması lazımmış ya ayarlanmıyo
 [[11.5.2026 13:31:59]] [CHAT_PASSED] duran: aşağı vur
+[[11.5.2026 13:32:04]] [CHAT_PASSED] duran: pna vurma
