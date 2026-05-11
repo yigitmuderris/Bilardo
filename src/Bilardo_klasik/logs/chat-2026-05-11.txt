@@ -98,3 +98,4 @@
 [[11.5.2026 13:39:49]] [CHAT_PASSED] Automata: sol alt
 [[11.5.2026 13:39:58]] [CHAT_PASSED] Automata: sol üstü seçtin
 [[11.5.2026 13:40:00]] [CHAT_PASSED] duran: evet
+[[11.5.2026 13:40:08]] [CHAT_PASSED] duran: olmadı
