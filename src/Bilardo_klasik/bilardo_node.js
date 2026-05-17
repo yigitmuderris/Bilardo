@@ -153,6 +153,23 @@ Room.create({
 
 
 
+    // Oyundaki oyunculara düzenli olarak tavsiye ver 
+
+    var tips = ["💡Toplara daha dengeli yön vermek için daha yavaş vurabilirsin!"
+      , "💡Beyaz çizginin uzunluğuna göre topun şiddetini ayarlayabildiğini unutma!"
+    ];
+
+    tipsIndex = 0;
+
+    setInterval(function () {
+
+      room.sendAnnouncement("📢📢 IPUCU:");
+      room.sendAnnouncement(tips[tipsIndex], null, 0x00BFFF, "bold", 0);
+
+      tipsIndex = (tipsIndex + 1) % tips.length; // İpuçları arasında döngü yap
+
+    }, 1000); // Her 45 saniyede bir ipucu göster
+
 
     let mutedPlayerIds = [];
 
@@ -1067,13 +1084,13 @@ Rating (Puan): ${ratingDisplay}`.trim();
       const winnerDbId = winnerSession ? winnerSession.dbId : null;
       const loserDbId = loserSession ? loserSession.dbId : null;
 
-      let ratingChange = 10;
+      let ratingChange = 25;
 
       // -----------------------------------------------------------
       // 1️⃣ KAZANAN KAYITLI, KAYBEDEN KAYITSIZ 
       // -----------------------------------------------------------
       if (winnerDbId && !loserDbId) {
-        ratingChange = 3;
+        ratingChange = 15;
 
         getPlayerById(winnerDbId, (err, winnerData) => {
           if (err || !winnerData) return console.error(err || "Kazanan DB’de yok!");
@@ -1095,7 +1112,7 @@ Rating (Puan): ${ratingDisplay}`.trim();
       // 2️⃣ KAZANAN KAYITSIZ, KAYBEDEN KAYITLI 
       // -----------------------------------------------------------
       if (!winnerDbId && loserDbId) {
-        ratingChange = 3;
+        ratingChange = 10;
         getPlayerById(loserDbId, (err, loserData) => {
           if (err || !loserData) return console.error(err || "Kaybeden DB’de yok!");
           const loserOldRating = loserData.rating || 1000;
@@ -2072,13 +2089,9 @@ Rating (Puan): ${ratingDisplay}`.trim();
               if (nextPlayerColor && playerScores[nextPlayerId] === TOTAL_COLOR_BALLS[nextPlayerColor] && !BLACK_BALL_TARGETS.has(nextPlayerId)) {
 
                 if (announceJustOnce) {
+                 
                   room.sendAnnouncement(
-                    `🎉 Faul sonucu ${nextPlayer.name} tüm toplarını bitirdi!`,
-                    null,
-                    0x00FF00
-                  );
-                  room.sendAnnouncement(
-                    `🎱 ${nextPlayer.name}, artık siyah topu sokma sırası! Lütfen !delik <1-6> ile hedefini seç.`,
+                    `🎱 ${nextPlayer.name},siyah topu sokma sırası! Lütfen !delik <1-6> ile hedefini seç.`,
                     nextPlayer.id,
                     0x8A2BE2,
                     "bold"
