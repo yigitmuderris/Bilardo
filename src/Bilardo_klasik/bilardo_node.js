@@ -156,7 +156,7 @@ Room.create({
     // Oyundaki oyunculara düzenli olarak tavsiye ver 
 
     var tips = ["💡Toplara daha dengeli yön vermek için daha yavaş vurabilirsin!"
-      , "💡Beyaz çizginin uzunluğuna göre topun şiddetini ayarlayabildiğini unutma!"
+      , "💡Beyaz çizginin uzunluğuna göre vuruşun şiddetini ayarlayabildiğini unutma!"
     ];
 
     tipsIndex = 0;
@@ -164,11 +164,11 @@ Room.create({
     setInterval(function () {
 
       room.sendAnnouncement("📢📢 IPUCU:");
-      room.sendAnnouncement(tips[tipsIndex], null, 0x00BFFF, "bold", 0);
+      room.sendAnnouncement(tips[tipsIndex], null, 0x00BFFF, "italic", 0);
 
       tipsIndex = (tipsIndex + 1) % tips.length; // İpuçları arasında döngü yap
 
-    }, 1000); // Her 45 saniyede bir ipucu göster
+    }, 1.5*60*1000); // Her 1.5 dakikada  bir ipucu göster
 
 
     let mutedPlayerIds = [];
