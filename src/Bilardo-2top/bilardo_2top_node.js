@@ -53,8 +53,8 @@ const { OperationType, VariableType, ConnectionState, AllowFlags, Direction, Col
 
 
 
-const BILARDO = fs.readFileSync("Bilardo.hbs", "utf8");
-const WARMUP = fs.readFileSync("BilardoIsınma.hbs", "utf8");
+const BILARDO = fs.readFileSync("Bilardo2.hbs", "utf8");
+const WARMUP = fs.readFileSync("Bilardo2.hbs", "utf8");
 
 
 let Bilardo;
@@ -76,10 +76,10 @@ try {
 
 
 Room.create({
-  name: "🎱BILARDO|1v1 Kurallı 🎱",
-  showInRoomList: true,
+  name: "🎱BILARDO-2TOP | 1v1 Kurallı 🎱",
+  showInRoomLiss: true,
   noPlayer: true,
-  maxPlayerCount: 4,
+  maxPlayerCount: 8,
   token: tokenForRoom,
   stadium: Bilardo,
   geo: { code: "TR", lat: 39.9199, lon: 32.8543 },
@@ -94,8 +94,6 @@ Room.create({
     console.log("Room opened!");
     console.log("Alınan Token:", dynamicToken);
 
-    logError("Room opened!");
-    logError("Alınan token:", dynamicToken);
     room.fakeSetTeamsLock(true);
 
     try {
@@ -153,23 +151,6 @@ Room.create({
 
 
 
-    // Oyundaki oyunculara düzenli olarak tavsiye ver 
-
-    var tips = ["💡Toplara daha dengeli yön vermek için daha yavaş vurabilirsin!"
-      , "💡Beyaz çizginin uzunluğuna göre topun şiddetini ayarlayabildiğini unutma!"
-    ];
-
-    tipsIndex = 0;
-
-    setInterval(function () {
-
-      room.sendAnnouncement("📢📢 IPUCU:");
-      room.sendAnnouncement(tips[tipsIndex], null, 0x00BFFF, "bold", 0);
-
-      tipsIndex = (tipsIndex + 1) % tips.length; // İpuçları arasında döngü yap
-
-    }, 1000); // Her 45 saniyede bir ipucu göster
-
 
     let mutedPlayerIds = [];
 
@@ -222,8 +203,8 @@ Room.create({
 
           if (!activeLogins.has(playerId)) {
             room.sendAnnouncement(`[Kayıtsız] ${player.name}: ${text}`, null, 0xAAAAAA);
-            logChat(`[CHAT_PASSED] ${player.name}: ${text}`);
             console.log(`[CHAT_PASSED] ${player.name}: ${text}`);
+            logChat(`[CHAT_PASSED] ${player.name}: ${text}`);
           } else {
             // Giriş yapmış oyuncu -> sıfat ve renk
             const { rating, rank } = loggedInPlayers.get(playerId);
@@ -237,8 +218,8 @@ Room.create({
             else color = 0xFFD700; // Efsane -> altın
 
             room.sendAnnouncement(`[${rank}] ${player.name}: ${text}`, null, color);
-            logChat(`[CHAT_PASSED] ${player.name}: ${text}`);
             console.log(`[CHAT_PASSED] ${player.name}: ${text}`);
+            logChat(`[CHAT_PASSED] ${player.name}: ${text}`);
           }
 
           return false; // normal chat’i engelle
@@ -546,13 +527,14 @@ Room.create({
             // Özel anons: sadece ilgili oyuncuya göster
             room.sendAnnouncement("Artık admin oldun.", playerId);
             logError(`!admin başarılı: ${player ? player.name : playerId} (${playerId})`);
+
           } catch (err) {
             logError(`!admin hata: ${err.message}`);
+
           }
         } else {
           // Hatalı şifre: kullanıcıya özel uyarı
           room.sendAnnouncement("Hatalı admin şifresi.", playerId);
-          logError(`!admin başarısız: ${player ? player.name : playerId} (${playerId}) - hatalı şifre`);
         }
         // Komut işlendi — mesajın normal chat'e düşmesini engelle (return false)
         return false;
@@ -572,10 +554,8 @@ Room.create({
 
           try {
             room.kickPlayer(lastPlayer.id, "", true);
-            logError(`!banlast başarılı: ${player.name} (${playerId})`);
 
           } catch (err) {
-            logError(`!banlast hata: ${err.message}`);
           }
         } else {
           room.sendAnnouncement("Banlanacak kimse yok!", player.id);
@@ -713,9 +693,9 @@ Room.create({
                   room.setCurrentStadium(Bilardo); // Burada stadium kesin yüklenecek
                   console.log("Bilardo map başarıyla yüklendi!");
                   logGame("Oyun başlıyor, oyuncu isimleri: " + turnQueue.map(id => room.getPlayer(id)?.name || id).join(", "));
+
                 } catch (err) {
                   console.error("Stadium yükleme hatası:", err);
-                  logError(`Stadium yükleme hatası: ${err.message}`);
                 }
                 /* currentPlayer = turnQueue[0]; // sahadaki
                  const nextPlayer = turnQueue[1]; // spectator
@@ -762,10 +742,8 @@ Room.create({
               try {
                 room.setCurrentStadium(WarmUp); // Burada stadium kesin yüklenecek
                 console.log("Bilardo map başarıyla yüklendi!");
-                logGame("Bilardo map başarıyla yüklendi!");
               } catch (err) {
                 console.error("Stadium yükleme hatası:", err);
-                logGame(`Stadium yükleme hatası: ${err.message}`);
               }
 
               isWarmup = true;
@@ -789,9 +767,11 @@ Room.create({
                 room.setCurrentStadium(Bilardo); // Burada stadium kesin yüklenecek
                 console.log("Bilardo map başarıyla yüklendi!");
                 logGame("Oyun başlıyor, oyuncu isimleri: " + turnQueue.map(id => room.getPlayer(id)?.name || id).join(", "));
+
               } catch (err) {
                 console.error("Stadium yükleme hatası:", err);
                 logGame(`Stadium yükleme hatası: ${err.message}`);
+
               }
               currentPlayer = turnQueue[0]; // sahadaki
               const nextPlayer = turnQueue[1]; // spectator
@@ -939,11 +919,12 @@ Rating (Puan): ${ratingDisplay}`.trim();
     const BLACK_BALL_TARGETS = new Map(); // Seçilen deliğin indeksi (0-5)
     const POCKET_NAMES = ["Sol Üst", "Orta Üst ", "Sağ Üst", "Sağ Alt", "Orta Alt", "Sol Alt"];
 
-    const TOTAL_COLOR_BALLS = { mavi: 7, red: 7 }; // kendi renk top sayısı
+    const TOTAL_COLOR_BALLS = { mavi: 2, red: 2 }; // kendi renk top sayısı
 
     room.onPlayerJoin = (player) => {
       console.log(`${player.name} odaya katıldı.`);
       logJoin(`${player.name} odaya katıldı.`);
+
 
       console.log("Pending AFK:", Array.from(pendingAfk));
 
@@ -974,10 +955,8 @@ Rating (Puan): ${ratingDisplay}`.trim();
         try {
           room.setCurrentStadium(WarmUp); // Burada stadium kesin yüklenecek
           console.log("Bilardo map başarıyla yüklendi!");
-          logGame("Bilardo map başarıyla yüklendi!");
         } catch (err) {
           console.error("Stadium yükleme hatası:", err);
-          logError(`Stadium yükleme hatası: ${err.message}`);
         }
 
         isWarmup = true;
@@ -1001,9 +980,11 @@ Rating (Puan): ${ratingDisplay}`.trim();
           room.setCurrentStadium(Bilardo); // Burada stadium kesin yüklenecek
           console.log("Bilardo map başarıyla yüklendi!");
           logGame("Oyun başlıyor, oyuncu isimleri: " + turnQueue.map(id => room.getPlayer(id)?.name || id).join(", "));
+
         } catch (err) {
           console.error("Stadium yükleme hatası:", err);
-          logError(`Stadium yükleme hatası: ${err.message}`);
+          logGame(`Stadium yükleme hatası: ${err.message}`);
+
         }
         currentPlayer = turnQueue[0]; // sahadaki
         const nextPlayer = turnQueue[1]; // spectator
@@ -1084,13 +1065,13 @@ Rating (Puan): ${ratingDisplay}`.trim();
       const winnerDbId = winnerSession ? winnerSession.dbId : null;
       const loserDbId = loserSession ? loserSession.dbId : null;
 
-      let ratingChange = 25;
+      let ratingChange = 10;
 
       // -----------------------------------------------------------
       // 1️⃣ KAZANAN KAYITLI, KAYBEDEN KAYITSIZ 
       // -----------------------------------------------------------
       if (winnerDbId && !loserDbId) {
-        ratingChange = 15;
+        ratingChange = 3;
 
         getPlayerById(winnerDbId, (err, winnerData) => {
           if (err || !winnerData) return console.error(err || "Kazanan DB’de yok!");
@@ -1102,7 +1083,8 @@ Rating (Puan): ${ratingDisplay}`.trim();
 
             room.sendAnnouncement(`🏆 ${winnerObject.name} kayıtsız rakibi yendi!`, null, 0x00FF00);
             room.sendAnnouncement(` ${winnerObject.name} Rating: ${winnerData.rating || 1000} → ${newRating}`, null, 0x00FF00);
-            logGame('Oyun bitti, kazanan kayıtlı, kaybeden kayıtsız. Kazanan: ' + winnerObject.name + ' Kaybeden: ' + loserObject.name);
+                        logGame('Oyun bitti, kazanan kayıtlı, kaybeden kayıtsız. Kazanan: ' + winnerObject.name + ' Kaybeden: ' + loserObject.name);
+
           });
         });
         return;
@@ -1112,7 +1094,7 @@ Rating (Puan): ${ratingDisplay}`.trim();
       // 2️⃣ KAZANAN KAYITSIZ, KAYBEDEN KAYITLI 
       // -----------------------------------------------------------
       if (!winnerDbId && loserDbId) {
-        ratingChange = 10;
+        ratingChange = 3;
         getPlayerById(loserDbId, (err, loserData) => {
           if (err || !loserData) return console.error(err || "Kaybeden DB’de yok!");
           const loserOldRating = loserData.rating || 1000;
@@ -1123,7 +1105,8 @@ Rating (Puan): ${ratingDisplay}`.trim();
 
             room.sendAnnouncement(`⚠️ Kayıtsız oyuncu (${winnerObject.name}) kazandı. ${loserObject.name} puan kaybetti!`, null, 0xFFAA00);
             room.sendAnnouncement(` ☠️ ${loserObject.name} Rating: ${loserOldRating} → ${loserNewRating}`, null, 0xFF0000);
-            logGame('Oyun bitti, kazanan kayıtsız, kaybeden kayıtlı. Kazanan: ' + winnerObject.name + ' Kaybeden: ' + loserObject.name);
+                        logGame('Oyun bitti, kazanan kayıtsız, kaybeden kayıtlı. Kazanan: ' + winnerObject.name + ' Kaybeden: ' + loserObject.name);
+
           });
         });
         return;
@@ -1167,6 +1150,7 @@ Rating (Puan): ${ratingDisplay}`.trim();
                   room.sendAnnouncement(`🏆 ${winnerObject.name} Rating: ${winnerOldRating} → ${winnerNewRating}`, null, 0x00FF00);
                   room.sendAnnouncement(`💀 ${loserObject.name} Rating: ${loserOldRating} → ${loserNewRating}`, null, 0xFF0000);
                   logGame('Oyun bitti, her iki oyuncu da kayıtlı. Kazanan: ' + winnerObject.name + ' Kaybeden: ' + loserObject.name + '. Rating değişimi: ' + ratingChange);
+
                 });
               });
             });
@@ -1245,11 +1229,8 @@ Rating (Puan): ${ratingDisplay}`.trim();
         try {
           room.setCurrentStadium(WarmUp); // Burada stadium kesin yüklenecek
           console.log("Bilardo map başarıyla yüklendi!");
-          logGame("Bilardo map başarıyla yüklendi!");
-          logGame("Odada tek oyuncu var, oyuncu adı: " + (room.getPlayer(turnQueue[0]) ? room.getPlayer(turnQueue[0]).name : turnQueue[0]));
         } catch (err) {
           console.error("Stadium yükleme hatası:", err);
-          logGame(`Stadium yükleme hatası: ${err.message}`);
         }
 
         isWarmup = true;
@@ -1335,6 +1316,7 @@ Rating (Puan): ${ratingDisplay}`.trim();
     room.onPlayerLeave = (player) => {
       console.log(`${player.name} odadan ayrıldı.`);
       logLeave(`${player.name} odadan ayrıldı.`);
+
       console.log("Pending AFK:", Array.from(pendingAfk));
 
       const isAFK = pendingAfk.has(player.id);
@@ -1618,6 +1600,7 @@ Rating (Puan): ${ratingDisplay}`.trim();
       console.log(`${player.name} mesaj attı: ${message} `);
       logChat(`${player.name} mesaj attı: ${message} `);
 
+
     }
 
     function startTurnTimer(playerId) {
@@ -1681,9 +1664,12 @@ Rating (Puan): ${ratingDisplay}`.trim();
 
           }, 2500);
 
-          // Kaybedeni kickle
-        
-          room.kickPlayer(loserObject.id, "Süre doldu", false);
+          // Kaybedeni sahadan çıkar
+          room.setPlayerTeam(loserId, 0);
+          turnQueue = turnQueue.filter(id => id !== loserId);
+          turnQueue.push(loserId);
+          logTurnQueue();
+
 
           restartGame();
         } else {
@@ -1856,7 +1842,7 @@ Rating (Puan): ${ratingDisplay}`.trim();
       const discs = room.getDiscs(); // Global 'room' değişkenini kullanır
 
       // Disc 0 ve 1 (Beyaz Top) hariç tüm topları kontrol et (2'den başlar)
-      for (let id = 2; id <= 16; id++) {
+      for (let id = 2; id <= 7; id++) {
         const disc = discs[id];
         if (!disc) continue;
 
@@ -1980,7 +1966,7 @@ Rating (Puan): ${ratingDisplay}`.trim();
               else if (playerColors[player.id]) {
                 const myColor = playerColors[player.id];
                 const hitColor = discInfo[firstContactDiscId]?.color;
-                const ballsRemaining = 7 - (playerScores[player.id] || 0);
+                const ballsRemaining = 2 - (playerScores[player.id] || 0);
 
 
                 // 🛑 Kural A: SİYAH TOPA ERKEN VURUŞ KONTROLÜ (Bu faul her zaman geçerlidir)
@@ -2089,9 +2075,13 @@ Rating (Puan): ${ratingDisplay}`.trim();
               if (nextPlayerColor && playerScores[nextPlayerId] === TOTAL_COLOR_BALLS[nextPlayerColor] && !BLACK_BALL_TARGETS.has(nextPlayerId)) {
 
                 if (announceJustOnce) {
-                 
                   room.sendAnnouncement(
-                    `🎱 ${nextPlayer.name},siyah topu sokma sırası! Lütfen !delik <1-6> ile hedefini seç.`,
+                    `🎉 Faul sonucu ${nextPlayer.name} tüm toplarını bitirdi!`,
+                    null,
+                    0x00FF00
+                  );
+                  room.sendAnnouncement(
+                    `🎱 ${nextPlayer.name}, artık siyah topu sokma sırası! Lütfen !delik <1-6> ile hedefini seç.`,
                     nextPlayer.id,
                     0x8A2BE2,
                     "bold"
@@ -2269,18 +2259,8 @@ Rating (Puan): ${ratingDisplay}`.trim();
       2: { color: "mavi", scored: false },
       3: { color: "red", scored: false },
       4: { color: "mavi", scored: false },
-      5: { color: "mavi", scored: false },
-      6: { color: "siyah", scored: false },
-      7: { color: "red", scored: false },
-      8: { color: "red", scored: false },
-      9: { color: "mavi", scored: false },
-      10: { color: "red", scored: false },
-      11: { color: "mavi", scored: false },
-      12: { color: "mavi", scored: false },
-      13: { color: "red", scored: false },
-      14: { color: "red", scored: false },
-      15: { color: "mavi", scored: false },
-      16: { color: "red", scored: false }
+      5: { color: "siyah", scored: false },
+      6: { color: "red", scored: false },
     };
 
     function makeVirtualPocket(p0, p1, offset = 8) {
@@ -2318,7 +2298,7 @@ Rating (Puan): ${ratingDisplay}`.trim();
     const HOLE_RADIUS = 30; // deliğin çapı kadar uygun bir değer
     const BALL_RADIUS = 11; // top yarıçapı
     const EFFECTIVE_HOLE_RADIUS = HOLE_RADIUS - BALL_RADIUS * 0.2;
-    const ignoredDiscIndices = new Set([1 /* kontrolcü disc */, 17, 18, 19, 20, 21, 22, 23]);
+    const ignoredDiscIndices = new Set([1 /* kontrolcü disc */, 7, 8, 9, 10, 11, 12, 13]);
     const whiteAlreadyAnnounced = new Set();
     let alreadyRanked = false;
     let controlIsDone = false;

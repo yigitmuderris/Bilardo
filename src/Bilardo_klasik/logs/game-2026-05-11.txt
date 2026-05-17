@@ -75,3 +75,4 @@
 [[11.5.2026 22:39:47]] Oyun başlıyor, oyuncu isimleri: Ler, krémax
 [[11.5.2026 22:41:38]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: Ler Kaybeden: krémax
 [[11.5.2026 23:55:19]] Bilardo map başarıyla yüklendi!
+>>>>>>> 62f69952f5614bc347cd2574bfcae27c204b9746
