@@ -60,6 +60,7 @@
 [[11.5.2026 20:07:36]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: mıyala Kaybeden: -cx-
 [[11.5.2026 20:09:26]] Oyun başlıyor, oyuncu isimleri: mıyala, IcyV
 [[11.5.2026 20:11:06]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: mıyala Kaybeden: IcyV
+<<<<<<< HEAD
 [[11.5.2026 20:15:01]] Bilardo map başarıyla yüklendi!
 [[11.5.2026 20:15:06]] Oyun başlıyor, oyuncu isimleri: a, b
 [[11.5.2026 20:17:26]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: b Kaybeden: a
@@ -76,3 +77,20 @@
 [[11.5.2026 20:26:21]] Oyun başlıyor, oyuncu isimleri: a, b
 [[11.5.2026 20:31:52]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: a Kaybeden: b
 [[11.5.2026 20:31:55]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: a Kaybeden: b
+=======
+[[11.5.2026 20:35:56]] Bilardo map başarıyla yüklendi!
+[[11.5.2026 20:46:37]] Bilardo map başarıyla yüklendi!
+[[11.5.2026 20:54:34]] Bilardo map başarıyla yüklendi!
+[[11.5.2026 21:29:13]] Bilardo map başarıyla yüklendi!
+[[11.5.2026 21:41:36]] Bilardo map başarıyla yüklendi!
+[[11.5.2026 21:42:01]] Oyun başlıyor, oyuncu isimleri: efe, Ben
+[[11.5.2026 21:45:09]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: Ben Kaybeden: efe
+[[11.5.2026 21:51:00]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: efe Kaybeden: Ben
+[[11.5.2026 21:58:01]] Bilardo map başarıyla yüklendi!
+[[11.5.2026 21:58:59]] Bilardo map başarıyla yüklendi!
+[[11.5.2026 22:10:29]] Bilardo map başarıyla yüklendi!
+[[11.5.2026 22:39:33]] Bilardo map başarıyla yüklendi!
+[[11.5.2026 22:39:47]] Oyun başlıyor, oyuncu isimleri: Ler, krémax
+[[11.5.2026 22:41:38]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: Ler Kaybeden: krémax
+[[11.5.2026 23:55:19]] Bilardo map başarıyla yüklendi!
+>>>>>>> 62f69952f5614bc347cd2574bfcae27c204b9746
