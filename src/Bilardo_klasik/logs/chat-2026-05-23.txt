@@ -73,3 +73,4 @@
 [[23.5.2026 20:31:26]] [CHAT_PASSED] NEGREDO: tm aga birisi yokmu
 [[23.5.2026 20:31:33]] [CHAT_PASSED] NEGREDO: benle girecek
 [[23.5.2026 20:31:49]] [CHAT_PASSED] TermOS: dürümcü var
+[[23.5.2026 20:31:54]] [CHAT_PASSED] DÜRÜMCÜ: al
