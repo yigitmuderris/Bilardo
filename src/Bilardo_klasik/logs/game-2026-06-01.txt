@@ -35,3 +35,4 @@
 [[1.6.2026 21:06:40]] Oyun başlıyor, oyuncu isimleri: sahte 9, ağır amatör
 [[1.6.2026 21:20:37]] Oyun bitti, kazanan kayıtlı, kaybeden kayıtsız. Kazanan: sahte 9 Kaybeden: ağır amatör
 [[1.6.2026 21:24:53]] Oyun başlıyor, oyuncu isimleri: sahte 9, icid
+[[1.6.2026 21:25:39]] Oyun bitti, kazanan kayıtlı, kaybeden kayıtsız. Kazanan: sahte 9 Kaybeden: icid
