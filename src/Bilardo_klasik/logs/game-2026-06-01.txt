@@ -33,3 +33,4 @@
 [[1.6.2026 20:57:26]] Oyun başlıyor, oyuncu isimleri: sahte 9, ozie
 [[1.6.2026 20:58:03]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: sahte 9 Kaybeden: ozie
 [[1.6.2026 21:06:40]] Oyun başlıyor, oyuncu isimleri: sahte 9, ağır amatör
+[[1.6.2026 21:20:37]] Oyun bitti, kazanan kayıtlı, kaybeden kayıtsız. Kazanan: sahte 9 Kaybeden: ağır amatör
