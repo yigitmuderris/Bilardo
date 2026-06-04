@@ -72,3 +72,5 @@
 [[4.6.2026 22:39:58]] Oyun bitti, kazanan kayıtlı, kaybeden kayıtsız. Kazanan: sahte 9 Kaybeden: FDr
 [[4.6.2026 22:48:26]] Bilardo map başarıyla yüklendi!
 [[4.6.2026 22:48:46]] Oyun başlıyor, oyuncu isimleri: Albırt, cuguli
+[[4.6.2026 22:55:36]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: cuguli Kaybeden: Albırt
+[[4.6.2026 22:55:36]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: Fuego Kaybeden: Elif
