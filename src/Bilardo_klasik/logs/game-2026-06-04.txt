@@ -70,3 +70,4 @@
 [[4.6.2026 22:37:30]] Oyun bitti, kazanan kayıtlı, kaybeden kayıtsız. Kazanan: sahte 9 Kaybeden: VAZILATAN
 [[4.6.2026 22:39:18]] Oyun başlıyor, oyuncu isimleri: sahte 9, FDr
 [[4.6.2026 22:39:58]] Oyun bitti, kazanan kayıtlı, kaybeden kayıtsız. Kazanan: sahte 9 Kaybeden: FDr
+[[4.6.2026 22:48:26]] Bilardo map başarıyla yüklendi!
