@@ -423,3 +423,5 @@
 [[9.6.2026 22:55:43]] [CHAT_PASSED] hermes: bu nasıl mekanil la
 [[9.6.2026 22:55:49]] [CHAT_PASSED] Marcao: kötü
 [[9.6.2026 22:56:14]] [CHAT_PASSED] hermes: çıkcam ben kral
+[[9.6.2026 22:56:17]] [CHAT_PASSED] Marcao: bb
+[[9.6.2026 22:56:18]] [CHAT_PASSED] hermes: kusura balma
