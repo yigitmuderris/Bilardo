@@ -37,3 +37,4 @@
 [[9.6.2026 18:45:15]] [CHAT_PASSED] excalibur: ovv
 [[9.6.2026 18:45:20]] [CHAT_PASSED] küçük karga: girmez
 [[9.6.2026 18:46:25]] [CHAT_PASSED] excalibur: vay be
+[[9.6.2026 18:46:43]] [CHAT_PASSED] küçük karga: oraya sopa girmiyo normalde
