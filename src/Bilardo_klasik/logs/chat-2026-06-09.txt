@@ -74,3 +74,5 @@
 [[9.6.2026 19:07:49]] [CHAT_PASSED] küçük karga: lan
 [[9.6.2026 19:08:15]] [CHAT_PASSED] excalibur: od
 [[9.6.2026 19:08:59]] [CHAT_PASSED] küçük karga: vovo
+[[9.6.2026 19:09:14]] [CHAT_PASSED] excalibur: hay
+[[9.6.2026 19:09:15]] [CHAT_PASSED] küçük karga: vov
