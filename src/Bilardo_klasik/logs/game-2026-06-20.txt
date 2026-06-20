@@ -87,3 +87,4 @@
 [[20.6.2026 23:15:24]] Oyun başlıyor, oyuncu isimleri: gemi, malekmek
 [[20.6.2026 23:15:44]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: malekmek Kaybeden: gemi
 [[20.6.2026 23:17:45]] Bilardo map başarıyla yüklendi!
+[[20.6.2026 23:17:59]] Oyun başlıyor, oyuncu isimleri: malekmek, malekmek
