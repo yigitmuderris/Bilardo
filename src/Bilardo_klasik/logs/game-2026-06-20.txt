@@ -76,3 +76,4 @@
 [[20.6.2026 23:09:35]] Oyun başlıyor, oyuncu isimleri: otistik, akça
 [[20.6.2026 23:09:45]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: akça Kaybeden: otistik
 [[20.6.2026 23:09:45]] Oyun başlıyor, oyuncu isimleri: akça, lury
+[[20.6.2026 23:09:49]] Bilardo map başarıyla yüklendi!
