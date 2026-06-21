@@ -58,3 +58,4 @@
 [[21.6.2026 22:10:11]] Oyun başlıyor, oyuncu isimleri: henle kulpu, sshid0x
 [[21.6.2026 22:16:51]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: henle kulpu Kaybeden: sshid0x
 [[21.6.2026 22:16:53]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: henle kulpu Kaybeden: sshid0x
+[[21.6.2026 23:02:09]] Bilardo map başarıyla yüklendi!
