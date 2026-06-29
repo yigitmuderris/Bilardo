@@ -497,3 +497,5 @@
 [[29.6.2026 21:26:45]] [CHAT_PASSED] rulet: d
 [[29.6.2026 21:27:12]] [CHAT_PASSED] Ser3: topun gitme nedeni vuramamanmış
 [[29.6.2026 21:27:18]] [CHAT_PASSED] Ser3: gerçekteki gibi
+[[29.6.2026 21:27:27]] [CHAT_PASSED] Ser3: oyyy
+[[29.6.2026 21:27:28]] [CHAT_PASSED] rulet: d
