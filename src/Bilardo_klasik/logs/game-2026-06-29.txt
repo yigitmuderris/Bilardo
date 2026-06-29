@@ -84,3 +84,4 @@
 [[29.6.2026 22:20:40]] Oyun başlıyor, oyuncu isimleri: okem, roksan
 [[29.6.2026 22:36:35]] Oyun bitti, kazanan kayıtsız, kaybeden kayıtlı. Kazanan: roksan Kaybeden: okem
 [[29.6.2026 22:37:08]] Oyun başlıyor, oyuncu isimleri: roksan, okem
+[[29.6.2026 22:49:48]] Bilardo map başarıyla yüklendi!
