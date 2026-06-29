@@ -161,3 +161,5 @@
 [[30.6.2026 00:45:36]] [CHAT_PASSED] mellow: açıl susam açıl
 [[30.6.2026 00:45:36]] [CHAT_PASSED] karataş: aa adam varmış
 [[30.6.2026 00:45:47]] [CHAT_PASSED] mellow: ne ara geldi
+[[30.6.2026 00:45:52]] [CHAT_PASSED] karataş: ben de anlamadım
+[[30.6.2026 00:45:52]] [CHAT_PASSED] mellow: hiç görmedim
