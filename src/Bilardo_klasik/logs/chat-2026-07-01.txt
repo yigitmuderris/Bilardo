@@ -522,3 +522,5 @@
 [[1.7.2026 19:13:13]] [CHAT_PASSED] üzgün çocuk: ben zmellowu yendim
 [[1.7.2026 19:13:17]] [CHAT_PASSED] mellow: ben siyahı atmasam 
 [[1.7.2026 19:13:17]] [CHAT_PASSED] üzgün çocuk: sıra sende tamammı
+[[1.7.2026 19:13:19]] [CHAT_PASSED] üzgün çocuk: yenmeden gelme
+[[1.7.2026 19:13:20]] [CHAT_PASSED] mellow: yenemezsin
