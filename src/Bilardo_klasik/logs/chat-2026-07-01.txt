@@ -143,3 +143,5 @@
 [[1.7.2026 02:00:26]] [CHAT_PASSED] trhn: açı yok tm
 [[1.7.2026 02:01:30]] [CHAT_PASSED] trhn: açı uok tm
 [[1.7.2026 02:01:32]] [CHAT_PASSED] BIRÇIN: aga
+[[1.7.2026 02:01:34]] [CHAT_PASSED] BIRÇIN: bu ne amk
+[[1.7.2026 02:01:35]] [CHAT_PASSED] trhn: hayda
