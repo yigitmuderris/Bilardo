@@ -47,3 +47,5 @@
 [[5.7.2026 17:12:01]] [CHAT_PASSED] adem büyük: olmadı
 [[5.7.2026 17:12:02]] [CHAT_PASSED] R10JR: yanlış mmı seçtin
 [[5.7.2026 17:12:05]] [CHAT_PASSED] adem büyük: yok
+[[5.7.2026 17:12:10]] [CHAT_PASSED] adem büyük: denedim de olmadı
+[[5.7.2026 17:12:10]] [CHAT_PASSED] R10JR: napcaktın ki anlamadım
