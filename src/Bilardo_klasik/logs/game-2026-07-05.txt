@@ -63,3 +63,4 @@
 [[5.7.2026 20:23:17]] Oyun başlıyor, oyuncu isimleri: pavlidis, Zanka
 [[5.7.2026 20:23:35]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: pavlidis Kaybeden: Zanka
 [[5.7.2026 20:31:38]] Oyun başlıyor, oyuncu isimleri: pavlidis, ffff
+[[5.7.2026 20:32:05]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: pavlidis Kaybeden: ffff
