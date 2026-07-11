@@ -140,3 +140,4 @@
 [[11.7.2026 17:17:52]] [CHAT_PASSED] SaLvAdOr16o: anşlamadım
 [[11.7.2026 17:18:02]] [CHAT_PASSED] Lavuk: ./koy
 [[11.7.2026 17:18:04]] [CHAT_PASSED] Lavuk: yazman lazımdı
+[[11.7.2026 17:18:07]] [CHAT_PASSED] Lavuk: başında nokta olmadan
