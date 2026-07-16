@@ -152,3 +152,5 @@
 [[16.7.2026 18:01:09]] [CHAT_PASSED] ağlama ben ağlarım: istedin yere git
 [[16.7.2026 18:01:13]] [CHAT_PASSED] ağlama ben ağlarım:  !koy yaz
 [[16.7.2026 18:01:14]] [CHAT_PASSED] haxbal: .d
+[[16.7.2026 18:01:21]] [CHAT_PASSED] ağlama ben ağlarım: izle şimdi bak nolcak
+[[16.7.2026 18:01:22]] [CHAT_PASSED] jgz: ya amınakoyim
