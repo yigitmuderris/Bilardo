@@ -397,3 +397,5 @@
 [[16.7.2026 18:29:37]] [CHAT_PASSED] ağlama ben ağlarım: reis çok iyi ya
 [[16.7.2026 18:29:37]] [CHAT_PASSED] haxbal: gırmez
 [[16.7.2026 18:29:41]] [CHAT_PASSED] ağlama ben ağlarım: sağa çek
+[[16.7.2026 18:29:50]] [CHAT_PASSED] ağlama ben ağlarım: ah
+[[16.7.2026 18:29:50]] [CHAT_PASSED] haxbal: bak
