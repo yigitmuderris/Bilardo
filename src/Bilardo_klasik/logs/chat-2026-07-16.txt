@@ -516,3 +516,5 @@
 [[16.7.2026 20:24:54]] [CHAT_PASSED] ağlama ben ağlarım: noldu la ekrana bakmıyodum
 [[16.7.2026 20:24:59]] [CHAT_PASSED] jgz: rengi sordum malgibi
 [[16.7.2026 20:25:07]] [CHAT_PASSED] ağlama ben ağlarım: iksiini de mi
+[[16.7.2026 20:25:22]] [CHAT_PASSED] jgz: mavi mi kırmızı mı dedim sen düşün
+[[16.7.2026 20:25:22]] [CHAT_PASSED] ağlama ben ağlarım: ben neyim ya
