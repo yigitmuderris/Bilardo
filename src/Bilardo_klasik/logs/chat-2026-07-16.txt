@@ -519,3 +519,4 @@
 [[16.7.2026 20:25:22]] [CHAT_PASSED] jgz: mavi mi kırmızı mı dedim sen düşün
 [[16.7.2026 20:25:22]] [CHAT_PASSED] ağlama ben ağlarım: ben neyim ya
 [[16.7.2026 20:25:27]] [CHAT_PASSED] jgz: sen mavi
+[[16.7.2026 20:25:46]] [CHAT_PASSED] ağlama ben ağlarım: döner
