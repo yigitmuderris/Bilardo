@@ -424,3 +424,4 @@
 [[16.7.2026 18:31:57]] [CHAT_PASSED] ağlama ben ağlarım: oy
 [[16.7.2026 18:32:01]] [CHAT_PASSED] ağlama ben ağlarım: onu sokarsan ayakta alkışlarım
 [[16.7.2026 18:32:06]] [CHAT_PASSED] haxbal: sokamaz
+[[16.7.2026 18:32:08]] [CHAT_PASSED] ağlama ben ağlarım: ah
