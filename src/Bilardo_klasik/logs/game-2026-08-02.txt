@@ -19,3 +19,4 @@
 [[2.8.2026 12:47:34]] Oyun başlıyor, oyuncu isimleri: fazıl say, sat?ri
 [[2.8.2026 12:55:07]] Oyun bitti, kazanan kayıtlı, kaybeden kayıtsız. Kazanan: fazıl say Kaybeden: sat?ri
 [[2.8.2026 13:20:41]] Oyun bitti, kazanan kayıtlı, kaybeden kayıtsız. Kazanan: fazıl say Kaybeden: sat?ri
+[[2.8.2026 13:23:33]] Bilardo map başarıyla yüklendi!
