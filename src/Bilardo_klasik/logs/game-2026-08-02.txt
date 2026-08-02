@@ -47,3 +47,4 @@
 [[2.8.2026 16:57:00]] Oyun bitti, kazanan kayıtlı, kaybeden kayıtsız. Kazanan: sun yat-sen Kaybeden: Tavşan.
 [[2.8.2026 16:57:49]] Oyun başlıyor, oyuncu isimleri: sun yat-sen, Kagan
 [[2.8.2026 17:01:42]] Oyun bitti, kazanan kayıtsız, kaybeden kayıtlı. Kazanan: Kagan Kaybeden: sun yat-sen
+[[2.8.2026 17:02:13]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: sezer Kaybeden: Kagan
