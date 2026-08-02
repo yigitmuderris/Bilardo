@@ -161,3 +161,5 @@
 [[2.8.2026 14:25:01]] [CHAT_PASSED] zaza: nasıl oynanıyor bu
 [[2.8.2026 14:25:04]] [CHAT_PASSED] saqqo: izle
 [[2.8.2026 14:25:05]] [CHAT_PASSED] zaza: basılı mı tutmak lazım
+[[2.8.2026 14:25:22]] [CHAT_PASSED] zaza: hızlı vurmak için basılı mı tutmak lazım
+[[2.8.2026 14:25:22]] [CHAT_PASSED] saqqo: siyah daireyi itekle
