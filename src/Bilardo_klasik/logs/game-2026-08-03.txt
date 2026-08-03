@@ -26,3 +26,4 @@
 [[3.8.2026 14:29:46]] Oyun başlıyor, oyuncu isimleri: calısmak, Luka
 [[3.8.2026 14:29:57]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: calısmak Kaybeden: Luka
 [[3.8.2026 14:35:13]] Oyun başlıyor, oyuncu isimleri: calısmak, pick
+[[3.8.2026 14:35:23]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: calısmak Kaybeden: pick
