@@ -33,3 +33,4 @@
 [[3.8.2026 14:55:12]] Oyun başlıyor, oyuncu isimleri: fazıl say, isimsiz
 [[3.8.2026 14:55:51]] Oyun bitti, kazanan kayıtlı, kaybeden kayıtsız. Kazanan: fazıl say Kaybeden: isimsiz
 [[3.8.2026 15:00:11]] Oyun başlıyor, oyuncu isimleri: fazıl say, Juan Riquelme
+[[3.8.2026 15:02:48]] Oyun bitti, kazanan kayıtlı, kaybeden kayıtsız. Kazanan: fazıl say Kaybeden: Juan Riquelme
