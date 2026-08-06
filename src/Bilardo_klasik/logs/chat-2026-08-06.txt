@@ -958,3 +958,4 @@
 [[6.8.2026 22:05:49]] [CHAT_PASSED] Vlk: beyaza vurcan gali,ba
 [[6.8.2026 22:05:51]] [CHAT_PASSED] bal ligi topcusu: topa normal vuruyon içine gir
 [[6.8.2026 22:05:59]] [CHAT_PASSED] celo: SA
+[[6.8.2026 22:06:01]] [CHAT_PASSED] bal ligi topcusu: as
