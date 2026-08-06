@@ -810,3 +810,5 @@
 [[6.8.2026 20:36:22]] [CHAT_PASSED] mellow: evet
 [[6.8.2026 20:36:25]] [CHAT_PASSED] mellow: kesinlikle
 [[6.8.2026 20:36:26]] [CHAT_PASSED] O'Reilly: özrdilerm yanlsılıkold6
+[[6.8.2026 20:36:39]] [CHAT_PASSED] mellow: yaa
+[[6.8.2026 20:36:40]] [CHAT_PASSED] O'Reilly: etmicem bida özr
