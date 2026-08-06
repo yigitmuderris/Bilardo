@@ -228,3 +228,5 @@
 [[6.8.2026 19:39:58]] [CHAT_PASSED] jashua: sence estonya bayraklı birileri admin değilmidir
 [[6.8.2026 19:40:00]] [CHAT_PASSED] mellow: orayli çıksana
 [[6.8.2026 19:40:03]] [CHAT_PASSED] O'Reilly: değildir
+[[6.8.2026 19:40:09]] [CHAT_PASSED] mellow: fp
+[[6.8.2026 19:40:09]] [CHAT_PASSED] jashua: fp
