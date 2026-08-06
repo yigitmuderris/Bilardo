@@ -594,3 +594,5 @@
 [[6.8.2026 20:19:54]] [CHAT_PASSED] mellow: 3 e bas
 [[6.8.2026 20:19:59]] [CHAT_PASSED] jashua: 3
 [[6.8.2026 20:20:02]] [CHAT_PASSED] mellow: tüh
+[[6.8.2026 20:20:06]] [CHAT_PASSED] jashua: nebu
+[[6.8.2026 20:20:06]] [CHAT_PASSED] mellow: kırmızıyı at
