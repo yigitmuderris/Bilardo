@@ -262,3 +262,4 @@
 [[28.8.2026 19:58:49]] [CHAT_PASSED] ney: nasıl sectın
 [[28.8.2026 19:58:57]] [CHAT_PASSED] Safety: .!delik diyip sayı
 [[28.8.2026 19:59:12]] [CHAT_PASSED] Safety: hadii
+[[28.8.2026 19:59:14]] [CHAT_PASSED] ney: secım yapmadan atarsak
