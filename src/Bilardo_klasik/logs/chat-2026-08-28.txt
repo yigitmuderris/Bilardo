@@ -294,3 +294,4 @@
 [[28.8.2026 20:02:33]] [CHAT_PASSED] ney: normal eklemek ıcın ya
 [[28.8.2026 20:02:38]] [CHAT_PASSED] Safety: he okey
 [[28.8.2026 20:02:43]] [CHAT_PASSED] Safety: sefa_br26
+[[28.8.2026 20:02:47]] [CHAT_PASSED] Safety: olması lazım
