@@ -198,3 +198,5 @@
 [[28.8.2026 19:37:32]] [CHAT_PASSED] ney: sv bot
 [[28.8.2026 19:38:47]] [CHAT_PASSED] Safety: ah be
 [[28.8.2026 19:38:53]] [CHAT_PASSED] ney: yavas nasıl vurruyoz
+[[28.8.2026 19:39:00]] [CHAT_PASSED] Safety: geri çekil biraz
+[[28.8.2026 19:39:00]] [CHAT_PASSED] ney: alana gırer gırmez mı
