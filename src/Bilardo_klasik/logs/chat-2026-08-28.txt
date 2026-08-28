@@ -211,3 +211,4 @@
 [[28.8.2026 19:41:00]] [CHAT_PASSED] ney: oy
 [[28.8.2026 19:41:12]] [CHAT_PASSED] Safety: heee
 [[28.8.2026 19:41:13]] [CHAT_PASSED] ney: map supermıs amk
+[[28.8.2026 19:41:33]] [CHAT_PASSED] ney: ./store de yapılamıyor
