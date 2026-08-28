@@ -271,3 +271,4 @@
 [[28.8.2026 20:00:12]] [CHAT_PASSED] Safety: ben çıkıyom reis
 [[28.8.2026 20:00:16]] [CHAT_PASSED] ney: tamam dur
 [[28.8.2026 20:00:20]] [CHAT_PASSED] ney: arada gel 
+[[28.8.2026 20:00:22]] [CHAT_PASSED] Safety: durdum
