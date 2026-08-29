@@ -304,3 +304,5 @@
 [[29.8.2026 13:16:35]] [CHAT_PASSED] wwn: .d
 [[29.8.2026 13:16:36]] [CHAT_PASSED] syd: değil
 [[29.8.2026 13:16:40]] [CHAT_PASSED] wwn: ne
+[[29.8.2026 13:16:45]] [CHAT_PASSED] syd: değdi topa
+[[29.8.2026 13:16:46]] [CHAT_PASSED] wwn: gerçekde faul bu arada
