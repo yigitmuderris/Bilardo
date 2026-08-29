@@ -84,3 +84,4 @@
 [[29.8.2026 12:25:02]] [CHAT_PASSED] wwn: öyle zaten
 [[29.8.2026 12:25:12]] [CHAT_PASSED] wwn: sadece düz çizgili değilde
 [[29.8.2026 12:25:16]] [CHAT_PASSED] wwn: mavi kırmızı
+[[29.8.2026 12:25:19]] [CHAT_PASSED] wwn: yapan var böyle
