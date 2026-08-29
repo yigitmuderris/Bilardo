@@ -337,3 +337,5 @@
 [[29.8.2026 13:22:11]] [CHAT_PASSED] syd: lan
 [[29.8.2026 13:22:16]] [CHAT_PASSED] syd: beyazdamı girdi
 [[29.8.2026 13:22:17]] [CHAT_PASSED] wwn: LAN YAZDIM AW
+[[29.8.2026 13:22:20]] [CHAT_PASSED] syd: aaa
+[[29.8.2026 13:22:21]] [CHAT_PASSED] wwn: delik seçmedi diyo
