@@ -35,3 +35,4 @@
 [[30.8.2026 22:37:59]] Bilardo map başarıyla yüklendi!
 [[30.8.2026 22:38:48]] Oyun başlıyor, oyuncu isimleri: ., welly
 [[30.8.2026 22:50:41]] Oyun bitti, kazanan kayıtlı, kaybeden kayıtsız. Kazanan: welly Kaybeden: .
+[[30.8.2026 22:50:54]] Oyun bitti, kazanan kayıtsız, kaybeden kayıtlı. Kazanan: . Kaybeden: welly
