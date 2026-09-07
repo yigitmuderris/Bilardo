@@ -199,3 +199,5 @@
 [[7.9.2026 19:52:21]] [CHAT_PASSED] Asensıo: orta alt
 [[7.9.2026 19:52:29]] [CHAT_PASSED] Asensıo: 5
 [[7.9.2026 19:52:30]] [CHAT_PASSED] 8ur6k: sayısını yazcan glb
+[[7.9.2026 19:52:50]] [CHAT_PASSED] 8ur6k: atama
+[[7.9.2026 19:52:50]] [CHAT_PASSED] Asensıo: aa
