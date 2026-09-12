@@ -17,3 +17,4 @@
 [[12.9.2026 02:25:53]] Oyun başlıyor, oyuncu isimleri: 2152 2247, straus
 [[12.9.2026 02:26:09]] Oyun bitti, her iki oyuncu da kayıtsız. Kazanan: 2152 2247 Kaybeden: straus
 [[12.9.2026 02:37:01]] Oyun başlıyor, oyuncu isimleri: 2152 2247, Meguak
+[[12.9.2026 02:38:04]] Oyun bitti, kazanan kayıtlı, kaybeden kayıtsız. Kazanan: Meguak Kaybeden: 2152 2247
