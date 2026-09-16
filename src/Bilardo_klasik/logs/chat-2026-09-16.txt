@@ -381,3 +381,4 @@
 [[16.9.2026 03:18:33]] [CHAT_PASSED] unlines: buda girmez
 [[16.9.2026 03:18:48]] [CHAT_PASSED] unlines: tamam bu kesin girmez
 [[16.9.2026 03:18:49]] [CHAT_PASSED] Avangard-: bu sıkıntı ıste .d
+[[16.9.2026 03:18:55]] [CHAT_PASSED] unlines: girmezse gg
