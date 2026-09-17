@@ -73,6 +73,16 @@ try {
   console.error("Stadium parse hatası:", err);
 }
 
+let mutedPlayerIds = [];
+let pendingAfk = new Set();
+const loggedInPlayers = new Map();
+const lastMessageTime = new Map();
+const BANNED_WORDS = [
+  "sik", "orospu", "oruspu", "orsp", "ursp", "oe", "yarrak", "göt", "pipi", "pic", "oc", "got", "sokuk", "kahpe", "binç", "anani", "anneni", "babani", "bacini", "allahini", "tanrini", "kuku"
+  , "gavat", "pezevenk", "aptal", "gerizekali", "ucube", "amini", "pij", "aptalevladi", "amkkürdü", "amktürkü"
+  , "pclik", "serefsiz", "bok", "alahini", "allani", "dinini", "kitabini", "ataturkunu", "peygamberini", "muhammedini"
+];
+
 
 
 Room.create({
@@ -168,18 +178,16 @@ Room.create({
 
       tipsIndex = (tipsIndex + 1) % tips.length; // İpuçları arasında döngü yap
 
-    }, 1.5*60*1000); // Her 1.5 dakikada  bir ipucu göster
-
-
-    let mutedPlayerIds = [];
+    }, 1.5 * 60 * 1000); // Her 1.5 dakikada  bir ipucu göster
 
 
 
 
 
-    let pendingAfk = new Set();
-    const loggedInPlayers = new Map();
-    const lastMessageTime = new Map();
+
+
+
+
 
     // ---------- KOMUT PARSING: onBeforeOperationReceived ----------
     // Bu callback her gelen operation için bir kere çalışır.
@@ -197,6 +205,23 @@ Room.create({
         if (mutedPlayerIds.includes(playerId)) {
           // Susturulan oyuncudan gelen mesajı engelle....
           return false;
+        }
+
+        // 🛑 GELİŞMİŞ CÜMLE İÇİ KÜFÜR KONTROLÜ
+        const cleanedText = text.toLowerCase()
+          .replace(/ı/g, 'i')
+          .replace(/ğ/g, 'g')
+          .replace(/ü/g, 'u')
+          .replace(/ş/g, 's')
+          .replace(/ö/g, 'o')
+          .replace(/ç/g, 'c')
+          .replace(/[^a-z0-9]/g, '');
+
+        const hasBannedWord = BANNED_WORDS.some(banned => cleanedText.includes(banned));
+
+        if (hasBannedWord) {
+          room.sendAnnouncement("❌ Mesajınız küfür veya hakaret içerdiği için engellendi!", playerId, 0xFF0000);
+          return false; // Küfürlü mesajı engelle
         }
 
         // FLOODING KONTROLÜ  
@@ -1399,21 +1424,21 @@ Rating (Puan): ${ratingDisplay}`.trim();
         if (turnTimer) clearTimeout(turnTimer);
         if (warningInterval) clearInterval(warningInterval);
 
-        
+
         const remaining = room.players[0];
 
-        if(remaining){
-        
-        console.log(`room.players[0]: ${remaining}`);
-        remainingPlayer = room.getPlayer(remaining?.id);     
-        
-        console.log(`remainingPlayer: ${remainingPlayer}`);
-        
-        }else{
+        if (remaining) {
+
+          console.log(`room.players[0]: ${remaining}`);
+          remainingPlayer = room.getPlayer(remaining?.id);
+
+          console.log(`remainingPlayer: ${remainingPlayer}`);
+
+        } else {
           console.log("Odada kalan oyuncu yok.");
           return;
         }
-    
+
 
 
         // Oyunu bitir
@@ -1682,7 +1707,7 @@ Rating (Puan): ${ratingDisplay}`.trim();
           }, 2500);
 
           // Kaybedeni kickle
-        
+
           room.kickPlayer(loserObject.id, "Süre doldu", false);
 
           restartGame();
@@ -1928,7 +1953,7 @@ Rating (Puan): ${ratingDisplay}`.trim();
       console.log("GameRunning:", gameRunning);
       console.log("TurnQueue:", turnQueue);
 
-     
+
 
 
       clearTimeout(turnTimer);
@@ -2089,7 +2114,7 @@ Rating (Puan): ${ratingDisplay}`.trim();
               if (nextPlayerColor && playerScores[nextPlayerId] === TOTAL_COLOR_BALLS[nextPlayerColor] && !BLACK_BALL_TARGETS.has(nextPlayerId)) {
 
                 if (announceJustOnce) {
-                 
+
                   room.sendAnnouncement(
                     `🎱 ${nextPlayer.name},siyah topu sokma sırası! Lütfen !delik <1-6> ile hedefini seç.`,
                     nextPlayer.id,
@@ -2380,7 +2405,7 @@ Rating (Puan): ${ratingDisplay}`.trim();
 
           scoredDiscs.add(index);
           console.log(` Önce  playerScores[lastPlayer.id]: ${playerScores[lastPlayer.id]}`);
-     
+
 
           // ✅ Kendi topunu soktuysa skor ve renk ataması
           if (!playerColors[lastPlayer.id] && color !== "beyaz" && color !== "siyah") {
