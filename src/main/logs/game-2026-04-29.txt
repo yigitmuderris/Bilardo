@@ -1,0 +1,1793 @@
+[[29.4.2026 00:48:43]] Pending AFK: 
+[[29.4.2026 00:48:43]] 🔹 turnQueue: büş
+[[29.4.2026 00:48:43]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 00:48:51]] === BallKick Başladı ===
+[[29.4.2026 00:48:51]] Player: büş (459)
+[[29.4.2026 00:48:51]] CurrentPlayer: null
+[[29.4.2026 00:48:51]] GameRunning: false
+[[29.4.2026 00:48:51]] TurnQueue: büş
+[[29.4.2026 00:48:59]] === BallKick Başladı ===
+[[29.4.2026 00:48:59]] Player: büş (459)
+[[29.4.2026 00:48:59]] CurrentPlayer: null
+[[29.4.2026 00:48:59]] GameRunning: false
+[[29.4.2026 00:48:59]] TurnQueue: büş
+[[29.4.2026 00:49:04]] === BallKick Başladı ===
+[[29.4.2026 00:49:04]] Player: büş (459)
+[[29.4.2026 00:49:04]] CurrentPlayer: null
+[[29.4.2026 00:49:04]] GameRunning: false
+[[29.4.2026 00:49:04]] TurnQueue: büş
+[[29.4.2026 00:49:06]] === BallKick Başladı ===
+[[29.4.2026 00:49:06]] Player: büş (459)
+[[29.4.2026 00:49:06]] CurrentPlayer: null
+[[29.4.2026 00:49:06]] GameRunning: false
+[[29.4.2026 00:49:06]] TurnQueue: büş
+[[29.4.2026 00:49:09]] === BallKick Başladı ===
+[[29.4.2026 00:49:09]] Player: büş (459)
+[[29.4.2026 00:49:09]] CurrentPlayer: null
+[[29.4.2026 00:49:09]] GameRunning: false
+[[29.4.2026 00:49:09]] TurnQueue: büş
+[[29.4.2026 00:49:10]] === BallKick Başladı ===
+[[29.4.2026 00:49:10]] Player: büş (459)
+[[29.4.2026 00:49:10]] CurrentPlayer: null
+[[29.4.2026 00:49:10]] GameRunning: false
+[[29.4.2026 00:49:10]] TurnQueue: büş
+[[29.4.2026 00:49:17]] === BallKick Başladı ===
+[[29.4.2026 00:49:17]] Player: büş (459)
+[[29.4.2026 00:49:17]] CurrentPlayer: null
+[[29.4.2026 00:49:17]] GameRunning: false
+[[29.4.2026 00:49:17]] TurnQueue: büş
+[[29.4.2026 00:50:30]] === BallKick Başladı ===
+[[29.4.2026 00:50:30]] Player: büş (459)
+[[29.4.2026 00:50:30]] CurrentPlayer: null
+[[29.4.2026 00:50:30]] GameRunning: false
+[[29.4.2026 00:50:30]] TurnQueue: büş
+[[29.4.2026 00:50:33]] === BallKick Başladı ===
+[[29.4.2026 00:50:33]] Player: büş (459)
+[[29.4.2026 00:50:33]] CurrentPlayer: null
+[[29.4.2026 00:50:33]] GameRunning: false
+[[29.4.2026 00:50:33]] TurnQueue: büş
+[[29.4.2026 00:50:36]] === BallKick Başladı ===
+[[29.4.2026 00:50:36]] Player: büş (459)
+[[29.4.2026 00:50:36]] CurrentPlayer: null
+[[29.4.2026 00:50:36]] GameRunning: false
+[[29.4.2026 00:50:36]] TurnQueue: büş
+[[29.4.2026 00:50:40]] === BallKick Başladı ===
+[[29.4.2026 00:50:40]] Player: büş (459)
+[[29.4.2026 00:50:40]] CurrentPlayer: null
+[[29.4.2026 00:50:40]] GameRunning: false
+[[29.4.2026 00:50:40]] TurnQueue: büş
+[[29.4.2026 00:50:43]] === BallKick Başladı ===
+[[29.4.2026 00:50:43]] Player: büş (459)
+[[29.4.2026 00:50:43]] CurrentPlayer: null
+[[29.4.2026 00:50:43]] GameRunning: false
+[[29.4.2026 00:50:43]] TurnQueue: büş
+[[29.4.2026 00:50:46]] === BallKick Başladı ===
+[[29.4.2026 00:50:46]] Player: büş (459)
+[[29.4.2026 00:50:46]] CurrentPlayer: null
+[[29.4.2026 00:50:46]] GameRunning: false
+[[29.4.2026 00:50:46]] TurnQueue: büş
+[[29.4.2026 00:51:00]] Pending AFK: 
+[[29.4.2026 00:51:00]] Pending AFK: 
+[[29.4.2026 00:51:00]] 🔹 turnQueue: 
+[[29.4.2026 00:51:00]] Odada kalan oyuncu yok.
+[[29.4.2026 00:51:04]] Pending AFK: 
+[[29.4.2026 00:51:04]] 🔹 turnQueue: büş
+[[29.4.2026 00:51:04]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 00:51:13]] === BallKick Başladı ===
+[[29.4.2026 00:51:13]] Player: büş (460)
+[[29.4.2026 00:51:13]] CurrentPlayer: null
+[[29.4.2026 00:51:13]] GameRunning: false
+[[29.4.2026 00:51:13]] TurnQueue: büş
+[[29.4.2026 00:51:59]] === BallKick Başladı ===
+[[29.4.2026 00:51:59]] Player: büş (460)
+[[29.4.2026 00:51:59]] CurrentPlayer: null
+[[29.4.2026 00:51:59]] GameRunning: false
+[[29.4.2026 00:51:59]] TurnQueue: büş
+[[29.4.2026 00:52:04]] === BallKick Başladı ===
+[[29.4.2026 00:52:04]] Player: büş (460)
+[[29.4.2026 00:52:04]] CurrentPlayer: null
+[[29.4.2026 00:52:04]] GameRunning: false
+[[29.4.2026 00:52:04]] TurnQueue: büş
+[[29.4.2026 00:52:10]] === BallKick Başladı ===
+[[29.4.2026 00:52:10]] Player: büş (460)
+[[29.4.2026 00:52:10]] CurrentPlayer: null
+[[29.4.2026 00:52:10]] GameRunning: false
+[[29.4.2026 00:52:10]] TurnQueue: büş
+[[29.4.2026 00:52:11]] Top girdi: red (ID: 8) by büş (460)
+[[29.4.2026 00:52:11]] Renk atandı: büş -> red, Rakip -> mavi
+[[29.4.2026 00:52:11]] Rakip top kontrolü: red by büş
+[[29.4.2026 00:52:13]] === BallKick Başladı ===
+[[29.4.2026 00:52:13]] Player: büş (460)
+[[29.4.2026 00:52:13]] CurrentPlayer: null
+[[29.4.2026 00:52:13]] GameRunning: false
+[[29.4.2026 00:52:13]] TurnQueue: büş
+[[29.4.2026 00:52:16]] === BallKick Başladı ===
+[[29.4.2026 00:52:16]] Player: büş (460)
+[[29.4.2026 00:52:16]] CurrentPlayer: null
+[[29.4.2026 00:52:16]] GameRunning: false
+[[29.4.2026 00:52:16]] TurnQueue: büş
+[[29.4.2026 00:53:36]] === BallKick Başladı ===
+[[29.4.2026 00:53:36]] Player: büş (460)
+[[29.4.2026 00:53:36]] CurrentPlayer: null
+[[29.4.2026 00:53:36]] GameRunning: false
+[[29.4.2026 00:53:36]] TurnQueue: büş
+[[29.4.2026 00:53:37]] === BallKick Başladı ===
+[[29.4.2026 00:53:37]] Player: büş (460)
+[[29.4.2026 00:53:37]] CurrentPlayer: null
+[[29.4.2026 00:53:37]] GameRunning: false
+[[29.4.2026 00:53:37]] TurnQueue: büş
+[[29.4.2026 00:53:40]] === BallKick Başladı ===
+[[29.4.2026 00:53:40]] Player: büş (460)
+[[29.4.2026 00:53:40]] CurrentPlayer: null
+[[29.4.2026 00:53:40]] GameRunning: false
+[[29.4.2026 00:53:40]] TurnQueue: büş
+[[29.4.2026 00:54:35]] === BallKick Başladı ===
+[[29.4.2026 00:54:35]] Player: büş (460)
+[[29.4.2026 00:54:35]] CurrentPlayer: null
+[[29.4.2026 00:54:35]] GameRunning: false
+[[29.4.2026 00:54:35]] TurnQueue: büş
+[[29.4.2026 00:55:05]] === BallKick Başladı ===
+[[29.4.2026 00:55:05]] Player: büş (460)
+[[29.4.2026 00:55:05]] CurrentPlayer: null
+[[29.4.2026 00:55:05]] GameRunning: false
+[[29.4.2026 00:55:05]] TurnQueue: büş
+[[29.4.2026 00:55:21]] === BallKick Başladı ===
+[[29.4.2026 00:55:21]] Player: büş (460)
+[[29.4.2026 00:55:21]] CurrentPlayer: null
+[[29.4.2026 00:55:21]] GameRunning: false
+[[29.4.2026 00:55:21]] TurnQueue: büş
+[[29.4.2026 00:56:08]] === BallKick Başladı ===
+[[29.4.2026 00:56:08]] Player: büş (460)
+[[29.4.2026 00:56:08]] CurrentPlayer: null
+[[29.4.2026 00:56:08]] GameRunning: false
+[[29.4.2026 00:56:08]] TurnQueue: büş
+[[29.4.2026 00:56:16]] === BallKick Başladı ===
+[[29.4.2026 00:56:16]] Player: büş (460)
+[[29.4.2026 00:56:16]] CurrentPlayer: null
+[[29.4.2026 00:56:16]] GameRunning: false
+[[29.4.2026 00:56:16]] TurnQueue: büş
+[[29.4.2026 00:56:57]] === BallKick Başladı ===
+[[29.4.2026 00:56:57]] Player: büş (460)
+[[29.4.2026 00:56:57]] CurrentPlayer: null
+[[29.4.2026 00:56:57]] GameRunning: false
+[[29.4.2026 00:56:57]] TurnQueue: büş
+[[29.4.2026 00:57:00]] === BallKick Başladı ===
+[[29.4.2026 00:57:00]] Player: büş (460)
+[[29.4.2026 00:57:00]] CurrentPlayer: null
+[[29.4.2026 00:57:00]] GameRunning: false
+[[29.4.2026 00:57:00]] TurnQueue: büş
+[[29.4.2026 00:57:15]] === BallKick Başladı ===
+[[29.4.2026 00:57:15]] Player: büş (460)
+[[29.4.2026 00:57:15]] CurrentPlayer: null
+[[29.4.2026 00:57:15]] GameRunning: false
+[[29.4.2026 00:57:15]] TurnQueue: büş
+[[29.4.2026 00:57:35]] === BallKick Başladı ===
+[[29.4.2026 00:57:35]] Player: büş (460)
+[[29.4.2026 00:57:35]] CurrentPlayer: null
+[[29.4.2026 00:57:35]] GameRunning: false
+[[29.4.2026 00:57:35]] TurnQueue: büş
+[[29.4.2026 00:57:40]] === BallKick Başladı ===
+[[29.4.2026 00:57:40]] Player: büş (460)
+[[29.4.2026 00:57:40]] CurrentPlayer: null
+[[29.4.2026 00:57:40]] GameRunning: false
+[[29.4.2026 00:57:40]] TurnQueue: büş
+[[29.4.2026 00:57:41]] Top girdi: mavi (ID: 12) by büş (460)
+[[29.4.2026 00:57:41]] Rakip top kontrolü: mavi by büş
+[[29.4.2026 00:57:41]] Rakip top sokuldu: mavi by büş. Rakip Skor: 1
+[[29.4.2026 00:57:46]] === BallKick Başladı ===
+[[29.4.2026 00:57:46]] Player: büş (460)
+[[29.4.2026 00:57:46]] CurrentPlayer: null
+[[29.4.2026 00:57:46]] GameRunning: false
+[[29.4.2026 00:57:46]] TurnQueue: büş
+[[29.4.2026 00:57:48]] === BallKick Başladı ===
+[[29.4.2026 00:57:48]] Player: büş (460)
+[[29.4.2026 00:57:48]] CurrentPlayer: null
+[[29.4.2026 00:57:48]] GameRunning: false
+[[29.4.2026 00:57:48]] TurnQueue: büş
+[[29.4.2026 00:57:52]] === BallKick Başladı ===
+[[29.4.2026 00:57:52]] Player: büş (460)
+[[29.4.2026 00:57:52]] CurrentPlayer: null
+[[29.4.2026 00:57:52]] GameRunning: false
+[[29.4.2026 00:57:52]] TurnQueue: büş
+[[29.4.2026 00:57:59]] === BallKick Başladı ===
+[[29.4.2026 00:57:59]] Player: büş (460)
+[[29.4.2026 00:57:59]] CurrentPlayer: null
+[[29.4.2026 00:57:59]] GameRunning: false
+[[29.4.2026 00:57:59]] TurnQueue: büş
+[[29.4.2026 00:58:15]] Pending AFK: 
+[[29.4.2026 00:58:15]] Pending AFK: 
+[[29.4.2026 00:58:15]] 🔹 turnQueue: 
+[[29.4.2026 00:58:15]] Odada kalan oyuncu yok.
+[[29.4.2026 01:48:34]] Pending AFK: 
+[[29.4.2026 01:48:34]] 🔹 turnQueue: bero
+[[29.4.2026 01:48:34]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 01:48:58]] === BallKick Başladı ===
+[[29.4.2026 01:48:58]] Player: bero (461)
+[[29.4.2026 01:48:58]] CurrentPlayer: null
+[[29.4.2026 01:48:58]] GameRunning: false
+[[29.4.2026 01:48:58]] TurnQueue: bero
+[[29.4.2026 01:48:59]] === BallKick Başladı ===
+[[29.4.2026 01:48:59]] Player: bero (461)
+[[29.4.2026 01:48:59]] CurrentPlayer: null
+[[29.4.2026 01:48:59]] GameRunning: false
+[[29.4.2026 01:48:59]] TurnQueue: bero
+[[29.4.2026 01:49:01]] === BallKick Başladı ===
+[[29.4.2026 01:49:01]] Player: bero (461)
+[[29.4.2026 01:49:01]] CurrentPlayer: null
+[[29.4.2026 01:49:01]] GameRunning: false
+[[29.4.2026 01:49:01]] TurnQueue: bero
+[[29.4.2026 01:49:03]] === BallKick Başladı ===
+[[29.4.2026 01:49:03]] Player: bero (461)
+[[29.4.2026 01:49:03]] CurrentPlayer: null
+[[29.4.2026 01:49:03]] GameRunning: false
+[[29.4.2026 01:49:03]] TurnQueue: bero
+[[29.4.2026 01:49:03]] === BallKick Başladı ===
+[[29.4.2026 01:49:03]] Player: bero (461)
+[[29.4.2026 01:49:03]] CurrentPlayer: null
+[[29.4.2026 01:49:03]] GameRunning: false
+[[29.4.2026 01:49:03]] TurnQueue: bero
+[[29.4.2026 01:49:04]] === BallKick Başladı ===
+[[29.4.2026 01:49:04]] Player: bero (461)
+[[29.4.2026 01:49:04]] CurrentPlayer: null
+[[29.4.2026 01:49:04]] GameRunning: false
+[[29.4.2026 01:49:04]] TurnQueue: bero
+[[29.4.2026 01:49:05]] === BallKick Başladı ===
+[[29.4.2026 01:49:05]] Player: bero (461)
+[[29.4.2026 01:49:05]] CurrentPlayer: null
+[[29.4.2026 01:49:05]] GameRunning: false
+[[29.4.2026 01:49:05]] TurnQueue: bero
+[[29.4.2026 01:49:06]] === BallKick Başladı ===
+[[29.4.2026 01:49:06]] Player: bero (461)
+[[29.4.2026 01:49:06]] CurrentPlayer: null
+[[29.4.2026 01:49:06]] GameRunning: false
+[[29.4.2026 01:49:06]] TurnQueue: bero
+[[29.4.2026 01:49:11]] Pending AFK: 
+[[29.4.2026 01:49:11]] Pending AFK: 
+[[29.4.2026 01:49:11]] 🔹 turnQueue: 
+[[29.4.2026 01:49:11]] Odada kalan oyuncu yok.
+[[29.4.2026 02:27:08]] Pending AFK: 
+[[29.4.2026 02:27:08]] 🔹 turnQueue: ok
+[[29.4.2026 02:27:08]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 02:27:13]] Pending AFK: 
+[[29.4.2026 02:27:13]] Pending AFK: 
+[[29.4.2026 02:27:13]] 🔹 turnQueue: 
+[[29.4.2026 02:27:13]] Odada kalan oyuncu yok.
+[[29.4.2026 02:45:45]] Pending AFK: 
+[[29.4.2026 02:45:45]] 🔹 turnQueue: Polo
+[[29.4.2026 02:45:45]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 02:45:48]] Pending AFK: 
+[[29.4.2026 02:45:48]] Pending AFK: 
+[[29.4.2026 02:45:48]] 🔹 turnQueue: 
+[[29.4.2026 02:45:48]] Odada kalan oyuncu yok.
+[[29.4.2026 05:44:02]] Pending AFK: 
+[[29.4.2026 05:44:02]] 🔹 turnQueue: ronaldinho
+[[29.4.2026 05:44:02]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 05:44:13]] === BallKick Başladı ===
+[[29.4.2026 05:44:13]] Player: ronaldinho (190)
+[[29.4.2026 05:44:13]] CurrentPlayer: null
+[[29.4.2026 05:44:13]] GameRunning: false
+[[29.4.2026 05:44:13]] TurnQueue: ronaldinho
+[[29.4.2026 05:44:17]] === BallKick Başladı ===
+[[29.4.2026 05:44:17]] Player: ronaldinho (190)
+[[29.4.2026 05:44:17]] CurrentPlayer: null
+[[29.4.2026 05:44:17]] GameRunning: false
+[[29.4.2026 05:44:17]] TurnQueue: ronaldinho
+[[29.4.2026 05:44:19]] === BallKick Başladı ===
+[[29.4.2026 05:44:19]] Player: ronaldinho (190)
+[[29.4.2026 05:44:19]] CurrentPlayer: null
+[[29.4.2026 05:44:19]] GameRunning: false
+[[29.4.2026 05:44:19]] TurnQueue: ronaldinho
+[[29.4.2026 05:44:20]] === BallKick Başladı ===
+[[29.4.2026 05:44:20]] Player: ronaldinho (190)
+[[29.4.2026 05:44:20]] CurrentPlayer: null
+[[29.4.2026 05:44:20]] GameRunning: false
+[[29.4.2026 05:44:20]] TurnQueue: ronaldinho
+[[29.4.2026 05:44:23]] === BallKick Başladı ===
+[[29.4.2026 05:44:23]] Player: ronaldinho (190)
+[[29.4.2026 05:44:23]] CurrentPlayer: null
+[[29.4.2026 05:44:23]] GameRunning: false
+[[29.4.2026 05:44:23]] TurnQueue: ronaldinho
+[[29.4.2026 05:44:24]] === BallKick Başladı ===
+[[29.4.2026 05:44:24]] Player: ronaldinho (190)
+[[29.4.2026 05:44:24]] CurrentPlayer: null
+[[29.4.2026 05:44:24]] GameRunning: false
+[[29.4.2026 05:44:24]] TurnQueue: ronaldinho
+[[29.4.2026 05:44:28]] === BallKick Başladı ===
+[[29.4.2026 05:44:29]] Player: ronaldinho (190)
+[[29.4.2026 05:44:29]] CurrentPlayer: null
+[[29.4.2026 05:44:29]] GameRunning: false
+[[29.4.2026 05:44:29]] TurnQueue: ronaldinho
+[[29.4.2026 05:44:33]] === BallKick Başladı ===
+[[29.4.2026 05:44:33]] Player: ronaldinho (190)
+[[29.4.2026 05:44:33]] CurrentPlayer: null
+[[29.4.2026 05:44:33]] GameRunning: false
+[[29.4.2026 05:44:33]] TurnQueue: ronaldinho
+[[29.4.2026 05:44:38]] === BallKick Başladı ===
+[[29.4.2026 05:44:38]] Player: ronaldinho (190)
+[[29.4.2026 05:44:38]] CurrentPlayer: null
+[[29.4.2026 05:44:38]] GameRunning: false
+[[29.4.2026 05:44:38]] TurnQueue: ronaldinho
+[[29.4.2026 05:44:44]] === BallKick Başladı ===
+[[29.4.2026 05:44:44]] Player: ronaldinho (190)
+[[29.4.2026 05:44:44]] CurrentPlayer: null
+[[29.4.2026 05:44:44]] GameRunning: false
+[[29.4.2026 05:44:44]] TurnQueue: ronaldinho
+[[29.4.2026 05:44:49]] Pending AFK: 
+[[29.4.2026 05:44:49]] Pending AFK: 
+[[29.4.2026 05:44:49]] 🔹 turnQueue: 
+[[29.4.2026 05:44:49]] Odada kalan oyuncu yok.
+[[29.4.2026 05:45:07]] Pending AFK: 
+[[29.4.2026 05:45:07]] 🔹 turnQueue: v..
+[[29.4.2026 05:45:07]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 05:45:08]] Pending AFK: 
+[[29.4.2026 05:45:08]] Pending AFK: 
+[[29.4.2026 05:45:08]] 🔹 turnQueue: 
+[[29.4.2026 05:45:08]] Odada kalan oyuncu yok.
+[[29.4.2026 08:50:20]] Pending AFK: 
+[[29.4.2026 08:50:20]] 🔹 turnQueue: büş
+[[29.4.2026 08:50:20]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 08:50:29]] === BallKick Başladı ===
+[[29.4.2026 08:50:29]] Player: büş (464)
+[[29.4.2026 08:50:29]] CurrentPlayer: null
+[[29.4.2026 08:50:29]] GameRunning: false
+[[29.4.2026 08:50:29]] TurnQueue: büş
+[[29.4.2026 08:50:43]] === BallKick Başladı ===
+[[29.4.2026 08:50:43]] Player: büş (464)
+[[29.4.2026 08:50:43]] CurrentPlayer: null
+[[29.4.2026 08:50:43]] GameRunning: false
+[[29.4.2026 08:50:43]] TurnQueue: büş
+[[29.4.2026 08:50:53]] === BallKick Başladı ===
+[[29.4.2026 08:50:53]] Player: büş (464)
+[[29.4.2026 08:50:53]] CurrentPlayer: null
+[[29.4.2026 08:50:53]] GameRunning: false
+[[29.4.2026 08:50:53]] TurnQueue: büş
+[[29.4.2026 08:50:54]] Top girdi: red (ID: 16) by büş (464)
+[[29.4.2026 08:50:54]] Renk atandı: büş -> red, Rakip -> mavi
+[[29.4.2026 08:50:54]] Rakip top kontrolü: red by büş
+[[29.4.2026 08:50:57]] === BallKick Başladı ===
+[[29.4.2026 08:50:57]] Player: büş (464)
+[[29.4.2026 08:50:57]] CurrentPlayer: null
+[[29.4.2026 08:50:57]] GameRunning: false
+[[29.4.2026 08:50:57]] TurnQueue: büş
+[[29.4.2026 08:51:02]] === BallKick Başladı ===
+[[29.4.2026 08:51:02]] Player: büş (464)
+[[29.4.2026 08:51:02]] CurrentPlayer: null
+[[29.4.2026 08:51:02]] GameRunning: false
+[[29.4.2026 08:51:02]] TurnQueue: büş
+[[29.4.2026 08:51:06]] === BallKick Başladı ===
+[[29.4.2026 08:51:06]] Player: büş (464)
+[[29.4.2026 08:51:06]] CurrentPlayer: null
+[[29.4.2026 08:51:06]] GameRunning: false
+[[29.4.2026 08:51:06]] TurnQueue: büş
+[[29.4.2026 08:51:20]] Pending AFK: 
+[[29.4.2026 08:51:20]] Pending AFK: 
+[[29.4.2026 08:51:20]] 🔹 turnQueue: 
+[[29.4.2026 08:51:20]] Odada kalan oyuncu yok.
+[[29.4.2026 09:12:28]] Pending AFK: 
+[[29.4.2026 09:12:28]] 🔹 turnQueue: suriyeli
+[[29.4.2026 09:12:28]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 09:12:38]] Pending AFK: 
+[[29.4.2026 09:12:38]] Pending AFK: 
+[[29.4.2026 09:12:38]] 🔹 turnQueue: 
+[[29.4.2026 09:12:38]] Odada kalan oyuncu yok.
+[[29.4.2026 09:45:29]] Pending AFK: 
+[[29.4.2026 09:45:29]] 🔹 turnQueue: Sulukuleli
+[[29.4.2026 09:45:29]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 09:45:37]] === BallKick Başladı ===
+[[29.4.2026 09:45:37]] Player: Sulukuleli (192)
+[[29.4.2026 09:45:37]] CurrentPlayer: null
+[[29.4.2026 09:45:37]] GameRunning: false
+[[29.4.2026 09:45:37]] TurnQueue: Sulukuleli
+[[29.4.2026 09:45:44]] === BallKick Başladı ===
+[[29.4.2026 09:45:44]] Player: Sulukuleli (192)
+[[29.4.2026 09:45:44]] CurrentPlayer: null
+[[29.4.2026 09:45:44]] GameRunning: false
+[[29.4.2026 09:45:44]] TurnQueue: Sulukuleli
+[[29.4.2026 09:45:46]] === BallKick Başladı ===
+[[29.4.2026 09:45:46]] Player: Sulukuleli (192)
+[[29.4.2026 09:45:46]] CurrentPlayer: null
+[[29.4.2026 09:45:46]] GameRunning: false
+[[29.4.2026 09:45:46]] TurnQueue: Sulukuleli
+[[29.4.2026 09:45:53]] === BallKick Başladı ===
+[[29.4.2026 09:45:53]] Player: Sulukuleli (192)
+[[29.4.2026 09:45:53]] CurrentPlayer: null
+[[29.4.2026 09:45:53]] GameRunning: false
+[[29.4.2026 09:45:53]] TurnQueue: Sulukuleli
+[[29.4.2026 09:45:59]] === BallKick Başladı ===
+[[29.4.2026 09:45:59]] Player: Sulukuleli (192)
+[[29.4.2026 09:45:59]] CurrentPlayer: null
+[[29.4.2026 09:45:59]] GameRunning: false
+[[29.4.2026 09:45:59]] TurnQueue: Sulukuleli
+[[29.4.2026 09:46:06]] === BallKick Başladı ===
+[[29.4.2026 09:46:06]] Player: Sulukuleli (192)
+[[29.4.2026 09:46:06]] CurrentPlayer: null
+[[29.4.2026 09:46:06]] GameRunning: false
+[[29.4.2026 09:46:06]] TurnQueue: Sulukuleli
+[[29.4.2026 09:46:16]] Pending AFK: 
+[[29.4.2026 09:46:16]] 🔹 turnQueue: Sulukuleli, .
+[[29.4.2026 09:46:16]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 09:46:16]] Process pendingden önce: Sulukuleli, .
+[[29.4.2026 09:46:16]] Pending AFK: 
+[[29.4.2026 09:46:16]] Process pendingden sonra: Sulukuleli, .
+[[29.4.2026 09:46:16]] 🔹 turnQueue: Sulukuleli, .
+[[29.4.2026 09:46:16]] join check: true, length: 2
+[[29.4.2026 09:46:26]] === BallKick Başladı ===
+[[29.4.2026 09:46:26]] Player: Sulukuleli (192)
+[[29.4.2026 09:46:26]] CurrentPlayer: 192
+[[29.4.2026 09:46:26]] GameRunning: true
+[[29.4.2026 09:46:26]] TurnQueue: Sulukuleli, .
+[[29.4.2026 09:46:56]] === BallKick Başladı ===
+[[29.4.2026 09:46:56]] Player: . (193)
+[[29.4.2026 09:46:56]] CurrentPlayer: 193
+[[29.4.2026 09:46:56]] GameRunning: true
+[[29.4.2026 09:46:56]] TurnQueue: Sulukuleli, .
+[[29.4.2026 09:46:56]] Top girdi: red (ID: 3) by . (193)
+[[29.4.2026 09:46:56]] Renk atandı: . -> red, Rakip -> mavi
+[[29.4.2026 09:46:56]] Rakip top kontrolü: red by .
+[[29.4.2026 09:47:19]] === BallKick Başladı ===
+[[29.4.2026 09:47:19]] Player: . (193)
+[[29.4.2026 09:47:19]] CurrentPlayer: 193
+[[29.4.2026 09:47:19]] GameRunning: true
+[[29.4.2026 09:47:19]] TurnQueue: Sulukuleli, .
+[[29.4.2026 09:47:24]] Pending AFK: 
+[[29.4.2026 09:47:24]] Pending AFK: 
+[[29.4.2026 09:47:24]] 🔹 turnQueue: Sulukuleli
+[[29.4.2026 09:47:27]] === BallKick Başladı ===
+[[29.4.2026 09:47:27]] Player: Sulukuleli (192)
+[[29.4.2026 09:47:27]] CurrentPlayer: 193
+[[29.4.2026 09:47:27]] GameRunning: false
+[[29.4.2026 09:47:27]] TurnQueue: Sulukuleli
+[[29.4.2026 09:47:32]] === BallKick Başladı ===
+[[29.4.2026 09:47:32]] Player: Sulukuleli (192)
+[[29.4.2026 09:47:32]] CurrentPlayer: 193
+[[29.4.2026 09:47:32]] GameRunning: false
+[[29.4.2026 09:47:32]] TurnQueue: Sulukuleli
+[[29.4.2026 09:47:39]] === BallKick Başladı ===
+[[29.4.2026 09:47:39]] Player: Sulukuleli (192)
+[[29.4.2026 09:47:39]] CurrentPlayer: 193
+[[29.4.2026 09:47:39]] GameRunning: false
+[[29.4.2026 09:47:39]] TurnQueue: Sulukuleli
+[[29.4.2026 09:47:50]] === BallKick Başladı ===
+[[29.4.2026 09:47:50]] Player: Sulukuleli (192)
+[[29.4.2026 09:47:50]] CurrentPlayer: 193
+[[29.4.2026 09:47:50]] GameRunning: false
+[[29.4.2026 09:47:50]] TurnQueue: Sulukuleli
+[[29.4.2026 09:47:53]] Pending AFK: 
+[[29.4.2026 09:47:53]] Pending AFK: 
+[[29.4.2026 09:47:53]] 🔹 turnQueue: 
+[[29.4.2026 09:47:53]] Odada kalan oyuncu yok.
+[[29.4.2026 10:03:08]] Pending AFK: 
+[[29.4.2026 10:03:08]] 🔹 turnQueue: MU
+[[29.4.2026 10:03:08]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 10:03:13]] === BallKick Başladı ===
+[[29.4.2026 10:03:13]] Player: MU (466)
+[[29.4.2026 10:03:13]] CurrentPlayer: null
+[[29.4.2026 10:03:13]] GameRunning: false
+[[29.4.2026 10:03:13]] TurnQueue: MU
+[[29.4.2026 10:03:15]] === BallKick Başladı ===
+[[29.4.2026 10:03:15]] Player: MU (466)
+[[29.4.2026 10:03:15]] CurrentPlayer: null
+[[29.4.2026 10:03:15]] GameRunning: false
+[[29.4.2026 10:03:15]] TurnQueue: MU
+[[29.4.2026 10:03:16]] === BallKick Başladı ===
+[[29.4.2026 10:03:16]] Player: MU (466)
+[[29.4.2026 10:03:16]] CurrentPlayer: null
+[[29.4.2026 10:03:16]] GameRunning: false
+[[29.4.2026 10:03:16]] TurnQueue: MU
+[[29.4.2026 10:03:27]] === BallKick Başladı ===
+[[29.4.2026 10:03:27]] Player: MU (466)
+[[29.4.2026 10:03:27]] CurrentPlayer: null
+[[29.4.2026 10:03:27]] GameRunning: false
+[[29.4.2026 10:03:27]] TurnQueue: MU
+[[29.4.2026 10:03:31]] === BallKick Başladı ===
+[[29.4.2026 10:03:31]] Player: MU (466)
+[[29.4.2026 10:03:31]] CurrentPlayer: null
+[[29.4.2026 10:03:31]] GameRunning: false
+[[29.4.2026 10:03:31]] TurnQueue: MU
+[[29.4.2026 10:03:45]] === BallKick Başladı ===
+[[29.4.2026 10:03:45]] Player: MU (466)
+[[29.4.2026 10:03:45]] CurrentPlayer: null
+[[29.4.2026 10:03:45]] GameRunning: false
+[[29.4.2026 10:03:45]] TurnQueue: MU
+[[29.4.2026 10:03:49]] Pending AFK: 
+[[29.4.2026 10:03:49]] Pending AFK: 
+[[29.4.2026 10:03:49]] 🔹 turnQueue: 
+[[29.4.2026 10:03:49]] Odada kalan oyuncu yok.
+[[29.4.2026 13:22:21]] Pending AFK: 
+[[29.4.2026 13:22:21]] 🔹 turnQueue: korhan
+[[29.4.2026 13:22:21]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 13:22:23]] Pending AFK: 
+[[29.4.2026 13:22:23]] Pending AFK: 
+[[29.4.2026 13:22:23]] 🔹 turnQueue: 
+[[29.4.2026 13:22:23]] Odada kalan oyuncu yok.
+[[29.4.2026 15:09:48]] Pending AFK: 
+[[29.4.2026 15:09:48]] 🔹 turnQueue: asdasd
+[[29.4.2026 15:09:48]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 15:10:04]] === BallKick Başladı ===
+[[29.4.2026 15:10:04]] Player: asdasd (468)
+[[29.4.2026 15:10:04]] CurrentPlayer: null
+[[29.4.2026 15:10:04]] GameRunning: false
+[[29.4.2026 15:10:04]] TurnQueue: asdasd
+[[29.4.2026 15:10:10]] === BallKick Başladı ===
+[[29.4.2026 15:10:10]] Player: asdasd (468)
+[[29.4.2026 15:10:10]] CurrentPlayer: null
+[[29.4.2026 15:10:10]] GameRunning: false
+[[29.4.2026 15:10:10]] TurnQueue: asdasd
+[[29.4.2026 15:10:17]] === BallKick Başladı ===
+[[29.4.2026 15:10:17]] Player: asdasd (468)
+[[29.4.2026 15:10:17]] CurrentPlayer: null
+[[29.4.2026 15:10:17]] GameRunning: false
+[[29.4.2026 15:10:17]] TurnQueue: asdasd
+[[29.4.2026 15:10:20]] === BallKick Başladı ===
+[[29.4.2026 15:10:20]] Player: asdasd (468)
+[[29.4.2026 15:10:20]] CurrentPlayer: null
+[[29.4.2026 15:10:20]] GameRunning: false
+[[29.4.2026 15:10:20]] TurnQueue: asdasd
+[[29.4.2026 15:10:20]] === BallKick Başladı ===
+[[29.4.2026 15:10:20]] Player: asdasd (468)
+[[29.4.2026 15:10:20]] CurrentPlayer: null
+[[29.4.2026 15:10:20]] GameRunning: false
+[[29.4.2026 15:10:20]] TurnQueue: asdasd
+[[29.4.2026 15:10:21]] === BallKick Başladı ===
+[[29.4.2026 15:10:21]] Player: asdasd (468)
+[[29.4.2026 15:10:21]] CurrentPlayer: null
+[[29.4.2026 15:10:21]] GameRunning: false
+[[29.4.2026 15:10:21]] TurnQueue: asdasd
+[[29.4.2026 15:10:35]] Pending AFK: 
+[[29.4.2026 15:10:35]] Pending AFK: 
+[[29.4.2026 15:10:35]] 🔹 turnQueue: 
+[[29.4.2026 15:10:35]] Odada kalan oyuncu yok.
+[[29.4.2026 15:19:17]] Pending AFK: 
+[[29.4.2026 15:19:17]] 🔹 turnQueue: Player
+[[29.4.2026 15:19:17]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 15:19:30]] === BallKick Başladı ===
+[[29.4.2026 15:19:30]] Player: Player (469)
+[[29.4.2026 15:19:30]] CurrentPlayer: null
+[[29.4.2026 15:19:30]] GameRunning: false
+[[29.4.2026 15:19:30]] TurnQueue: Player
+[[29.4.2026 15:19:55]] === BallKick Başladı ===
+[[29.4.2026 15:19:55]] Player: Player (469)
+[[29.4.2026 15:19:55]] CurrentPlayer: null
+[[29.4.2026 15:19:55]] GameRunning: false
+[[29.4.2026 15:19:55]] TurnQueue: Player
+[[29.4.2026 15:20:04]] Pending AFK: 
+[[29.4.2026 15:20:04]] 🔹 turnQueue: Player, COMOLOKKOxdd
+[[29.4.2026 15:20:04]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 15:20:04]] Process pendingden önce: Player, COMOLOKKOxdd
+[[29.4.2026 15:20:04]] Pending AFK: 
+[[29.4.2026 15:20:04]] Process pendingden sonra: Player, COMOLOKKOxdd
+[[29.4.2026 15:20:04]] 🔹 turnQueue: Player, COMOLOKKOxdd
+[[29.4.2026 15:20:04]] join check: true, length: 2
+[[29.4.2026 15:20:11]] === BallKick Başladı ===
+[[29.4.2026 15:20:11]] Player: Player (469)
+[[29.4.2026 15:20:11]] CurrentPlayer: 469
+[[29.4.2026 15:20:11]] GameRunning: true
+[[29.4.2026 15:20:11]] TurnQueue: Player, COMOLOKKOxdd
+[[29.4.2026 15:20:21]] Pending AFK: 
+[[29.4.2026 15:20:21]] 🔹 turnQueue: Player, COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:20:21]] join check: true, length: 3
+[[29.4.2026 15:20:36]] === BallKick Başladı ===
+[[29.4.2026 15:20:36]] Player: COMOLOKKOxdd (470)
+[[29.4.2026 15:20:36]] CurrentPlayer: 470
+[[29.4.2026 15:20:36]] GameRunning: true
+[[29.4.2026 15:20:36]] TurnQueue: Player, COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:20:42]] Pending AFK: 
+[[29.4.2026 15:20:42]] Pending AFK: 
+[[29.4.2026 15:20:42]] 🔹 turnQueue: Player, Adnan Yılmaz
+[[29.4.2026 15:20:42]] 🔹 turnQueue: Player, Adnan Yılmaz
+[[29.4.2026 15:20:42]] Already Ranked çıktıdan önce: false
+[[29.4.2026 15:20:42]] Pending AFK: 
+[[29.4.2026 15:20:42]] Pending AFK: 
+[[29.4.2026 15:20:42]] 🔹 turnQueue: Player
+[[29.4.2026 15:20:46]] Pending AFK: 
+[[29.4.2026 15:20:46]] 🔹 turnQueue: COMOLOKKOxdd
+[[29.4.2026 15:20:46]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 15:20:46]] === BallKick Başladı ===
+[[29.4.2026 15:20:46]] Player: Player (469)
+[[29.4.2026 15:20:46]] CurrentPlayer: 470
+[[29.4.2026 15:20:46]] GameRunning: false
+[[29.4.2026 15:20:46]] TurnQueue: Player
+[[29.4.2026 15:20:48]] === BallKick Başladı ===
+[[29.4.2026 15:20:48]] Player: Player (469)
+[[29.4.2026 15:20:48]] CurrentPlayer: 470
+[[29.4.2026 15:20:48]] GameRunning: false
+[[29.4.2026 15:20:48]] TurnQueue: Player
+[[29.4.2026 15:20:50]] === BallKick Başladı ===
+[[29.4.2026 15:20:50]] Player: Player (469)
+[[29.4.2026 15:20:50]] CurrentPlayer: 470
+[[29.4.2026 15:20:50]] GameRunning: false
+[[29.4.2026 15:20:50]] TurnQueue: Player
+[[29.4.2026 15:20:50]] Pending AFK: 
+[[29.4.2026 15:20:50]] 🔹 turnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:20:50]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 15:20:50]] Process pendingden önce: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:20:50]] Pending AFK: 
+[[29.4.2026 15:20:50]] Process pendingden sonra: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:20:50]] 🔹 turnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:20:50]] join check: true, length: 2
+[[29.4.2026 15:20:56]] === BallKick Başladı ===
+[[29.4.2026 15:20:56]] Player: Player (469)
+[[29.4.2026 15:20:56]] CurrentPlayer: 470
+[[29.4.2026 15:20:56]] GameRunning: false
+[[29.4.2026 15:20:56]] TurnQueue: Player
+[[29.4.2026 15:20:56]] Top girdi: red (ID: 8) by Player (469)
+[[29.4.2026 15:20:56]] Renk atandı: Player -> red, Rakip -> mavi
+[[29.4.2026 15:20:56]] Rakip top kontrolü: red by Player
+[[29.4.2026 15:20:57]] === BallKick Başladı ===
+[[29.4.2026 15:20:57]] Player: COMOLOKKOxdd (194)
+[[29.4.2026 15:20:57]] CurrentPlayer: 194
+[[29.4.2026 15:20:57]] GameRunning: true
+[[29.4.2026 15:20:57]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:20:58]] Top girdi: red (ID: 16) by Player (469)
+[[29.4.2026 15:20:58]] Doğru top sokuldu: red by Player. Skor: 2
+[[29.4.2026 15:20:58]] Rakip top kontrolü: red by Player
+[[29.4.2026 15:21:05]] === BallKick Başladı ===
+[[29.4.2026 15:21:05]] Player: Player (469)
+[[29.4.2026 15:21:05]] CurrentPlayer: 470
+[[29.4.2026 15:21:05]] GameRunning: false
+[[29.4.2026 15:21:05]] TurnQueue: Player
+[[29.4.2026 15:21:07]] Top girdi: siyah (ID: 6) by Player (469)
+[[29.4.2026 15:21:07]] Rakip top kontrolü: siyah by Player
+[[29.4.2026 15:21:12]] === BallKick Başladı ===
+[[29.4.2026 15:21:12]] Player: Player (469)
+[[29.4.2026 15:21:12]] CurrentPlayer: 470
+[[29.4.2026 15:21:12]] GameRunning: false
+[[29.4.2026 15:21:12]] TurnQueue: Player
+[[29.4.2026 15:21:13]] === BallKick Başladı ===
+[[29.4.2026 15:21:13]] Player: Adnan Yılmaz (195)
+[[29.4.2026 15:21:13]] CurrentPlayer: 195
+[[29.4.2026 15:21:13]] GameRunning: true
+[[29.4.2026 15:21:13]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:21:28]] === BallKick Başladı ===
+[[29.4.2026 15:21:28]] Player: Player (469)
+[[29.4.2026 15:21:28]] CurrentPlayer: 470
+[[29.4.2026 15:21:28]] GameRunning: false
+[[29.4.2026 15:21:28]] TurnQueue: Player
+[[29.4.2026 15:21:31]] === BallKick Başladı ===
+[[29.4.2026 15:21:31]] Player: COMOLOKKOxdd (194)
+[[29.4.2026 15:21:31]] CurrentPlayer: 194
+[[29.4.2026 15:21:31]] GameRunning: true
+[[29.4.2026 15:21:31]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:21:32]] Top girdi: red (ID: 3) by COMOLOKKOxdd (194)
+[[29.4.2026 15:21:32]] Renk atandı: COMOLOKKOxdd -> red, Rakip -> mavi
+[[29.4.2026 15:21:32]] Rakip top kontrolü: red by COMOLOKKOxdd
+[[29.4.2026 15:21:32]] === BallKick Başladı ===
+[[29.4.2026 15:21:32]] Player: Player (469)
+[[29.4.2026 15:21:32]] CurrentPlayer: 470
+[[29.4.2026 15:21:32]] GameRunning: false
+[[29.4.2026 15:21:32]] TurnQueue: Player
+[[29.4.2026 15:21:33]] === BallKick Başladı ===
+[[29.4.2026 15:21:33]] Player: Player (469)
+[[29.4.2026 15:21:33]] CurrentPlayer: 470
+[[29.4.2026 15:21:33]] GameRunning: false
+[[29.4.2026 15:21:33]] TurnQueue: Player
+[[29.4.2026 15:21:43]] === BallKick Başladı ===
+[[29.4.2026 15:21:43]] Player: Player (469)
+[[29.4.2026 15:21:43]] CurrentPlayer: 470
+[[29.4.2026 15:21:43]] GameRunning: false
+[[29.4.2026 15:21:43]] TurnQueue: Player
+[[29.4.2026 15:21:46]] === BallKick Başladı ===
+[[29.4.2026 15:21:46]] Player: Player (469)
+[[29.4.2026 15:21:46]] CurrentPlayer: 470
+[[29.4.2026 15:21:46]] GameRunning: false
+[[29.4.2026 15:21:46]] TurnQueue: Player
+[[29.4.2026 15:21:48]] === BallKick Başladı ===
+[[29.4.2026 15:21:48]] Player: COMOLOKKOxdd (194)
+[[29.4.2026 15:21:48]] CurrentPlayer: 194
+[[29.4.2026 15:21:48]] GameRunning: true
+[[29.4.2026 15:21:48]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:21:49]] Top girdi: red (ID: 7) by COMOLOKKOxdd (194)
+[[29.4.2026 15:21:49]] Doğru top sokuldu: red by COMOLOKKOxdd. Skor: 2
+[[29.4.2026 15:21:49]] Rakip top kontrolü: red by COMOLOKKOxdd
+[[29.4.2026 15:21:52]] === BallKick Başladı ===
+[[29.4.2026 15:21:52]] Player: Player (469)
+[[29.4.2026 15:21:52]] CurrentPlayer: 470
+[[29.4.2026 15:21:52]] GameRunning: false
+[[29.4.2026 15:21:52]] TurnQueue: Player
+[[29.4.2026 15:21:54]] === BallKick Başladı ===
+[[29.4.2026 15:21:54]] Player: Player (469)
+[[29.4.2026 15:21:54]] CurrentPlayer: 470
+[[29.4.2026 15:21:54]] GameRunning: false
+[[29.4.2026 15:21:54]] TurnQueue: Player
+[[29.4.2026 15:21:54]] === BallKick Başladı ===
+[[29.4.2026 15:21:54]] Player: Player (469)
+[[29.4.2026 15:21:54]] CurrentPlayer: 470
+[[29.4.2026 15:21:54]] GameRunning: false
+[[29.4.2026 15:21:54]] TurnQueue: Player
+[[29.4.2026 15:21:56]] === BallKick Başladı ===
+[[29.4.2026 15:21:56]] Player: Player (469)
+[[29.4.2026 15:21:56]] CurrentPlayer: 470
+[[29.4.2026 15:21:56]] GameRunning: false
+[[29.4.2026 15:21:56]] TurnQueue: Player
+[[29.4.2026 15:22:00]] Pending AFK: 
+[[29.4.2026 15:22:00]] Pending AFK: 
+[[29.4.2026 15:22:00]] 🔹 turnQueue: 
+[[29.4.2026 15:22:00]] Odada kalan oyuncu yok.
+[[29.4.2026 15:22:04]] === BallKick Başladı ===
+[[29.4.2026 15:22:04]] Player: COMOLOKKOxdd (194)
+[[29.4.2026 15:22:04]] CurrentPlayer: 194
+[[29.4.2026 15:22:04]] GameRunning: true
+[[29.4.2026 15:22:04]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:22:05]] Top girdi: red (ID: 16) by COMOLOKKOxdd (194)
+[[29.4.2026 15:22:05]] Doğru top sokuldu: red by COMOLOKKOxdd. Skor: 3
+[[29.4.2026 15:22:05]] Rakip top kontrolü: red by COMOLOKKOxdd
+[[29.4.2026 15:22:23]] === BallKick Başladı ===
+[[29.4.2026 15:22:23]] Player: COMOLOKKOxdd (194)
+[[29.4.2026 15:22:23]] CurrentPlayer: 194
+[[29.4.2026 15:22:23]] GameRunning: true
+[[29.4.2026 15:22:23]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:22:39]] === BallKick Başladı ===
+[[29.4.2026 15:22:39]] Player: Adnan Yılmaz (195)
+[[29.4.2026 15:22:39]] CurrentPlayer: 195
+[[29.4.2026 15:22:39]] GameRunning: true
+[[29.4.2026 15:22:39]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:22:39]] Top girdi: mavi (ID: 4) by Adnan Yılmaz (195)
+[[29.4.2026 15:22:39]] Doğru top sokuldu: mavi by Adnan Yılmaz. Skor: 1
+[[29.4.2026 15:22:39]] Rakip top kontrolü: mavi by Adnan Yılmaz
+[[29.4.2026 15:23:05]] === BallKick Başladı ===
+[[29.4.2026 15:23:05]] Player: Adnan Yılmaz (195)
+[[29.4.2026 15:23:05]] CurrentPlayer: 195
+[[29.4.2026 15:23:05]] GameRunning: true
+[[29.4.2026 15:23:05]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:23:22]] === BallKick Başladı ===
+[[29.4.2026 15:23:22]] Player: COMOLOKKOxdd (194)
+[[29.4.2026 15:23:22]] CurrentPlayer: 194
+[[29.4.2026 15:23:22]] GameRunning: true
+[[29.4.2026 15:23:22]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:23:39]] === BallKick Başladı ===
+[[29.4.2026 15:23:39]] Player: Adnan Yılmaz (195)
+[[29.4.2026 15:23:39]] CurrentPlayer: 195
+[[29.4.2026 15:23:39]] GameRunning: true
+[[29.4.2026 15:23:39]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:23:42]] Pending AFK: 
+[[29.4.2026 15:23:42]] 🔹 turnQueue: COMOLOKKOxdd, Adnan Yılmaz, 0slai
+[[29.4.2026 15:23:42]] join check: true, length: 3
+[[29.4.2026 15:23:59]] === BallKick Başladı ===
+[[29.4.2026 15:23:59]] Player: COMOLOKKOxdd (194)
+[[29.4.2026 15:23:59]] CurrentPlayer: 194
+[[29.4.2026 15:23:59]] GameRunning: true
+[[29.4.2026 15:23:59]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz, 0slai
+[[29.4.2026 15:24:18]] Pending AFK: 
+[[29.4.2026 15:24:18]] 🔹 turnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:24:24]] === BallKick Başladı ===
+[[29.4.2026 15:24:24]] Player: Adnan Yılmaz (195)
+[[29.4.2026 15:24:24]] CurrentPlayer: 195
+[[29.4.2026 15:24:24]] GameRunning: true
+[[29.4.2026 15:24:24]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:24:24]] Top girdi: mavi (ID: 15) by Adnan Yılmaz (195)
+[[29.4.2026 15:24:24]] Doğru top sokuldu: mavi by Adnan Yılmaz. Skor: 2
+[[29.4.2026 15:24:24]] Rakip top kontrolü: mavi by Adnan Yılmaz
+[[29.4.2026 15:24:40]] === BallKick Başladı ===
+[[29.4.2026 15:24:40]] Player: Adnan Yılmaz (195)
+[[29.4.2026 15:24:40]] CurrentPlayer: 195
+[[29.4.2026 15:24:40]] GameRunning: true
+[[29.4.2026 15:24:40]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:24:55]] === BallKick Başladı ===
+[[29.4.2026 15:24:55]] Player: COMOLOKKOxdd (194)
+[[29.4.2026 15:24:55]] CurrentPlayer: 194
+[[29.4.2026 15:24:55]] GameRunning: true
+[[29.4.2026 15:24:55]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:25:11]] === BallKick Başladı ===
+[[29.4.2026 15:25:11]] Player: Adnan Yılmaz (195)
+[[29.4.2026 15:25:11]] CurrentPlayer: 195
+[[29.4.2026 15:25:11]] GameRunning: true
+[[29.4.2026 15:25:11]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:25:30]] === BallKick Başladı ===
+[[29.4.2026 15:25:30]] Player: COMOLOKKOxdd (194)
+[[29.4.2026 15:25:30]] CurrentPlayer: 194
+[[29.4.2026 15:25:30]] GameRunning: true
+[[29.4.2026 15:25:30]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:25:32]] Top girdi: red (ID: 10) by COMOLOKKOxdd (194)
+[[29.4.2026 15:25:32]] Doğru top sokuldu: red by COMOLOKKOxdd. Skor: 4
+[[29.4.2026 15:25:32]] Rakip top kontrolü: red by COMOLOKKOxdd
+[[29.4.2026 15:25:46]] === BallKick Başladı ===
+[[29.4.2026 15:25:46]] Player: COMOLOKKOxdd (194)
+[[29.4.2026 15:25:46]] CurrentPlayer: 194
+[[29.4.2026 15:25:46]] GameRunning: true
+[[29.4.2026 15:25:46]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:25:50]] Top girdi: mavi (ID: 12) by COMOLOKKOxdd (194)
+[[29.4.2026 15:25:50]] Rakip top kontrolü: mavi by COMOLOKKOxdd
+[[29.4.2026 15:25:50]] Rakip top sokuldu: mavi by COMOLOKKOxdd. Rakip Skor: 3
+[[29.4.2026 15:26:11]] === BallKick Başladı ===
+[[29.4.2026 15:26:11]] Player: Adnan Yılmaz (195)
+[[29.4.2026 15:26:11]] CurrentPlayer: 195
+[[29.4.2026 15:26:11]] GameRunning: true
+[[29.4.2026 15:26:11]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:26:11]] Top girdi: mavi (ID: 2) by Adnan Yılmaz (195)
+[[29.4.2026 15:26:11]] Doğru top sokuldu: mavi by Adnan Yılmaz. Skor: 4
+[[29.4.2026 15:26:11]] Rakip top kontrolü: mavi by Adnan Yılmaz
+[[29.4.2026 15:26:27]] === BallKick Başladı ===
+[[29.4.2026 15:26:27]] Player: Adnan Yılmaz (195)
+[[29.4.2026 15:26:27]] CurrentPlayer: 195
+[[29.4.2026 15:26:27]] GameRunning: true
+[[29.4.2026 15:26:27]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:26:45]] === BallKick Başladı ===
+[[29.4.2026 15:26:45]] Player: COMOLOKKOxdd (194)
+[[29.4.2026 15:26:45]] CurrentPlayer: 194
+[[29.4.2026 15:26:45]] GameRunning: true
+[[29.4.2026 15:26:45]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:26:53]] Pending AFK: 
+[[29.4.2026 15:26:53]] 🔹 turnQueue: COMOLOKKOxdd, Adnan Yılmaz, Warrior07
+[[29.4.2026 15:26:53]] join check: true, length: 3
+[[29.4.2026 15:26:58]] === BallKick Başladı ===
+[[29.4.2026 15:26:58]] Player: Adnan Yılmaz (195)
+[[29.4.2026 15:26:58]] CurrentPlayer: 195
+[[29.4.2026 15:26:58]] GameRunning: true
+[[29.4.2026 15:26:58]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz, Warrior07
+[[29.4.2026 15:27:14]] === BallKick Başladı ===
+[[29.4.2026 15:27:14]] Player: COMOLOKKOxdd (194)
+[[29.4.2026 15:27:14]] CurrentPlayer: 194
+[[29.4.2026 15:27:14]] GameRunning: true
+[[29.4.2026 15:27:14]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz, Warrior07
+[[29.4.2026 15:27:30]] Pending AFK: 
+[[29.4.2026 15:27:30]] 🔹 turnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:27:37]] === BallKick Başladı ===
+[[29.4.2026 15:27:37]] Player: Adnan Yılmaz (195)
+[[29.4.2026 15:27:37]] CurrentPlayer: 195
+[[29.4.2026 15:27:37]] GameRunning: true
+[[29.4.2026 15:27:37]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:27:38]] Top girdi: mavi (ID: 11) by Adnan Yılmaz (195)
+[[29.4.2026 15:27:38]] Doğru top sokuldu: mavi by Adnan Yılmaz. Skor: 5
+[[29.4.2026 15:27:38]] Rakip top kontrolü: mavi by Adnan Yılmaz
+[[29.4.2026 15:27:53]] === BallKick Başladı ===
+[[29.4.2026 15:27:53]] Player: Adnan Yılmaz (195)
+[[29.4.2026 15:27:53]] CurrentPlayer: 195
+[[29.4.2026 15:27:53]] GameRunning: true
+[[29.4.2026 15:27:53]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:28:08]] === BallKick Başladı ===
+[[29.4.2026 15:28:08]] Player: COMOLOKKOxdd (194)
+[[29.4.2026 15:28:08]] CurrentPlayer: 194
+[[29.4.2026 15:28:08]] GameRunning: true
+[[29.4.2026 15:28:08]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:28:27]] === BallKick Başladı ===
+[[29.4.2026 15:28:27]] Player: Adnan Yılmaz (195)
+[[29.4.2026 15:28:27]] CurrentPlayer: 195
+[[29.4.2026 15:28:27]] GameRunning: true
+[[29.4.2026 15:28:27]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:28:55]] === BallKick Başladı ===
+[[29.4.2026 15:28:55]] Player: COMOLOKKOxdd (194)
+[[29.4.2026 15:28:55]] CurrentPlayer: 194
+[[29.4.2026 15:28:55]] GameRunning: true
+[[29.4.2026 15:28:55]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:28:58]] Top girdi: mavi (ID: 5) by COMOLOKKOxdd (194)
+[[29.4.2026 15:28:58]] Rakip top kontrolü: mavi by COMOLOKKOxdd
+[[29.4.2026 15:28:58]] Rakip top sokuldu: mavi by COMOLOKKOxdd. Rakip Skor: 6
+[[29.4.2026 15:29:20]] === BallKick Başladı ===
+[[29.4.2026 15:29:20]] Player: Adnan Yılmaz (195)
+[[29.4.2026 15:29:20]] CurrentPlayer: 195
+[[29.4.2026 15:29:20]] GameRunning: true
+[[29.4.2026 15:29:20]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:29:21]] Top girdi: mavi (ID: 9) by Adnan Yılmaz (195)
+[[29.4.2026 15:29:21]] Doğru top sokuldu: mavi by Adnan Yılmaz. Skor: 7
+[[29.4.2026 15:29:21]] Rakip top kontrolü: mavi by Adnan Yılmaz
+[[29.4.2026 15:29:54]] === BallKick Başladı ===
+[[29.4.2026 15:29:54]] Player: Adnan Yılmaz (195)
+[[29.4.2026 15:29:54]] CurrentPlayer: 195
+[[29.4.2026 15:29:54]] GameRunning: true
+[[29.4.2026 15:29:54]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:30:10]] === BallKick Başladı ===
+[[29.4.2026 15:30:10]] Player: COMOLOKKOxdd (194)
+[[29.4.2026 15:30:10]] CurrentPlayer: 194
+[[29.4.2026 15:30:10]] GameRunning: true
+[[29.4.2026 15:30:10]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:30:30]] === BallKick Başladı ===
+[[29.4.2026 15:30:30]] Player: Adnan Yılmaz (195)
+[[29.4.2026 15:30:30]] CurrentPlayer: 195
+[[29.4.2026 15:30:30]] GameRunning: true
+[[29.4.2026 15:30:30]] TurnQueue: COMOLOKKOxdd, Adnan Yılmaz
+[[29.4.2026 15:30:31]] Top girdi: siyah (ID: 6) by Adnan Yılmaz (195)
+[[29.4.2026 15:30:31]] Rakip top kontrolü: siyah by Adnan Yılmaz
+[[29.4.2026 15:30:31]] Already Ranked durumu: false
+[[29.4.2026 15:30:31]] Already Ranked durumu (restart sonrası): false
+[[29.4.2026 15:30:38]] [DEBUG] Siyah Top Giriş Deliği İndeksi: Orta Alt
+[[29.4.2026 15:30:38]] blackBallDisc bulundu mu?: true
+[[29.4.2026 15:30:45]] Process pendingden önce: Adnan Yılmaz, COMOLOKKOxdd
+[[29.4.2026 15:30:45]] Pending AFK: 
+[[29.4.2026 15:30:45]] Process pendingden sonra: Adnan Yılmaz, COMOLOKKOxdd
+[[29.4.2026 15:30:45]] 🔹 turnQueue: Adnan Yılmaz, COMOLOKKOxdd
+[[29.4.2026 15:30:53]] Pending AFK: 
+[[29.4.2026 15:30:53]] Pending AFK: 
+[[29.4.2026 15:30:53]] 🔹 turnQueue: COMOLOKKOxdd
+[[29.4.2026 15:30:55]] Pending AFK: 
+[[29.4.2026 15:30:55]] Pending AFK: 
+[[29.4.2026 15:30:55]] 🔹 turnQueue: 
+[[29.4.2026 15:30:55]] Odada kalan oyuncu yok.
+[[29.4.2026 16:04:53]] Pending AFK: 
+[[29.4.2026 16:04:53]] 🔹 turnQueue: d2
+[[29.4.2026 16:04:54]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 16:05:01]] === BallKick Başladı ===
+[[29.4.2026 16:05:01]] Player: d2 (472)
+[[29.4.2026 16:05:01]] CurrentPlayer: null
+[[29.4.2026 16:05:01]] GameRunning: false
+[[29.4.2026 16:05:01]] TurnQueue: d2
+[[29.4.2026 16:05:08]] === BallKick Başladı ===
+[[29.4.2026 16:05:08]] Player: d2 (472)
+[[29.4.2026 16:05:08]] CurrentPlayer: null
+[[29.4.2026 16:05:08]] GameRunning: false
+[[29.4.2026 16:05:08]] TurnQueue: d2
+[[29.4.2026 16:05:10]] === BallKick Başladı ===
+[[29.4.2026 16:05:10]] Player: d2 (472)
+[[29.4.2026 16:05:10]] CurrentPlayer: null
+[[29.4.2026 16:05:10]] GameRunning: false
+[[29.4.2026 16:05:10]] TurnQueue: d2
+[[29.4.2026 16:05:12]] Top girdi: red (ID: 13) by d2 (472)
+[[29.4.2026 16:05:12]] Renk atandı: d2 -> red, Rakip -> mavi
+[[29.4.2026 16:05:12]] Rakip top kontrolü: red by d2
+[[29.4.2026 16:05:14]] === BallKick Başladı ===
+[[29.4.2026 16:05:14]] Player: d2 (472)
+[[29.4.2026 16:05:14]] CurrentPlayer: null
+[[29.4.2026 16:05:14]] GameRunning: false
+[[29.4.2026 16:05:14]] TurnQueue: d2
+[[29.4.2026 16:05:17]] === BallKick Başladı ===
+[[29.4.2026 16:05:17]] Player: d2 (472)
+[[29.4.2026 16:05:17]] CurrentPlayer: null
+[[29.4.2026 16:05:17]] GameRunning: false
+[[29.4.2026 16:05:17]] TurnQueue: d2
+[[29.4.2026 16:05:21]] === BallKick Başladı ===
+[[29.4.2026 16:05:21]] Player: d2 (472)
+[[29.4.2026 16:05:21]] CurrentPlayer: null
+[[29.4.2026 16:05:21]] GameRunning: false
+[[29.4.2026 16:05:21]] TurnQueue: d2
+[[29.4.2026 16:05:25]] === BallKick Başladı ===
+[[29.4.2026 16:05:25]] Player: d2 (472)
+[[29.4.2026 16:05:25]] CurrentPlayer: null
+[[29.4.2026 16:05:25]] GameRunning: false
+[[29.4.2026 16:05:25]] TurnQueue: d2
+[[29.4.2026 16:05:28]] === BallKick Başladı ===
+[[29.4.2026 16:05:28]] Player: d2 (472)
+[[29.4.2026 16:05:28]] CurrentPlayer: null
+[[29.4.2026 16:05:28]] GameRunning: false
+[[29.4.2026 16:05:28]] TurnQueue: d2
+[[29.4.2026 16:05:33]] === BallKick Başladı ===
+[[29.4.2026 16:05:33]] Player: d2 (472)
+[[29.4.2026 16:05:33]] CurrentPlayer: null
+[[29.4.2026 16:05:33]] GameRunning: false
+[[29.4.2026 16:05:33]] TurnQueue: d2
+[[29.4.2026 16:05:36]] === BallKick Başladı ===
+[[29.4.2026 16:05:36]] Player: d2 (472)
+[[29.4.2026 16:05:36]] CurrentPlayer: null
+[[29.4.2026 16:05:36]] GameRunning: false
+[[29.4.2026 16:05:36]] TurnQueue: d2
+[[29.4.2026 16:05:36]] === BallKick Başladı ===
+[[29.4.2026 16:05:36]] Player: d2 (472)
+[[29.4.2026 16:05:36]] CurrentPlayer: null
+[[29.4.2026 16:05:36]] GameRunning: false
+[[29.4.2026 16:05:36]] TurnQueue: d2
+[[29.4.2026 16:05:37]] === BallKick Başladı ===
+[[29.4.2026 16:05:37]] Player: d2 (472)
+[[29.4.2026 16:05:37]] CurrentPlayer: null
+[[29.4.2026 16:05:37]] GameRunning: false
+[[29.4.2026 16:05:37]] TurnQueue: d2
+[[29.4.2026 16:05:38]] === BallKick Başladı ===
+[[29.4.2026 16:05:38]] Player: d2 (472)
+[[29.4.2026 16:05:38]] CurrentPlayer: null
+[[29.4.2026 16:05:38]] GameRunning: false
+[[29.4.2026 16:05:38]] TurnQueue: d2
+[[29.4.2026 16:05:40]] === BallKick Başladı ===
+[[29.4.2026 16:05:40]] Player: d2 (472)
+[[29.4.2026 16:05:40]] CurrentPlayer: null
+[[29.4.2026 16:05:40]] GameRunning: false
+[[29.4.2026 16:05:40]] TurnQueue: d2
+[[29.4.2026 16:05:41]] === BallKick Başladı ===
+[[29.4.2026 16:05:41]] Player: d2 (472)
+[[29.4.2026 16:05:41]] CurrentPlayer: null
+[[29.4.2026 16:05:41]] GameRunning: false
+[[29.4.2026 16:05:41]] TurnQueue: d2
+[[29.4.2026 16:05:42]] Top girdi: red (ID: 14) by d2 (472)
+[[29.4.2026 16:05:42]] Doğru top sokuldu: red by d2. Skor: 2
+[[29.4.2026 16:05:42]] Rakip top kontrolü: red by d2
+[[29.4.2026 16:05:44]] === BallKick Başladı ===
+[[29.4.2026 16:05:44]] Player: d2 (472)
+[[29.4.2026 16:05:44]] CurrentPlayer: null
+[[29.4.2026 16:05:44]] GameRunning: false
+[[29.4.2026 16:05:44]] TurnQueue: d2
+[[29.4.2026 16:05:44]] === BallKick Başladı ===
+[[29.4.2026 16:05:44]] Player: d2 (472)
+[[29.4.2026 16:05:44]] CurrentPlayer: null
+[[29.4.2026 16:05:44]] GameRunning: false
+[[29.4.2026 16:05:44]] TurnQueue: d2
+[[29.4.2026 16:05:47]] === BallKick Başladı ===
+[[29.4.2026 16:05:47]] Player: d2 (472)
+[[29.4.2026 16:05:47]] CurrentPlayer: null
+[[29.4.2026 16:05:47]] GameRunning: false
+[[29.4.2026 16:05:47]] TurnQueue: d2
+[[29.4.2026 16:05:55]] === BallKick Başladı ===
+[[29.4.2026 16:05:55]] Player: d2 (472)
+[[29.4.2026 16:05:55]] CurrentPlayer: null
+[[29.4.2026 16:05:55]] GameRunning: false
+[[29.4.2026 16:05:55]] TurnQueue: d2
+[[29.4.2026 16:05:59]] === BallKick Başladı ===
+[[29.4.2026 16:05:59]] Player: d2 (472)
+[[29.4.2026 16:05:59]] CurrentPlayer: null
+[[29.4.2026 16:05:59]] GameRunning: false
+[[29.4.2026 16:05:59]] TurnQueue: d2
+[[29.4.2026 16:06:00]] === BallKick Başladı ===
+[[29.4.2026 16:06:00]] Player: d2 (472)
+[[29.4.2026 16:06:00]] CurrentPlayer: null
+[[29.4.2026 16:06:00]] GameRunning: false
+[[29.4.2026 16:06:00]] TurnQueue: d2
+[[29.4.2026 16:06:02]] === BallKick Başladı ===
+[[29.4.2026 16:06:02]] Player: d2 (472)
+[[29.4.2026 16:06:02]] CurrentPlayer: null
+[[29.4.2026 16:06:02]] GameRunning: false
+[[29.4.2026 16:06:02]] TurnQueue: d2
+[[29.4.2026 16:06:03]] === BallKick Başladı ===
+[[29.4.2026 16:06:03]] Player: d2 (472)
+[[29.4.2026 16:06:03]] CurrentPlayer: null
+[[29.4.2026 16:06:03]] GameRunning: false
+[[29.4.2026 16:06:03]] TurnQueue: d2
+[[29.4.2026 16:06:04]] === BallKick Başladı ===
+[[29.4.2026 16:06:04]] Player: d2 (472)
+[[29.4.2026 16:06:04]] CurrentPlayer: null
+[[29.4.2026 16:06:04]] GameRunning: false
+[[29.4.2026 16:06:04]] TurnQueue: d2
+[[29.4.2026 16:06:06]] === BallKick Başladı ===
+[[29.4.2026 16:06:06]] Player: d2 (472)
+[[29.4.2026 16:06:06]] CurrentPlayer: null
+[[29.4.2026 16:06:06]] GameRunning: false
+[[29.4.2026 16:06:06]] TurnQueue: d2
+[[29.4.2026 16:06:06]] === BallKick Başladı ===
+[[29.4.2026 16:06:06]] Player: d2 (472)
+[[29.4.2026 16:06:06]] CurrentPlayer: null
+[[29.4.2026 16:06:06]] GameRunning: false
+[[29.4.2026 16:06:06]] TurnQueue: d2
+[[29.4.2026 16:06:08]] === BallKick Başladı ===
+[[29.4.2026 16:06:08]] Player: d2 (472)
+[[29.4.2026 16:06:08]] CurrentPlayer: null
+[[29.4.2026 16:06:08]] GameRunning: false
+[[29.4.2026 16:06:08]] TurnQueue: d2
+[[29.4.2026 16:06:14]] === BallKick Başladı ===
+[[29.4.2026 16:06:14]] Player: d2 (472)
+[[29.4.2026 16:06:14]] CurrentPlayer: null
+[[29.4.2026 16:06:14]] GameRunning: false
+[[29.4.2026 16:06:14]] TurnQueue: d2
+[[29.4.2026 16:06:16]] === BallKick Başladı ===
+[[29.4.2026 16:06:16]] Player: d2 (472)
+[[29.4.2026 16:06:16]] CurrentPlayer: null
+[[29.4.2026 16:06:16]] GameRunning: false
+[[29.4.2026 16:06:16]] TurnQueue: d2
+[[29.4.2026 16:06:19]] === BallKick Başladı ===
+[[29.4.2026 16:06:19]] Player: d2 (472)
+[[29.4.2026 16:06:19]] CurrentPlayer: null
+[[29.4.2026 16:06:19]] GameRunning: false
+[[29.4.2026 16:06:19]] TurnQueue: d2
+[[29.4.2026 16:06:20]] === BallKick Başladı ===
+[[29.4.2026 16:06:20]] Player: d2 (472)
+[[29.4.2026 16:06:20]] CurrentPlayer: null
+[[29.4.2026 16:06:20]] GameRunning: false
+[[29.4.2026 16:06:20]] TurnQueue: d2
+[[29.4.2026 16:06:22]] === BallKick Başladı ===
+[[29.4.2026 16:06:22]] Player: d2 (472)
+[[29.4.2026 16:06:22]] CurrentPlayer: null
+[[29.4.2026 16:06:22]] GameRunning: false
+[[29.4.2026 16:06:22]] TurnQueue: d2
+[[29.4.2026 16:06:23]] === BallKick Başladı ===
+[[29.4.2026 16:06:23]] Player: d2 (472)
+[[29.4.2026 16:06:23]] CurrentPlayer: null
+[[29.4.2026 16:06:23]] GameRunning: false
+[[29.4.2026 16:06:23]] TurnQueue: d2
+[[29.4.2026 16:06:24]] === BallKick Başladı ===
+[[29.4.2026 16:06:24]] Player: d2 (472)
+[[29.4.2026 16:06:24]] CurrentPlayer: null
+[[29.4.2026 16:06:24]] GameRunning: false
+[[29.4.2026 16:06:24]] TurnQueue: d2
+[[29.4.2026 16:06:25]] === BallKick Başladı ===
+[[29.4.2026 16:06:25]] Player: d2 (472)
+[[29.4.2026 16:06:25]] CurrentPlayer: null
+[[29.4.2026 16:06:25]] GameRunning: false
+[[29.4.2026 16:06:25]] TurnQueue: d2
+[[29.4.2026 16:06:26]] === BallKick Başladı ===
+[[29.4.2026 16:06:26]] Player: d2 (472)
+[[29.4.2026 16:06:26]] CurrentPlayer: null
+[[29.4.2026 16:06:26]] GameRunning: false
+[[29.4.2026 16:06:26]] TurnQueue: d2
+[[29.4.2026 16:06:27]] === BallKick Başladı ===
+[[29.4.2026 16:06:27]] Player: d2 (472)
+[[29.4.2026 16:06:27]] CurrentPlayer: null
+[[29.4.2026 16:06:27]] GameRunning: false
+[[29.4.2026 16:06:27]] TurnQueue: d2
+[[29.4.2026 16:06:28]] === BallKick Başladı ===
+[[29.4.2026 16:06:28]] Player: d2 (472)
+[[29.4.2026 16:06:28]] CurrentPlayer: null
+[[29.4.2026 16:06:28]] GameRunning: false
+[[29.4.2026 16:06:28]] TurnQueue: d2
+[[29.4.2026 16:06:29]] === BallKick Başladı ===
+[[29.4.2026 16:06:29]] Player: d2 (472)
+[[29.4.2026 16:06:29]] CurrentPlayer: null
+[[29.4.2026 16:06:29]] GameRunning: false
+[[29.4.2026 16:06:29]] TurnQueue: d2
+[[29.4.2026 16:06:30]] === BallKick Başladı ===
+[[29.4.2026 16:06:30]] Player: d2 (472)
+[[29.4.2026 16:06:30]] CurrentPlayer: null
+[[29.4.2026 16:06:30]] GameRunning: false
+[[29.4.2026 16:06:30]] TurnQueue: d2
+[[29.4.2026 16:06:31]] === BallKick Başladı ===
+[[29.4.2026 16:06:31]] Player: d2 (472)
+[[29.4.2026 16:06:31]] CurrentPlayer: null
+[[29.4.2026 16:06:31]] GameRunning: false
+[[29.4.2026 16:06:31]] TurnQueue: d2
+[[29.4.2026 16:06:32]] === BallKick Başladı ===
+[[29.4.2026 16:06:32]] Player: d2 (472)
+[[29.4.2026 16:06:32]] CurrentPlayer: null
+[[29.4.2026 16:06:32]] GameRunning: false
+[[29.4.2026 16:06:32]] TurnQueue: d2
+[[29.4.2026 16:06:33]] === BallKick Başladı ===
+[[29.4.2026 16:06:33]] Player: d2 (472)
+[[29.4.2026 16:06:33]] CurrentPlayer: null
+[[29.4.2026 16:06:33]] GameRunning: false
+[[29.4.2026 16:06:33]] TurnQueue: d2
+[[29.4.2026 16:06:34]] === BallKick Başladı ===
+[[29.4.2026 16:06:34]] Player: d2 (472)
+[[29.4.2026 16:06:34]] CurrentPlayer: null
+[[29.4.2026 16:06:34]] GameRunning: false
+[[29.4.2026 16:06:34]] TurnQueue: d2
+[[29.4.2026 16:06:35]] === BallKick Başladı ===
+[[29.4.2026 16:06:35]] Player: d2 (472)
+[[29.4.2026 16:06:35]] CurrentPlayer: null
+[[29.4.2026 16:06:35]] GameRunning: false
+[[29.4.2026 16:06:35]] TurnQueue: d2
+[[29.4.2026 16:06:37]] === BallKick Başladı ===
+[[29.4.2026 16:06:37]] Player: d2 (472)
+[[29.4.2026 16:06:37]] CurrentPlayer: null
+[[29.4.2026 16:06:37]] GameRunning: false
+[[29.4.2026 16:06:37]] TurnQueue: d2
+[[29.4.2026 16:06:38]] === BallKick Başladı ===
+[[29.4.2026 16:06:38]] Player: d2 (472)
+[[29.4.2026 16:06:38]] CurrentPlayer: null
+[[29.4.2026 16:06:38]] GameRunning: false
+[[29.4.2026 16:06:38]] TurnQueue: d2
+[[29.4.2026 16:06:42]] === BallKick Başladı ===
+[[29.4.2026 16:06:42]] Player: d2 (472)
+[[29.4.2026 16:06:42]] CurrentPlayer: null
+[[29.4.2026 16:06:42]] GameRunning: false
+[[29.4.2026 16:06:42]] TurnQueue: d2
+[[29.4.2026 16:06:43]] === BallKick Başladı ===
+[[29.4.2026 16:06:43]] Player: d2 (472)
+[[29.4.2026 16:06:43]] CurrentPlayer: null
+[[29.4.2026 16:06:43]] GameRunning: false
+[[29.4.2026 16:06:43]] TurnQueue: d2
+[[29.4.2026 16:06:45]] === BallKick Başladı ===
+[[29.4.2026 16:06:45]] Player: d2 (472)
+[[29.4.2026 16:06:45]] CurrentPlayer: null
+[[29.4.2026 16:06:45]] GameRunning: false
+[[29.4.2026 16:06:45]] TurnQueue: d2
+[[29.4.2026 16:06:47]] === BallKick Başladı ===
+[[29.4.2026 16:06:47]] Player: d2 (472)
+[[29.4.2026 16:06:47]] CurrentPlayer: null
+[[29.4.2026 16:06:47]] GameRunning: false
+[[29.4.2026 16:06:47]] TurnQueue: d2
+[[29.4.2026 16:06:47]] === BallKick Başladı ===
+[[29.4.2026 16:06:47]] Player: d2 (472)
+[[29.4.2026 16:06:47]] CurrentPlayer: null
+[[29.4.2026 16:06:47]] GameRunning: false
+[[29.4.2026 16:06:47]] TurnQueue: d2
+[[29.4.2026 16:06:51]] === BallKick Başladı ===
+[[29.4.2026 16:06:51]] Player: d2 (472)
+[[29.4.2026 16:06:51]] CurrentPlayer: null
+[[29.4.2026 16:06:51]] GameRunning: false
+[[29.4.2026 16:06:51]] TurnQueue: d2
+[[29.4.2026 16:06:52]] === BallKick Başladı ===
+[[29.4.2026 16:06:52]] Player: d2 (472)
+[[29.4.2026 16:06:52]] CurrentPlayer: null
+[[29.4.2026 16:06:52]] GameRunning: false
+[[29.4.2026 16:06:52]] TurnQueue: d2
+[[29.4.2026 16:06:54]] === BallKick Başladı ===
+[[29.4.2026 16:06:54]] Player: d2 (472)
+[[29.4.2026 16:06:54]] CurrentPlayer: null
+[[29.4.2026 16:06:54]] GameRunning: false
+[[29.4.2026 16:06:54]] TurnQueue: d2
+[[29.4.2026 16:06:56]] === BallKick Başladı ===
+[[29.4.2026 16:06:56]] Player: d2 (472)
+[[29.4.2026 16:06:56]] CurrentPlayer: null
+[[29.4.2026 16:06:56]] GameRunning: false
+[[29.4.2026 16:06:56]] TurnQueue: d2
+[[29.4.2026 16:06:57]] === BallKick Başladı ===
+[[29.4.2026 16:06:57]] Player: d2 (472)
+[[29.4.2026 16:06:57]] CurrentPlayer: null
+[[29.4.2026 16:06:57]] GameRunning: false
+[[29.4.2026 16:06:57]] TurnQueue: d2
+[[29.4.2026 16:06:59]] === BallKick Başladı ===
+[[29.4.2026 16:06:59]] Player: d2 (472)
+[[29.4.2026 16:06:59]] CurrentPlayer: null
+[[29.4.2026 16:06:59]] GameRunning: false
+[[29.4.2026 16:06:59]] TurnQueue: d2
+[[29.4.2026 16:07:00]] === BallKick Başladı ===
+[[29.4.2026 16:07:00]] Player: d2 (472)
+[[29.4.2026 16:07:00]] CurrentPlayer: null
+[[29.4.2026 16:07:00]] GameRunning: false
+[[29.4.2026 16:07:00]] TurnQueue: d2
+[[29.4.2026 16:07:03]] === BallKick Başladı ===
+[[29.4.2026 16:07:03]] Player: d2 (472)
+[[29.4.2026 16:07:03]] CurrentPlayer: null
+[[29.4.2026 16:07:03]] GameRunning: false
+[[29.4.2026 16:07:03]] TurnQueue: d2
+[[29.4.2026 16:07:06]] === BallKick Başladı ===
+[[29.4.2026 16:07:06]] Player: d2 (472)
+[[29.4.2026 16:07:06]] CurrentPlayer: null
+[[29.4.2026 16:07:06]] GameRunning: false
+[[29.4.2026 16:07:06]] TurnQueue: d2
+[[29.4.2026 16:07:07]] === BallKick Başladı ===
+[[29.4.2026 16:07:07]] Player: d2 (472)
+[[29.4.2026 16:07:07]] CurrentPlayer: null
+[[29.4.2026 16:07:07]] GameRunning: false
+[[29.4.2026 16:07:07]] TurnQueue: d2
+[[29.4.2026 16:07:09]] === BallKick Başladı ===
+[[29.4.2026 16:07:09]] Player: d2 (472)
+[[29.4.2026 16:07:09]] CurrentPlayer: null
+[[29.4.2026 16:07:09]] GameRunning: false
+[[29.4.2026 16:07:09]] TurnQueue: d2
+[[29.4.2026 16:07:10]] === BallKick Başladı ===
+[[29.4.2026 16:07:10]] Player: d2 (472)
+[[29.4.2026 16:07:10]] CurrentPlayer: null
+[[29.4.2026 16:07:10]] GameRunning: false
+[[29.4.2026 16:07:10]] TurnQueue: d2
+[[29.4.2026 16:07:11]] === BallKick Başladı ===
+[[29.4.2026 16:07:11]] Player: d2 (472)
+[[29.4.2026 16:07:11]] CurrentPlayer: null
+[[29.4.2026 16:07:11]] GameRunning: false
+[[29.4.2026 16:07:11]] TurnQueue: d2
+[[29.4.2026 16:07:12]] === BallKick Başladı ===
+[[29.4.2026 16:07:12]] Player: d2 (472)
+[[29.4.2026 16:07:12]] CurrentPlayer: null
+[[29.4.2026 16:07:12]] GameRunning: false
+[[29.4.2026 16:07:12]] TurnQueue: d2
+[[29.4.2026 16:07:13]] === BallKick Başladı ===
+[[29.4.2026 16:07:13]] Player: d2 (472)
+[[29.4.2026 16:07:13]] CurrentPlayer: null
+[[29.4.2026 16:07:13]] GameRunning: false
+[[29.4.2026 16:07:13]] TurnQueue: d2
+[[29.4.2026 16:07:14]] === BallKick Başladı ===
+[[29.4.2026 16:07:14]] Player: d2 (472)
+[[29.4.2026 16:07:14]] CurrentPlayer: null
+[[29.4.2026 16:07:14]] GameRunning: false
+[[29.4.2026 16:07:14]] TurnQueue: d2
+[[29.4.2026 16:07:15]] === BallKick Başladı ===
+[[29.4.2026 16:07:15]] Player: d2 (472)
+[[29.4.2026 16:07:15]] CurrentPlayer: null
+[[29.4.2026 16:07:15]] GameRunning: false
+[[29.4.2026 16:07:15]] TurnQueue: d2
+[[29.4.2026 16:07:17]] === BallKick Başladı ===
+[[29.4.2026 16:07:17]] Player: d2 (472)
+[[29.4.2026 16:07:17]] CurrentPlayer: null
+[[29.4.2026 16:07:17]] GameRunning: false
+[[29.4.2026 16:07:17]] TurnQueue: d2
+[[29.4.2026 16:07:17]] Top girdi: red (ID: 7) by d2 (472)
+[[29.4.2026 16:07:17]] Doğru top sokuldu: red by d2. Skor: 3
+[[29.4.2026 16:07:17]] Rakip top kontrolü: red by d2
+[[29.4.2026 16:07:24]] === BallKick Başladı ===
+[[29.4.2026 16:07:24]] Player: d2 (472)
+[[29.4.2026 16:07:24]] CurrentPlayer: null
+[[29.4.2026 16:07:24]] GameRunning: false
+[[29.4.2026 16:07:24]] TurnQueue: d2
+[[29.4.2026 16:07:25]] === BallKick Başladı ===
+[[29.4.2026 16:07:25]] Player: d2 (472)
+[[29.4.2026 16:07:25]] CurrentPlayer: null
+[[29.4.2026 16:07:25]] GameRunning: false
+[[29.4.2026 16:07:25]] TurnQueue: d2
+[[29.4.2026 16:07:27]] === BallKick Başladı ===
+[[29.4.2026 16:07:27]] Player: d2 (472)
+[[29.4.2026 16:07:27]] CurrentPlayer: null
+[[29.4.2026 16:07:27]] GameRunning: false
+[[29.4.2026 16:07:27]] TurnQueue: d2
+[[29.4.2026 16:07:29]] === BallKick Başladı ===
+[[29.4.2026 16:07:29]] Player: d2 (472)
+[[29.4.2026 16:07:29]] CurrentPlayer: null
+[[29.4.2026 16:07:29]] GameRunning: false
+[[29.4.2026 16:07:29]] TurnQueue: d2
+[[29.4.2026 16:07:29]] Top girdi: red (ID: 3) by d2 (472)
+[[29.4.2026 16:07:29]] Doğru top sokuldu: red by d2. Skor: 4
+[[29.4.2026 16:07:29]] Rakip top kontrolü: red by d2
+[[29.4.2026 16:07:30]] === BallKick Başladı ===
+[[29.4.2026 16:07:30]] Player: d2 (472)
+[[29.4.2026 16:07:30]] CurrentPlayer: null
+[[29.4.2026 16:07:30]] GameRunning: false
+[[29.4.2026 16:07:30]] TurnQueue: d2
+[[29.4.2026 16:07:32]] === BallKick Başladı ===
+[[29.4.2026 16:07:32]] Player: d2 (472)
+[[29.4.2026 16:07:32]] CurrentPlayer: null
+[[29.4.2026 16:07:32]] GameRunning: false
+[[29.4.2026 16:07:32]] TurnQueue: d2
+[[29.4.2026 16:07:33]] === BallKick Başladı ===
+[[29.4.2026 16:07:33]] Player: d2 (472)
+[[29.4.2026 16:07:33]] CurrentPlayer: null
+[[29.4.2026 16:07:33]] GameRunning: false
+[[29.4.2026 16:07:33]] TurnQueue: d2
+[[29.4.2026 16:07:34]] Top girdi: red (ID: 10) by d2 (472)
+[[29.4.2026 16:07:34]] Doğru top sokuldu: red by d2. Skor: 5
+[[29.4.2026 16:07:34]] Rakip top kontrolü: red by d2
+[[29.4.2026 16:07:36]] Pending AFK: 
+[[29.4.2026 16:07:36]] Pending AFK: 
+[[29.4.2026 16:07:36]] 🔹 turnQueue: 
+[[29.4.2026 16:07:36]] Odada kalan oyuncu yok.
+[[29.4.2026 16:24:04]] Pending AFK: 
+[[29.4.2026 16:24:04]] 🔹 turnQueue: noob
+[[29.4.2026 16:24:04]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 16:24:10]] === BallKick Başladı ===
+[[29.4.2026 16:24:10]] Player: noob (473)
+[[29.4.2026 16:24:10]] CurrentPlayer: null
+[[29.4.2026 16:24:10]] GameRunning: false
+[[29.4.2026 16:24:10]] TurnQueue: noob
+[[29.4.2026 16:24:18]] === BallKick Başladı ===
+[[29.4.2026 16:24:18]] Player: noob (473)
+[[29.4.2026 16:24:18]] CurrentPlayer: null
+[[29.4.2026 16:24:18]] GameRunning: false
+[[29.4.2026 16:24:18]] TurnQueue: noob
+[[29.4.2026 16:24:26]] === BallKick Başladı ===
+[[29.4.2026 16:24:26]] Player: noob (473)
+[[29.4.2026 16:24:26]] CurrentPlayer: null
+[[29.4.2026 16:24:26]] GameRunning: false
+[[29.4.2026 16:24:26]] TurnQueue: noob
+[[29.4.2026 16:24:31]] === BallKick Başladı ===
+[[29.4.2026 16:24:31]] Player: noob (473)
+[[29.4.2026 16:24:31]] CurrentPlayer: null
+[[29.4.2026 16:24:31]] GameRunning: false
+[[29.4.2026 16:24:31]] TurnQueue: noob
+[[29.4.2026 16:24:41]] === BallKick Başladı ===
+[[29.4.2026 16:24:41]] Player: noob (473)
+[[29.4.2026 16:24:41]] CurrentPlayer: null
+[[29.4.2026 16:24:41]] GameRunning: false
+[[29.4.2026 16:24:41]] TurnQueue: noob
+[[29.4.2026 16:24:55]] Pending AFK: 
+[[29.4.2026 16:24:55]] Pending AFK: 
+[[29.4.2026 16:24:55]] 🔹 turnQueue: 
+[[29.4.2026 16:24:55]] Odada kalan oyuncu yok.
+[[29.4.2026 16:59:11]] Pending AFK: 
+[[29.4.2026 16:59:11]] 🔹 turnQueue: Kazan✔
+[[29.4.2026 16:59:11]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 16:59:38]] === BallKick Başladı ===
+[[29.4.2026 16:59:38]] Player: Kazan✔ (198)
+[[29.4.2026 16:59:38]] CurrentPlayer: null
+[[29.4.2026 16:59:38]] GameRunning: false
+[[29.4.2026 16:59:38]] TurnQueue: Kazan✔
+[[29.4.2026 16:59:45]] === BallKick Başladı ===
+[[29.4.2026 16:59:45]] Player: Kazan✔ (198)
+[[29.4.2026 16:59:45]] CurrentPlayer: null
+[[29.4.2026 16:59:45]] GameRunning: false
+[[29.4.2026 16:59:45]] TurnQueue: Kazan✔
+[[29.4.2026 16:59:46]] Top girdi: red (ID: 7) by Kazan✔ (198)
+[[29.4.2026 16:59:46]] Renk atandı: Kazan✔ -> red, Rakip -> mavi
+[[29.4.2026 16:59:46]] Rakip top kontrolü: red by Kazan✔
+[[29.4.2026 16:59:55]] === BallKick Başladı ===
+[[29.4.2026 16:59:55]] Player: Kazan✔ (198)
+[[29.4.2026 16:59:55]] CurrentPlayer: null
+[[29.4.2026 16:59:55]] GameRunning: false
+[[29.4.2026 16:59:55]] TurnQueue: Kazan✔
+[[29.4.2026 16:59:58]] === BallKick Başladı ===
+[[29.4.2026 16:59:58]] Player: Kazan✔ (198)
+[[29.4.2026 16:59:58]] CurrentPlayer: null
+[[29.4.2026 16:59:58]] GameRunning: false
+[[29.4.2026 16:59:58]] TurnQueue: Kazan✔
+[[29.4.2026 16:59:59]] === BallKick Başladı ===
+[[29.4.2026 16:59:59]] Player: Kazan✔ (198)
+[[29.4.2026 16:59:59]] CurrentPlayer: null
+[[29.4.2026 16:59:59]] GameRunning: false
+[[29.4.2026 16:59:59]] TurnQueue: Kazan✔
+[[29.4.2026 17:00:00]] === BallKick Başladı ===
+[[29.4.2026 17:00:00]] Player: Kazan✔ (198)
+[[29.4.2026 17:00:00]] CurrentPlayer: null
+[[29.4.2026 17:00:00]] GameRunning: false
+[[29.4.2026 17:00:00]] TurnQueue: Kazan✔
+[[29.4.2026 17:00:00]] Top girdi: red (ID: 10) by Kazan✔ (198)
+[[29.4.2026 17:00:00]] Doğru top sokuldu: red by Kazan✔. Skor: 2
+[[29.4.2026 17:00:00]] Rakip top kontrolü: red by Kazan✔
+[[29.4.2026 17:00:01]] === BallKick Başladı ===
+[[29.4.2026 17:00:01]] Player: Kazan✔ (198)
+[[29.4.2026 17:00:01]] CurrentPlayer: null
+[[29.4.2026 17:00:01]] GameRunning: false
+[[29.4.2026 17:00:01]] TurnQueue: Kazan✔
+[[29.4.2026 17:00:03]] === BallKick Başladı ===
+[[29.4.2026 17:00:03]] Player: Kazan✔ (198)
+[[29.4.2026 17:00:03]] CurrentPlayer: null
+[[29.4.2026 17:00:03]] GameRunning: false
+[[29.4.2026 17:00:03]] TurnQueue: Kazan✔
+[[29.4.2026 17:00:04]] === BallKick Başladı ===
+[[29.4.2026 17:00:04]] Player: Kazan✔ (198)
+[[29.4.2026 17:00:04]] CurrentPlayer: null
+[[29.4.2026 17:00:04]] GameRunning: false
+[[29.4.2026 17:00:04]] TurnQueue: Kazan✔
+[[29.4.2026 17:00:05]] === BallKick Başladı ===
+[[29.4.2026 17:00:05]] Player: Kazan✔ (198)
+[[29.4.2026 17:00:05]] CurrentPlayer: null
+[[29.4.2026 17:00:05]] GameRunning: false
+[[29.4.2026 17:00:05]] TurnQueue: Kazan✔
+[[29.4.2026 17:00:10]] === BallKick Başladı ===
+[[29.4.2026 17:00:10]] Player: Kazan✔ (198)
+[[29.4.2026 17:00:10]] CurrentPlayer: null
+[[29.4.2026 17:00:10]] GameRunning: false
+[[29.4.2026 17:00:10]] TurnQueue: Kazan✔
+[[29.4.2026 17:00:13]] === BallKick Başladı ===
+[[29.4.2026 17:00:13]] Player: Kazan✔ (198)
+[[29.4.2026 17:00:13]] CurrentPlayer: null
+[[29.4.2026 17:00:13]] GameRunning: false
+[[29.4.2026 17:00:13]] TurnQueue: Kazan✔
+[[29.4.2026 17:00:13]] === BallKick Başladı ===
+[[29.4.2026 17:00:13]] Player: Kazan✔ (198)
+[[29.4.2026 17:00:13]] CurrentPlayer: null
+[[29.4.2026 17:00:13]] GameRunning: false
+[[29.4.2026 17:00:13]] TurnQueue: Kazan✔
+[[29.4.2026 17:00:16]] === BallKick Başladı ===
+[[29.4.2026 17:00:16]] Player: Kazan✔ (198)
+[[29.4.2026 17:00:16]] CurrentPlayer: null
+[[29.4.2026 17:00:16]] GameRunning: false
+[[29.4.2026 17:00:16]] TurnQueue: Kazan✔
+[[29.4.2026 17:00:17]] === BallKick Başladı ===
+[[29.4.2026 17:00:17]] Player: Kazan✔ (198)
+[[29.4.2026 17:00:17]] CurrentPlayer: null
+[[29.4.2026 17:00:17]] GameRunning: false
+[[29.4.2026 17:00:17]] TurnQueue: Kazan✔
+[[29.4.2026 17:00:21]] Pending AFK: 
+[[29.4.2026 17:00:21]] Pending AFK: 
+[[29.4.2026 17:00:21]] 🔹 turnQueue: 
+[[29.4.2026 17:00:21]] Odada kalan oyuncu yok.
+[[29.4.2026 18:32:48]] Pending AFK: 
+[[29.4.2026 18:32:48]] 🔹 turnQueue: vasat
+[[29.4.2026 18:32:48]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 18:32:54]] === BallKick Başladı ===
+[[29.4.2026 18:32:54]] Player: vasat (474)
+[[29.4.2026 18:32:54]] CurrentPlayer: null
+[[29.4.2026 18:32:54]] GameRunning: false
+[[29.4.2026 18:32:54]] TurnQueue: vasat
+[[29.4.2026 18:32:59]] === BallKick Başladı ===
+[[29.4.2026 18:32:59]] Player: vasat (474)
+[[29.4.2026 18:32:59]] CurrentPlayer: null
+[[29.4.2026 18:32:59]] GameRunning: false
+[[29.4.2026 18:32:59]] TurnQueue: vasat
+[[29.4.2026 18:33:00]] === BallKick Başladı ===
+[[29.4.2026 18:33:00]] Player: vasat (474)
+[[29.4.2026 18:33:00]] CurrentPlayer: null
+[[29.4.2026 18:33:00]] GameRunning: false
+[[29.4.2026 18:33:00]] TurnQueue: vasat
+[[29.4.2026 18:33:05]] === BallKick Başladı ===
+[[29.4.2026 18:33:05]] Player: vasat (474)
+[[29.4.2026 18:33:05]] CurrentPlayer: null
+[[29.4.2026 18:33:05]] GameRunning: false
+[[29.4.2026 18:33:05]] TurnQueue: vasat
+[[29.4.2026 18:33:06]] === BallKick Başladı ===
+[[29.4.2026 18:33:06]] Player: vasat (474)
+[[29.4.2026 18:33:06]] CurrentPlayer: null
+[[29.4.2026 18:33:06]] GameRunning: false
+[[29.4.2026 18:33:06]] TurnQueue: vasat
+[[29.4.2026 18:33:07]] === BallKick Başladı ===
+[[29.4.2026 18:33:07]] Player: vasat (474)
+[[29.4.2026 18:33:07]] CurrentPlayer: null
+[[29.4.2026 18:33:07]] GameRunning: false
+[[29.4.2026 18:33:07]] TurnQueue: vasat
+[[29.4.2026 18:33:08]] Top girdi: red (ID: 3) by vasat (474)
+[[29.4.2026 18:33:08]] Renk atandı: vasat -> red, Rakip -> mavi
+[[29.4.2026 18:33:08]] Rakip top kontrolü: red by vasat
+[[29.4.2026 18:33:08]] === BallKick Başladı ===
+[[29.4.2026 18:33:08]] Player: vasat (474)
+[[29.4.2026 18:33:08]] CurrentPlayer: null
+[[29.4.2026 18:33:08]] GameRunning: false
+[[29.4.2026 18:33:08]] TurnQueue: vasat
+[[29.4.2026 18:33:10]] === BallKick Başladı ===
+[[29.4.2026 18:33:10]] Player: vasat (474)
+[[29.4.2026 18:33:10]] CurrentPlayer: null
+[[29.4.2026 18:33:10]] GameRunning: false
+[[29.4.2026 18:33:10]] TurnQueue: vasat
+[[29.4.2026 18:33:12]] === BallKick Başladı ===
+[[29.4.2026 18:33:12]] Player: vasat (474)
+[[29.4.2026 18:33:12]] CurrentPlayer: null
+[[29.4.2026 18:33:12]] GameRunning: false
+[[29.4.2026 18:33:12]] TurnQueue: vasat
+[[29.4.2026 18:33:13]] === BallKick Başladı ===
+[[29.4.2026 18:33:13]] Player: vasat (474)
+[[29.4.2026 18:33:13]] CurrentPlayer: null
+[[29.4.2026 18:33:13]] GameRunning: false
+[[29.4.2026 18:33:13]] TurnQueue: vasat
+[[29.4.2026 18:33:20]] === BallKick Başladı ===
+[[29.4.2026 18:33:20]] Player: vasat (474)
+[[29.4.2026 18:33:20]] CurrentPlayer: null
+[[29.4.2026 18:33:20]] GameRunning: false
+[[29.4.2026 18:33:20]] TurnQueue: vasat
+[[29.4.2026 18:33:21]] === BallKick Başladı ===
+[[29.4.2026 18:33:21]] Player: vasat (474)
+[[29.4.2026 18:33:21]] CurrentPlayer: null
+[[29.4.2026 18:33:21]] GameRunning: false
+[[29.4.2026 18:33:21]] TurnQueue: vasat
+[[29.4.2026 18:33:22]] === BallKick Başladı ===
+[[29.4.2026 18:33:22]] Player: vasat (474)
+[[29.4.2026 18:33:22]] CurrentPlayer: null
+[[29.4.2026 18:33:22]] GameRunning: false
+[[29.4.2026 18:33:22]] TurnQueue: vasat
+[[29.4.2026 18:33:24]] === BallKick Başladı ===
+[[29.4.2026 18:33:24]] Player: vasat (474)
+[[29.4.2026 18:33:24]] CurrentPlayer: null
+[[29.4.2026 18:33:24]] GameRunning: false
+[[29.4.2026 18:33:24]] TurnQueue: vasat
+[[29.4.2026 18:33:26]] === BallKick Başladı ===
+[[29.4.2026 18:33:26]] Player: vasat (474)
+[[29.4.2026 18:33:26]] CurrentPlayer: null
+[[29.4.2026 18:33:26]] GameRunning: false
+[[29.4.2026 18:33:26]] TurnQueue: vasat
+[[29.4.2026 18:33:27]] === BallKick Başladı ===
+[[29.4.2026 18:33:27]] Player: vasat (474)
+[[29.4.2026 18:33:27]] CurrentPlayer: null
+[[29.4.2026 18:33:27]] GameRunning: false
+[[29.4.2026 18:33:27]] TurnQueue: vasat
+[[29.4.2026 18:33:33]] Pending AFK: 
+[[29.4.2026 18:33:33]] Pending AFK: 
+[[29.4.2026 18:33:33]] 🔹 turnQueue: 
+[[29.4.2026 18:33:33]] Odada kalan oyuncu yok.
+[[29.4.2026 19:58:32]] Pending AFK: 
+[[29.4.2026 19:58:32]] 🔹 turnQueue: eva
+[[29.4.2026 19:58:32]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 19:58:38]] Pending AFK: 
+[[29.4.2026 19:58:38]] Pending AFK: 
+[[29.4.2026 19:58:38]] 🔹 turnQueue: 
+[[29.4.2026 19:58:38]] Odada kalan oyuncu yok.
+[[29.4.2026 20:02:06]] Pending AFK: 
+[[29.4.2026 20:02:06]] 🔹 turnQueue: xkhéva
+[[29.4.2026 20:02:06]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 20:02:18]] === BallKick Başladı ===
+[[29.4.2026 20:02:18]] Player: xkhéva (476)
+[[29.4.2026 20:02:18]] CurrentPlayer: null
+[[29.4.2026 20:02:18]] GameRunning: false
+[[29.4.2026 20:02:18]] TurnQueue: xkhéva
+[[29.4.2026 20:02:25]] === BallKick Başladı ===
+[[29.4.2026 20:02:25]] Player: xkhéva (476)
+[[29.4.2026 20:02:25]] CurrentPlayer: null
+[[29.4.2026 20:02:25]] GameRunning: false
+[[29.4.2026 20:02:25]] TurnQueue: xkhéva
+[[29.4.2026 20:02:27]] === BallKick Başladı ===
+[[29.4.2026 20:02:27]] Player: xkhéva (476)
+[[29.4.2026 20:02:27]] CurrentPlayer: null
+[[29.4.2026 20:02:27]] GameRunning: false
+[[29.4.2026 20:02:27]] TurnQueue: xkhéva
+[[29.4.2026 20:02:29]] === BallKick Başladı ===
+[[29.4.2026 20:02:29]] Player: xkhéva (476)
+[[29.4.2026 20:02:29]] CurrentPlayer: null
+[[29.4.2026 20:02:29]] GameRunning: false
+[[29.4.2026 20:02:29]] TurnQueue: xkhéva
+[[29.4.2026 20:02:34]] === BallKick Başladı ===
+[[29.4.2026 20:02:34]] Player: xkhéva (476)
+[[29.4.2026 20:02:34]] CurrentPlayer: null
+[[29.4.2026 20:02:34]] GameRunning: false
+[[29.4.2026 20:02:34]] TurnQueue: xkhéva
+[[29.4.2026 20:02:36]] === BallKick Başladı ===
+[[29.4.2026 20:02:36]] Player: xkhéva (476)
+[[29.4.2026 20:02:36]] CurrentPlayer: null
+[[29.4.2026 20:02:36]] GameRunning: false
+[[29.4.2026 20:02:36]] TurnQueue: xkhéva
+[[29.4.2026 20:02:38]] === BallKick Başladı ===
+[[29.4.2026 20:02:38]] Player: xkhéva (476)
+[[29.4.2026 20:02:38]] CurrentPlayer: null
+[[29.4.2026 20:02:38]] GameRunning: false
+[[29.4.2026 20:02:38]] TurnQueue: xkhéva
+[[29.4.2026 20:02:44]] === BallKick Başladı ===
+[[29.4.2026 20:02:44]] Player: xkhéva (476)
+[[29.4.2026 20:02:44]] CurrentPlayer: null
+[[29.4.2026 20:02:44]] GameRunning: false
+[[29.4.2026 20:02:44]] TurnQueue: xkhéva
+[[29.4.2026 20:02:49]] Pending AFK: 
+[[29.4.2026 20:02:49]] Pending AFK: 
+[[29.4.2026 20:02:49]] 🔹 turnQueue: 
+[[29.4.2026 20:02:49]] Odada kalan oyuncu yok.
+[[29.4.2026 20:53:25]] Pending AFK: 
+[[29.4.2026 20:53:25]] 🔹 turnQueue: ÜnyeSpor
+[[29.4.2026 20:53:25]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 20:53:28]] Pending AFK: 
+[[29.4.2026 20:53:28]] Pending AFK: 
+[[29.4.2026 20:53:28]] 🔹 turnQueue: 
+[[29.4.2026 20:53:28]] Odada kalan oyuncu yok.
+[[29.4.2026 21:05:39]] Pending AFK: 
+[[29.4.2026 21:05:39]] 🔹 turnQueue: Makul
+[[29.4.2026 21:05:39]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 21:05:48]] === BallKick Başladı ===
+[[29.4.2026 21:05:48]] Player: Makul (477)
+[[29.4.2026 21:05:48]] CurrentPlayer: null
+[[29.4.2026 21:05:48]] GameRunning: false
+[[29.4.2026 21:05:48]] TurnQueue: Makul
+[[29.4.2026 21:06:04]] === BallKick Başladı ===
+[[29.4.2026 21:06:04]] Player: Makul (477)
+[[29.4.2026 21:06:04]] CurrentPlayer: null
+[[29.4.2026 21:06:04]] GameRunning: false
+[[29.4.2026 21:06:04]] TurnQueue: Makul
+[[29.4.2026 21:06:10]] === BallKick Başladı ===
+[[29.4.2026 21:06:10]] Player: Makul (477)
+[[29.4.2026 21:06:10]] CurrentPlayer: null
+[[29.4.2026 21:06:10]] GameRunning: false
+[[29.4.2026 21:06:10]] TurnQueue: Makul
+[[29.4.2026 21:06:18]] === BallKick Başladı ===
+[[29.4.2026 21:06:18]] Player: Makul (477)
+[[29.4.2026 21:06:18]] CurrentPlayer: null
+[[29.4.2026 21:06:18]] GameRunning: false
+[[29.4.2026 21:06:18]] TurnQueue: Makul
+[[29.4.2026 21:06:29]] === BallKick Başladı ===
+[[29.4.2026 21:06:29]] Player: Makul (477)
+[[29.4.2026 21:06:29]] CurrentPlayer: null
+[[29.4.2026 21:06:29]] GameRunning: false
+[[29.4.2026 21:06:29]] TurnQueue: Makul
+[[29.4.2026 21:06:36]] === BallKick Başladı ===
+[[29.4.2026 21:06:36]] Player: Makul (477)
+[[29.4.2026 21:06:36]] CurrentPlayer: null
+[[29.4.2026 21:06:36]] GameRunning: false
+[[29.4.2026 21:06:36]] TurnQueue: Makul
+[[29.4.2026 21:06:46]] === BallKick Başladı ===
+[[29.4.2026 21:06:46]] Player: Makul (477)
+[[29.4.2026 21:06:46]] CurrentPlayer: null
+[[29.4.2026 21:06:46]] GameRunning: false
+[[29.4.2026 21:06:46]] TurnQueue: Makul
+[[29.4.2026 21:06:46]] Top girdi: red (ID: 7) by Makul (477)
+[[29.4.2026 21:06:46]] Renk atandı: Makul -> red, Rakip -> mavi
+[[29.4.2026 21:06:46]] Rakip top kontrolü: red by Makul
+[[29.4.2026 21:07:03]] === BallKick Başladı ===
+[[29.4.2026 21:07:03]] Player: Makul (477)
+[[29.4.2026 21:07:03]] CurrentPlayer: null
+[[29.4.2026 21:07:03]] GameRunning: false
+[[29.4.2026 21:07:03]] TurnQueue: Makul
+[[29.4.2026 21:07:10]] Pending AFK: 
+[[29.4.2026 21:07:10]] Pending AFK: 
+[[29.4.2026 21:07:10]] 🔹 turnQueue: 
+[[29.4.2026 21:07:10]] Odada kalan oyuncu yok.
+[[29.4.2026 23:38:03]] Pending AFK: 
+[[29.4.2026 23:38:03]] 🔹 turnQueue: Erenbaba52
+[[29.4.2026 23:38:03]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 23:38:14]] === BallKick Başladı ===
+[[29.4.2026 23:38:14]] Player: Erenbaba52 (478)
+[[29.4.2026 23:38:14]] CurrentPlayer: null
+[[29.4.2026 23:38:14]] GameRunning: false
+[[29.4.2026 23:38:14]] TurnQueue: Erenbaba52
+[[29.4.2026 23:38:31]] Pending AFK: 
+[[29.4.2026 23:38:31]] Pending AFK: 
+[[29.4.2026 23:38:31]] 🔹 turnQueue: 
+[[29.4.2026 23:38:31]] Odada kalan oyuncu yok.
+[[29.4.2026 23:39:05]] Pending AFK: 
+[[29.4.2026 23:39:05]] 🔹 turnQueue: ARABAM DACCA
+[[29.4.2026 23:39:05]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 23:39:42]] === BallKick Başladı ===
+[[29.4.2026 23:39:42]] Player: ARABAM DACCA (200)
+[[29.4.2026 23:39:42]] CurrentPlayer: null
+[[29.4.2026 23:39:42]] GameRunning: false
+[[29.4.2026 23:39:42]] TurnQueue: ARABAM DACCA
+[[29.4.2026 23:39:49]] === BallKick Başladı ===
+[[29.4.2026 23:39:49]] Player: ARABAM DACCA (200)
+[[29.4.2026 23:39:49]] CurrentPlayer: null
+[[29.4.2026 23:39:49]] GameRunning: false
+[[29.4.2026 23:39:49]] TurnQueue: ARABAM DACCA
+[[29.4.2026 23:39:51]] === BallKick Başladı ===
+[[29.4.2026 23:39:51]] Player: ARABAM DACCA (200)
+[[29.4.2026 23:39:51]] CurrentPlayer: null
+[[29.4.2026 23:39:51]] GameRunning: false
+[[29.4.2026 23:39:51]] TurnQueue: ARABAM DACCA
+[[29.4.2026 23:39:52]] === BallKick Başladı ===
+[[29.4.2026 23:39:52]] Player: ARABAM DACCA (200)
+[[29.4.2026 23:39:52]] CurrentPlayer: null
+[[29.4.2026 23:39:52]] GameRunning: false
+[[29.4.2026 23:39:52]] TurnQueue: ARABAM DACCA
+[[29.4.2026 23:39:52]] === BallKick Başladı ===
+[[29.4.2026 23:39:52]] Player: ARABAM DACCA (200)
+[[29.4.2026 23:39:52]] CurrentPlayer: null
+[[29.4.2026 23:39:52]] GameRunning: false
+[[29.4.2026 23:39:52]] TurnQueue: ARABAM DACCA
+[[29.4.2026 23:39:53]] === BallKick Başladı ===
+[[29.4.2026 23:39:53]] Player: ARABAM DACCA (200)
+[[29.4.2026 23:39:53]] CurrentPlayer: null
+[[29.4.2026 23:39:53]] GameRunning: false
+[[29.4.2026 23:39:53]] TurnQueue: ARABAM DACCA
+[[29.4.2026 23:39:55]] === BallKick Başladı ===
+[[29.4.2026 23:39:55]] Player: ARABAM DACCA (200)
+[[29.4.2026 23:39:55]] CurrentPlayer: null
+[[29.4.2026 23:39:55]] GameRunning: false
+[[29.4.2026 23:39:55]] TurnQueue: ARABAM DACCA
+[[29.4.2026 23:39:55]] === BallKick Başladı ===
+[[29.4.2026 23:39:55]] Player: ARABAM DACCA (200)
+[[29.4.2026 23:39:55]] CurrentPlayer: null
+[[29.4.2026 23:39:55]] GameRunning: false
+[[29.4.2026 23:39:55]] TurnQueue: ARABAM DACCA
+[[29.4.2026 23:39:56]] === BallKick Başladı ===
+[[29.4.2026 23:39:56]] Player: ARABAM DACCA (200)
+[[29.4.2026 23:39:56]] CurrentPlayer: null
+[[29.4.2026 23:39:56]] GameRunning: false
+[[29.4.2026 23:39:56]] TurnQueue: ARABAM DACCA
+[[29.4.2026 23:40:00]] === BallKick Başladı ===
+[[29.4.2026 23:40:00]] Player: ARABAM DACCA (200)
+[[29.4.2026 23:40:00]] CurrentPlayer: null
+[[29.4.2026 23:40:00]] GameRunning: false
+[[29.4.2026 23:40:00]] TurnQueue: ARABAM DACCA
+[[29.4.2026 23:40:02]] Pending AFK: 
+[[29.4.2026 23:40:02]] 🔹 turnQueue: ARABAM DACCA, ANIRA ANIRA BOSCH ALMAK
+[[29.4.2026 23:40:02]] Bilardo map başarıyla yüklendi!
+[[29.4.2026 23:40:02]] Process pendingden önce: ARABAM DACCA, ANIRA ANIRA BOSCH ALMAK
+[[29.4.2026 23:40:02]] Pending AFK: 
+[[29.4.2026 23:40:02]] Process pendingden sonra: ARABAM DACCA, ANIRA ANIRA BOSCH ALMAK
+[[29.4.2026 23:40:02]] 🔹 turnQueue: ARABAM DACCA, ANIRA ANIRA BOSCH ALMAK
+[[29.4.2026 23:40:02]] join check: true, length: 2
+[[29.4.2026 23:40:06]] Pending AFK: 
+[[29.4.2026 23:40:06]] 🔹 turnQueue: ARABAM DACCA, ANIRA ANIRA BOSCH ALMAK, steve
+[[29.4.2026 23:40:06]] join check: true, length: 3
+[[29.4.2026 23:40:14]] === BallKick Başladı ===
+[[29.4.2026 23:40:14]] Player: ARABAM DACCA (200)
+[[29.4.2026 23:40:14]] CurrentPlayer: 200
+[[29.4.2026 23:40:14]] GameRunning: true
+[[29.4.2026 23:40:14]] TurnQueue: ARABAM DACCA, ANIRA ANIRA BOSCH ALMAK, steve
+[[29.4.2026 23:40:35]] === BallKick Başladı ===
+[[29.4.2026 23:40:35]] Player: ANIRA ANIRA BOSCH ALMAK (201)
+[[29.4.2026 23:40:35]] CurrentPlayer: 201
+[[29.4.2026 23:40:35]] GameRunning: true
+[[29.4.2026 23:40:35]] TurnQueue: ARABAM DACCA, ANIRA ANIRA BOSCH ALMAK, steve
+[[29.4.2026 23:40:36]] Top girdi: mavi (ID: 11) by ANIRA ANIRA BOSCH ALMAK (201)
+[[29.4.2026 23:40:36]] Renk atandı: ANIRA ANIRA BOSCH ALMAK -> mavi, Rakip -> red
+[[29.4.2026 23:40:36]] Rakip top kontrolü: mavi by ANIRA ANIRA BOSCH ALMAK
+[[29.4.2026 23:40:54]] === BallKick Başladı ===
+[[29.4.2026 23:40:54]] Player: ANIRA ANIRA BOSCH ALMAK (201)
+[[29.4.2026 23:40:54]] CurrentPlayer: 201
+[[29.4.2026 23:40:54]] GameRunning: true
+[[29.4.2026 23:40:54]] TurnQueue: ARABAM DACCA, ANIRA ANIRA BOSCH ALMAK, steve
+[[29.4.2026 23:41:11]] === BallKick Başladı ===
+[[29.4.2026 23:41:11]] Player: ARABAM DACCA (200)
+[[29.4.2026 23:41:11]] CurrentPlayer: 200
+[[29.4.2026 23:41:11]] GameRunning: true
+[[29.4.2026 23:41:11]] TurnQueue: ARABAM DACCA, ANIRA ANIRA BOSCH ALMAK, steve
+[[29.4.2026 23:41:30]] === BallKick Başladı ===
+[[29.4.2026 23:41:30]] Player: ANIRA ANIRA BOSCH ALMAK (201)
+[[29.4.2026 23:41:30]] CurrentPlayer: 201
+[[29.4.2026 23:41:30]] GameRunning: true
+[[29.4.2026 23:41:30]] TurnQueue: ARABAM DACCA, ANIRA ANIRA BOSCH ALMAK, steve
+[[29.4.2026 23:41:45]] === BallKick Başladı ===
+[[29.4.2026 23:41:45]] Player: ARABAM DACCA (200)
+[[29.4.2026 23:41:45]] CurrentPlayer: 200
+[[29.4.2026 23:41:45]] GameRunning: true
+[[29.4.2026 23:41:45]] TurnQueue: ARABAM DACCA, ANIRA ANIRA BOSCH ALMAK, steve
+[[29.4.2026 23:42:04]] === BallKick Başladı ===
+[[29.4.2026 23:42:04]] Player: ANIRA ANIRA BOSCH ALMAK (201)
+[[29.4.2026 23:42:04]] CurrentPlayer: 201
+[[29.4.2026 23:42:04]] GameRunning: true
+[[29.4.2026 23:42:04]] TurnQueue: ARABAM DACCA, ANIRA ANIRA BOSCH ALMAK, steve
+[[29.4.2026 23:42:19]] === BallKick Başladı ===
+[[29.4.2026 23:42:19]] Player: ARABAM DACCA (200)
+[[29.4.2026 23:42:19]] CurrentPlayer: 200
+[[29.4.2026 23:42:19]] GameRunning: true
+[[29.4.2026 23:42:19]] TurnQueue: ARABAM DACCA, ANIRA ANIRA BOSCH ALMAK, steve
+[[29.4.2026 23:42:46]] === BallKick Başladı ===
+[[29.4.2026 23:42:46]] Player: ANIRA ANIRA BOSCH ALMAK (201)
+[[29.4.2026 23:42:46]] CurrentPlayer: 201
+[[29.4.2026 23:42:46]] GameRunning: true
+[[29.4.2026 23:42:46]] TurnQueue: ARABAM DACCA, ANIRA ANIRA BOSCH ALMAK, steve
+[[29.4.2026 23:43:04]] === BallKick Başladı ===
+[[29.4.2026 23:43:04]] Player: ARABAM DACCA (200)
+[[29.4.2026 23:43:04]] CurrentPlayer: 200
+[[29.4.2026 23:43:04]] GameRunning: true
+[[29.4.2026 23:43:04]] TurnQueue: ARABAM DACCA, ANIRA ANIRA BOSCH ALMAK, steve
+[[29.4.2026 23:43:22]] === BallKick Başladı ===
+[[29.4.2026 23:43:22]] Player: ANIRA ANIRA BOSCH ALMAK (201)
+[[29.4.2026 23:43:22]] CurrentPlayer: 201
+[[29.4.2026 23:43:22]] GameRunning: true
+[[29.4.2026 23:43:22]] TurnQueue: ARABAM DACCA, ANIRA ANIRA BOSCH ALMAK, steve
+[[29.4.2026 23:43:23]] Top girdi: mavi (ID: 15) by ANIRA ANIRA BOSCH ALMAK (201)
+[[29.4.2026 23:43:23]] Doğru top sokuldu: mavi by ANIRA ANIRA BOSCH ALMAK. Skor: 2
+[[29.4.2026 23:43:23]] Rakip top kontrolü: mavi by ANIRA ANIRA BOSCH ALMAK
+[[29.4.2026 23:43:49]] === BallKick Başladı ===
+[[29.4.2026 23:43:49]] Player: ANIRA ANIRA BOSCH ALMAK (201)
+[[29.4.2026 23:43:49]] CurrentPlayer: 201
+[[29.4.2026 23:43:49]] GameRunning: true
+[[29.4.2026 23:43:49]] TurnQueue: ARABAM DACCA, ANIRA ANIRA BOSCH ALMAK, steve
+[[29.4.2026 23:44:01]] Pending AFK: 
+[[29.4.2026 23:44:01]] 🔹 turnQueue: ARABAM DACCA, ANIRA ANIRA BOSCH ALMAK
+[[29.4.2026 23:44:05]] === BallKick Başladı ===
+[[29.4.2026 23:44:05]] Player: ARABAM DACCA (200)
+[[29.4.2026 23:44:05]] CurrentPlayer: 200
+[[29.4.2026 23:44:05]] GameRunning: true
+[[29.4.2026 23:44:05]] TurnQueue: ARABAM DACCA, ANIRA ANIRA BOSCH ALMAK
+[[29.4.2026 23:44:25]] === BallKick Başladı ===
+[[29.4.2026 23:44:25]] Player: ANIRA ANIRA BOSCH ALMAK (201)
+[[29.4.2026 23:44:25]] CurrentPlayer: 201
+[[29.4.2026 23:44:25]] GameRunning: true
+[[29.4.2026 23:44:25]] TurnQueue: ARABAM DACCA, ANIRA ANIRA BOSCH ALMAK
+[[29.4.2026 23:44:47]] === BallKick Başladı ===
+[[29.4.2026 23:44:47]] Player: ARABAM DACCA (200)
+[[29.4.2026 23:44:47]] CurrentPlayer: 200
+[[29.4.2026 23:44:47]] GameRunning: true
+[[29.4.2026 23:44:47]] TurnQueue: ARABAM DACCA, ANIRA ANIRA BOSCH ALMAK
+[[29.4.2026 23:44:48]] Top girdi: siyah (ID: 6) by ARABAM DACCA (200)
+[[29.4.2026 23:44:48]] Rakip top kontrolü: siyah by ARABAM DACCA
+[[29.4.2026 23:44:48]] Already Ranked durumu: true
+[[29.4.2026 23:44:48]] Already Ranked durumu (timeout sonrası): true
+[[29.4.2026 23:44:48]] Already Ranked durumu (restart sonrası): true
+[[29.4.2026 23:44:54]] Pending AFK: 
+[[29.4.2026 23:44:54]] Pending AFK: 
+[[29.4.2026 23:44:54]] 🔹 turnQueue: ANIRA ANIRA BOSCH ALMAK
+[[29.4.2026 23:44:59]] Pending AFK: 
+[[29.4.2026 23:44:59]] Pending AFK: 
+[[29.4.2026 23:44:59]] 🔹 turnQueue: 
+[[29.4.2026 23:44:59]] Odada kalan oyuncu yok.
