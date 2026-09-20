@@ -15,8 +15,8 @@ function formatTimestamp() {
   const now = new Date();
   // Almanya saati
   const options = { timeZone: "Europe/Berlin", hour12: false };
-const date = now.toLocaleDateString("de-DE", options); // DD.MM.YYYY
-const time = now.toLocaleTimeString("de-DE", options); // HH:MM:SS
+  const date = now.toLocaleDateString("de-DE", options); // DD.MM.YYYY
+  const time = now.toLocaleTimeString("de-DE", options); // HH:MM:SS
   return `[${date} ${time}]`;
 }
 
@@ -37,7 +37,7 @@ let pushTimeout;
 function scheduleGitPush() {
   clearTimeout(pushTimeout);
   pushTimeout = setTimeout(async () => {
-   
+
     await gitPushLogs();
   }, 1000); // 1 saniye gecikme
 }
@@ -45,7 +45,15 @@ function scheduleGitPush() {
 function write(message, type = "general") {
   const timestamp = formatTimestamp();
   const filename = getDailyLogFilename(type);
-  const filePath = path.join(LOG_DIR, filename); // türüne göre dosya
+
+  // Yıl/ay'ı dosya adından alıyoruz (ör. join-2026-06-01.txt -> 2026/06)
+  const match = filename.match(/(\d{4})-(\d{2})-\d{2}\.txt$/);
+  const dir = match
+    ? path.join(LOG_DIR, match[1], match[2], type)
+    : path.join(LOG_DIR, type);
+  fs.mkdirSync(dir, { recursive: true }); // klasör yoksa oluşturur
+
+  const filePath = path.join(dir, filename);
   fs.appendFileSync(filePath, `[${timestamp}] ${message}\n`);
 
   scheduleGitPush();
