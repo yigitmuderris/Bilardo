@@ -89,7 +89,7 @@ Room.create({
   name: "🎱BILARDO|1v1 Kurallı 🎱",
   showInRoomList: true,
   noPlayer: true,
-  maxPlayerCount: 4,
+  maxPlayerCount: 2,
   token: tokenForRoom,
   stadium: Bilardo,
   geo: { code: "TR", lat: 39.9199, lon: 32.8543 },
