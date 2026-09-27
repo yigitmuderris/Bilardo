@@ -1,6 +1,8 @@
 // log.js
 const fs = require("fs");
 const path = require("path");
+const cron = require("node-cron");
+
 const { gitPushLogs } = require("./gitPush");
 const { log } = require("console");
 
@@ -32,15 +34,7 @@ function getDailyLogFilename(type) {
   return `${type}-${year}-${month}-${day}.txt`;
 }
 
-// debounce ile push tetikleme
-let pushTimeout;
-function scheduleGitPush() {
-  clearTimeout(pushTimeout);
-  pushTimeout = setTimeout(async () => {
 
-    await gitPushLogs();
-  }, 1000); // 1 saniye gecikme
-}
 
 function write(message, type = "general") {
   const timestamp = formatTimestamp();
@@ -56,8 +50,19 @@ function write(message, type = "general") {
   const filePath = path.join(dir, filename);
   fs.appendFileSync(filePath, `[${timestamp}] ${message}\n`);
 
-  scheduleGitPush();
 }
+
+cron.schedule("0 0 * * *", async () => {
+  console.log("Gece yarısı geldi, log push işlemi başlıyor...");
+  try {
+    await gitPushLogs();
+    logGit("Otomatik push başarılı.");
+  } catch (err) {
+    logGit(`Otomatik push başarısız: ${err.message}`);
+  }
+}, {
+  timezone: "Europe/Berlin"
+});
 
 // Özel fonksiyonlar
 function logChat(message) {
